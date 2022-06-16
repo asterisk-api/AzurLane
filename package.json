@@ -1,0 +1,24 @@
+{
+  "name": "azurlane",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Azur Lane Data",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js statistics equipable voiceline",
+    "deploy": "node src/deploy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asterisk-api/AzurLane.git"
+  },
+  "author": "asterisk-api",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asterisk-api/AzurLane/issues"
+  },
+  "homepage": "https://github.com/asterisk-api/AzurLane#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.6"
+  }
+}
