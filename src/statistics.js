@@ -20,10 +20,12 @@ export default function statistics(
         const name    = api.names.en;
 
         let break_1, break_2, break_3, break_4;
+        let growth_1, growth_2, growth_3, growth_4;
 
         break_1  = stats(api, ship_statistic, 1);
-
+        growth_1 = growth(api, ship_statistic, 4);
         let stats_builder  = [ break_1 ];
+        let growth_builder = [ growth_1 ];
 
         if ( sid.length > 1 )
         {
@@ -32,9 +34,14 @@ export default function statistics(
             break_4 = stats(api, ship_statistic, 4);
 
             stats_builder = [ ...stats_builder, break_2, break_3, break_4 ];
+
+            growth_2 = growth(api, ship_statistic, 2);
+            growth_3 = growth(api, ship_statistic, 3);
+            growth_4 = growth(api, ship_statistic, 4);
+
+            growth_builder = [ ...growth_builder, growth_2, growth_3, growth_4 ];
         };
 
-        const growth_builder   = growth(api, ship_statistic, 1);
         const enhance_builder  = enhance(api, ship_enhance, meta_enhance, meta_repair, meta_effect, research_enhance, research_effect);
         const retrofit_builder = retrofit(api, retrofit_data, retrofit_template);
         const retrofit_id      = retrofit(api, retrofit_data, retrofit_template, true);
@@ -67,6 +74,55 @@ export default function statistics(
                 enhance: enhance_builder
             });
         };
+
+        function statsGet(type, kai=false, level=124, affection=1.06) {
+            let stats   = stats_builder.slice(-1)[0][type];
+            let growth  = growth_builder.slice(-1)[0][type];
+            let enhance = enhance_builder[type];
+
+            let oath    = affection;
+            if ( type === "luck" || type === "speed" ) oath = 1; 
+            if ( kai )
+            {
+                stats   = retrofit_stats[type];
+                growth  = retrofit_growth[type];
+                enhance = retrofit_enhance[type];
+            };
+            return Math.floor( ( stats + ( ( growth * level ) / 1000 ) + enhance ) * oath );
+        };
+
+        function consoleGet(type, kai=false) {
+            let subtype = type;
+            if ( type === "asw" ) subtype = "antisubmarineWarfare";
+            if ( type === "hit" ) subtype = "accuracy";
+            let stats_1 = statsGet(type);
+            let stats_2 = api.stats.level125[subtype];
+
+            if ( stats_1.toString() !== stats_2.toString() )
+                console.log(name + " = " + type + " = " + stats_1 + " !== " + stats_2);
+
+            if ( kai )
+            {
+                stats_1 = retrofit_builder[type] + statsGet(type, true);
+                stats_2 = api.stats.level125Retrofit[subtype];
+
+                if ( stats_1.toString() !== stats_2.toString() )
+                    console.log(name + " = kai = " + type + " = " + stats_1 + " !== " + stats_2);
+            };
+        };
+
+        consoleGet("health");
+        consoleGet("firepower");
+        consoleGet("torpedo");
+        consoleGet("antiair");
+        consoleGet("aviation");
+        consoleGet("reload");
+        consoleGet("hit");
+        consoleGet("evasion");
+        consoleGet("speed");
+        consoleGet("luck");
+        consoleGet("asw");
+
     });
 
     fs.writeFile("./dist/statistics.json", JSON.stringify(json_builder, null, '\t'), 'utf8', function (err) {
