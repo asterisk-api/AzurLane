@@ -1674,7 +1674,7 @@
 					},
 					{
 						"type": "unlock",
-						"line": "Commander, I am the 3rd ship of Leander class light cruisers, Ajax. I'm quite famous despite how I look... Commander,"
+						"line": " Commander, I am the 3rd ship of Leander class light cruisers, Ajax. I'm quite famous despite how I look... Commander, you'd be surprised at what I have in my closet. Would you like to take a look? Giggles"
 					},
 					{
 						"type": "upgrade",
@@ -87832,7 +87832,7 @@
 		"skins": [
 			{
 				"id": "408010",
-				"name": "U81",
+				"name": "Default",
 				"voiceline": [
 					{
 						"type": "battle",
