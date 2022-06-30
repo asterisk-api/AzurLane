@@ -11726,6 +11726,44 @@
 						"line": "I heard that this place is famous for its festivals with beautiful fireworks, so I made sure to come dressed for the occasion... What do you think? ...I'm even more beautiful? Well, I couldn't let the fireworks be the only things leaving an impression upon you tonight! Ahaha, just kidding~"
 					}
 				]
+			},
+			{
+				"id": "102254",
+				"name": "Romeo or Juliet?",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "You can't tell whether I'm playing the male or the female lead? Well, I've not decided on that yet, so I've read both their scripts. And don't worry, I can dress the part if I go for the male role. Hahahah!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "The cast is all here. So, what do we rehearse first? The part where we elope and live happily ever after? Hahahah!"
+					},
+					{
+						"type": "home",
+						"line": "Welcome back, Commander. While coming home is a trying experience in certain love stories, I'm guessing everything went fine for you? That's good."
+					},
+					{
+						"type": "login",
+						"line": "What's the mask for? It's a prop used in musicals. Speaking of which, could you help me practice my part, Commander? All right, let's get to it... \"Let us soar above a common bound~\""
+					},
+					{
+						"type": "mail",
+						"line": "There's a letter for you. Be sure to read it. Who knows, it could be from someone dear to you."
+					},
+					{
+						"type": "main",
+						"line": "\"O Commander, Commander, wherefore art thou the Commander?\" ...Surprised? See, this line actually has a tragic story to it...|\"What light through yonder window breaks? It is the east, and the Commander is the sun!\" ...I'm just reciting lines here. Don't take it at face value, all right?|Hmm. I think I can pull off either role... Commander, which do you think suits me best? I was thinking I'd let Cleve play whichever one I don't take in the end."
+					},
+					{
+						"type": "touch",
+						"line": "Why are you holding my hand? Are you asking me for a dance? Sure, let's do it."
+					},
+					{
+						"type": "unlock",
+						"line": "The cast is all here. So, what do we rehearse first? The part where we elope and live happily ever after? Hahahah!"
+					}
+				]
 			}
 		]
 	},
@@ -43527,6 +43565,48 @@
 					{
 						"type": "unlock",
 						"line": "Hmm? Is it unusual? Hah. Even I require a change of pace to clear my mind every so often. Commander, why don't you come out and get some fresh air as well?"
+					}
+				]
+			},
+			{
+				"id": "302132",
+				"name": "The Gray Wolf's Ploy",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "If you think about it, the Big Bad Wolf's plan has so many holes in it. For example, he could have left the grandmother alive and used her as bait... Ehehe, I'm just playing around."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "\"Where do you think you're going so early in the morning, Little Red Riding Hood?\" ...Oh, if it isn't the Commander. This might be my own little whim, but I often find myself thinking the same way as this character... If you don't mind, I'd like to hear your feedback about my acting."
+					},
+					{
+						"type": "home",
+						"line": "Well done. I'll evaluate your battle plans for you, just like you evaluated my acting skills for me."
+					},
+					{
+						"type": "login",
+						"line": "Even in fairytale-esque stories, there are hints of deception and trickery hidden throughout. Basically, make sure to stay on guard as you usually do...Hehehe♪"
+					},
+					{
+						"type": "main",
+						"line": "The moment you plan on striking down your prey is the moment you should be most alert. One can never know when a hunter might try to use the opportunity for their own benefit.|Speaking of hunters, none are better suited for the role than Sendai. I really wouldn't want to make an enemy out of her, even if it's just an act.|Hmm... I know I have it down in my head, but when I start to act it out, I keep running into trouble. Do you have any advice for me, Commander?"
+					},
+					{
+						"type": "touch",
+						"line": "This outfit? ...Oh, it's what I have on before I turn into the grandmother."
+					},
+					{
+						"type": "touch2",
+						"line": "And, checkmate. Hehehe~"
+					},
+					{
+						"type": "unlock",
+						"line": "\"Where do you think you're going so early in the morning, Little Red Riding Hood?\" ...Oh, if it isn't the Commander. This might be my own little whim, but I often find myself thinking the same way as this character... If you don't mind, I'd like to hear your feedback about my acting."
+					},
+					{
+						"type": "win_mvp",
+						"line": "Maybe I should gobble you right up."
 					}
 				]
 			},
@@ -77267,6 +77347,56 @@
 					{
 						"type": "win_mvp",
 						"line": "I'm the fastest, strongest destroyer... And that's a fact!"
+					}
+				]
+			},
+			{
+				"id": "301292",
+				"name": "The White Rabbit of Wonderland",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "The sheer scale of this set is staggering! I've run around all over the place and still found no sign of the exit... What?! I've been going in circles all this time?!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Whoa-whoa-whoa! Why'd I end up here again?! Even though I've been running for a whole hour! ...Commander?! Waaaah, I'm so glad to see you! Please, help me get out of heeeeeeere!"
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team has come back! But as it stands now, we can't meet them!"
+					},
+					{
+						"type": "home",
+						"line": "Ah, Commander! Heehee~ I stumbled across this delicious tea just earlier! Join me on a break and we'll drink it together!"
+					},
+					{
+						"type": "login",
+						"line": "After much thinking, I've realized that I'm not Alice, but rather the White Rabbit! So isn't it weird that I'm lost in here?"
+					},
+					{
+						"type": "main",
+						"line": "Whoa! There's cake over there! Heehee... No, Commander! Finding the exit comes first, like I told you before!|If Suruga was here, how would she... Wait, COULD Suruga even find a way out of this place? Because I am completely out of ideas!|There's the exit! Watch, I'm going to make a mad dash for– Owie! Th-this is just a dang mirror!"
+					},
+					{
+						"type": "mission",
+						"line": "Laffey could find a way out if she were here... Whoa! Word of a new mission just came in!"
+					},
+					{
+						"type": "touch",
+						"line": "Mhm! Allow me to show you the right path to your destination!"
+					},
+					{
+						"type": "touch2",
+						"line": "At least it's not my... No, ears or not, it's embarrassing when you touch me like that!"
+					},
+					{
+						"type": "unlock",
+						"line": "Whoa-whoa-whoa! Why'd I end up here again?! Even though I've been running for a whole hour! ...Commander?! Waaaah, I'm so glad to see you! Please, help me get out of heeeeeeere!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Hippity hoppity! That's what happens when you underestimate me!"
 					}
 				]
 			}
