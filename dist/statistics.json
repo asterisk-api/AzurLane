@@ -17798,6 +17798,132 @@
 		}
 	},
 	{
+		"id": "557",
+		"gid": 20232,
+		"name": "Enterprise",
+		"stats": [
+			{
+				"health": 603,
+				"firepower": 28,
+				"torpedo": 53,
+				"antiair": 65,
+				"aviation": 0,
+				"reload": 68,
+				"hit": 58,
+				"evasion": 30,
+				"speed": 33,
+				"luck": 83,
+				"asw": 34
+			},
+			{
+				"health": 750,
+				"firepower": 35,
+				"torpedo": 66,
+				"antiair": 81,
+				"aviation": 0,
+				"reload": 68,
+				"hit": 58,
+				"evasion": 30,
+				"speed": 33,
+				"luck": 83,
+				"asw": 43
+			},
+			{
+				"health": 1044,
+				"firepower": 49,
+				"torpedo": 92,
+				"antiair": 113,
+				"aviation": 0,
+				"reload": 68,
+				"hit": 58,
+				"evasion": 30,
+				"speed": 33,
+				"luck": 83,
+				"asw": 60
+			},
+			{
+				"health": 1485,
+				"firepower": 69,
+				"torpedo": 132,
+				"antiair": 160,
+				"aviation": 0,
+				"reload": 68,
+				"hit": 58,
+				"evasion": 30,
+				"speed": 33,
+				"luck": 83,
+				"asw": 85
+			}
+		],
+		"growth": [
+			{
+				"health": 15570,
+				"firepower": 386,
+				"torpedo": 718,
+				"antiair": 1367,
+				"aviation": 0,
+				"reload": 475,
+				"hit": 864,
+				"evasion": 678,
+				"speed": 0,
+				"luck": 0,
+				"asw": 410
+			},
+			{
+				"health": 15570,
+				"firepower": 386,
+				"torpedo": 718,
+				"antiair": 1367,
+				"aviation": 0,
+				"reload": 475,
+				"hit": 864,
+				"evasion": 678,
+				"speed": 0,
+				"luck": 0,
+				"asw": 410
+			},
+			{
+				"health": 15570,
+				"firepower": 386,
+				"torpedo": 718,
+				"antiair": 1367,
+				"aviation": 0,
+				"reload": 475,
+				"hit": 864,
+				"evasion": 678,
+				"speed": 0,
+				"luck": 0,
+				"asw": 410
+			},
+			{
+				"health": 15570,
+				"firepower": 386,
+				"torpedo": 718,
+				"antiair": 1367,
+				"aviation": 0,
+				"reload": 475,
+				"hit": 864,
+				"evasion": 678,
+				"speed": 0,
+				"luck": 0,
+				"asw": 410
+			}
+		],
+		"enhance": {
+			"health": 0,
+			"firepower": 28,
+			"torpedo": 53,
+			"antiair": 0,
+			"aviation": 0,
+			"reload": 51,
+			"hit": 0,
+			"evasion": 0,
+			"speed": 0,
+			"luck": 0,
+			"asw": 0
+		}
+	},
+	{
 		"id": "077",
 		"gid": 10706,
 		"name": "Enterprise",
@@ -32520,6 +32646,132 @@
 		}
 	},
 	{
+		"id": "555",
+		"gid": 90701,
+		"name": "Joffre",
+		"stats": [
+			{
+				"health": 1080,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 58,
+				"aviation": 79,
+				"reload": 47,
+				"hit": 33,
+				"evasion": 14,
+				"speed": 33.5,
+				"luck": 28,
+				"asw": 0
+			},
+			{
+				"health": 1343,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 72,
+				"aviation": 98,
+				"reload": 47,
+				"hit": 33,
+				"evasion": 14,
+				"speed": 33.5,
+				"luck": 28,
+				"asw": 0
+			},
+			{
+				"health": 1870,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 101,
+				"aviation": 137,
+				"reload": 47,
+				"hit": 33,
+				"evasion": 14,
+				"speed": 33.5,
+				"luck": 28,
+				"asw": 0
+			},
+			{
+				"health": 2661,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 143,
+				"aviation": 196,
+				"reload": 47,
+				"hit": 33,
+				"evasion": 14,
+				"speed": 33.5,
+				"luck": 28,
+				"asw": 0
+			}
+		],
+		"growth": [
+			{
+				"health": 27674,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 1238,
+				"aviation": 979,
+				"reload": 325,
+				"hit": 491,
+				"evasion": 283,
+				"speed": 0,
+				"luck": 0,
+				"asw": 0
+			},
+			{
+				"health": 27674,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 1238,
+				"aviation": 979,
+				"reload": 325,
+				"hit": 491,
+				"evasion": 283,
+				"speed": 0,
+				"luck": 0,
+				"asw": 0
+			},
+			{
+				"health": 27674,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 1238,
+				"aviation": 979,
+				"reload": 325,
+				"hit": 491,
+				"evasion": 283,
+				"speed": 0,
+				"luck": 0,
+				"asw": 0
+			},
+			{
+				"health": 27674,
+				"firepower": 0,
+				"torpedo": 0,
+				"antiair": 1238,
+				"aviation": 979,
+				"reload": 325,
+				"hit": 491,
+				"evasion": 283,
+				"speed": 0,
+				"luck": 0,
+				"asw": 0
+			}
+		],
+		"enhance": {
+			"health": 0,
+			"firepower": 0,
+			"torpedo": 0,
+			"antiair": 0,
+			"aviation": 78,
+			"reload": 35,
+			"hit": 0,
+			"evasion": 0,
+			"speed": 0,
+			"luck": 0,
+			"asw": 0
+		}
+	},
+	{
 		"id": "035",
 		"gid": 10207,
 		"name": "Juneau",
@@ -37716,6 +37968,132 @@
 			"antiair": 0,
 			"aviation": 0,
 			"reload": 48,
+			"hit": 0,
+			"evasion": 0,
+			"speed": 0,
+			"luck": 0,
+			"asw": 0
+		}
+	},
+	{
+		"id": "556",
+		"gid": 90113,
+		"name": "L'Indomptable",
+		"stats": [
+			{
+				"health": 351,
+				"firepower": 26,
+				"torpedo": 50,
+				"antiair": 30,
+				"aviation": 0,
+				"reload": 76,
+				"hit": 69,
+				"evasion": 83,
+				"speed": 54,
+				"luck": 23,
+				"asw": 49
+			},
+			{
+				"health": 437,
+				"firepower": 32,
+				"torpedo": 62,
+				"antiair": 37,
+				"aviation": 0,
+				"reload": 76,
+				"hit": 69,
+				"evasion": 83,
+				"speed": 54,
+				"luck": 23,
+				"asw": 61
+			},
+			{
+				"health": 608,
+				"firepower": 45,
+				"torpedo": 87,
+				"antiair": 52,
+				"aviation": 0,
+				"reload": 76,
+				"hit": 69,
+				"evasion": 83,
+				"speed": 54,
+				"luck": 23,
+				"asw": 85
+			},
+			{
+				"health": 864,
+				"firepower": 65,
+				"torpedo": 124,
+				"antiair": 74,
+				"aviation": 0,
+				"reload": 76,
+				"hit": 69,
+				"evasion": 83,
+				"speed": 54,
+				"luck": 23,
+				"asw": 122
+			}
+		],
+		"growth": [
+			{
+				"health": 9992,
+				"firepower": 361,
+				"torpedo": 683,
+				"antiair": 652,
+				"aviation": 0,
+				"reload": 529,
+				"hit": 1057,
+				"evasion": 1501,
+				"speed": 0,
+				"luck": 0,
+				"asw": 560
+			},
+			{
+				"health": 9992,
+				"firepower": 361,
+				"torpedo": 683,
+				"antiair": 652,
+				"aviation": 0,
+				"reload": 529,
+				"hit": 1057,
+				"evasion": 1501,
+				"speed": 0,
+				"luck": 0,
+				"asw": 560
+			},
+			{
+				"health": 9992,
+				"firepower": 361,
+				"torpedo": 683,
+				"antiair": 652,
+				"aviation": 0,
+				"reload": 529,
+				"hit": 1057,
+				"evasion": 1501,
+				"speed": 0,
+				"luck": 0,
+				"asw": 560
+			},
+			{
+				"health": 9992,
+				"firepower": 361,
+				"torpedo": 683,
+				"antiair": 652,
+				"aviation": 0,
+				"reload": 529,
+				"hit": 1057,
+				"evasion": 1501,
+				"speed": 0,
+				"luck": 0,
+				"asw": 560
+			}
+		],
+		"enhance": {
+			"health": 0,
+			"firepower": 26,
+			"torpedo": 50,
+			"antiair": 0,
+			"aviation": 0,
+			"reload": 57,
 			"hit": 0,
 			"evasion": 0,
 			"speed": 0,

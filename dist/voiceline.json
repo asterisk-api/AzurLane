@@ -24073,6 +24073,132 @@
 		]
 	},
 	{
+		"id": "557",
+		"gid": 20232,
+		"name": "Enterprise",
+		"skins": [
+			{
+				"id": "202320",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Much easier than taking care of my friends...!",
+						"oath": "This is just as important... as taking care of my Master!"
+					},
+					{
+						"type": "detail",
+						"line": "Doing the bare minimum is unacceptable, whether for the maid or for the master. Please pull yourself together.",
+						"oath": "Even if you say I'm too methodical... T-that's just the kind of girl I am, so I can't do anything about it. ...If you don't like it, why don't you just ask another girl to do it for you, huh?"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Emerald-class light cruiser –Enterprise."
+					},
+					{
+						"type": "expedition",
+						"line": "A commission has been completed. Please go take a look, Master."
+					},
+					{
+						"type": "feeling1",
+						"line": "I am only serving you because you are my master. There's nothing more to it."
+					},
+					{
+						"type": "feeling2",
+						"line": "Please feel free to call upon me whenever you need something. Be it cleaning your office or cleaning the battlefield, anything from maid work to military affairs fall within my purview."
+					},
+					{
+						"type": "feeling3",
+						"line": "There's a girl you're interested in? Well then, if you'd like me to investigate more about her, please tell me her name. While I'd criticize you for being tactless, if it's your order... You won't tell me? Understood..."
+					},
+					{
+						"type": "feeling4",
+						"line": "You want to know how to confess to a girl you're keen on... E-even if you ask me, I wouldn't know anything about that... Don't you think I'm the wrong person to ask about love?"
+					},
+					{
+						"type": "feeling5",
+						"line": "This has to be some kind of joke. You're just trying to make fun of me, aren't you? ...N-no way... Of all people, I can't believe the person you were interested in was me all along... I can't believe it...",
+						"oath": "You want to know how to invite someone you like on a date...? Huh, there's no way I'd tell you. I can't believe you'd ask someone you've exchanged vows with to tell you how to take other girls on dates... Huh?! T-then why don't we go on a date right now...? You should have told me that it was about me in the first place!"
+					},
+					{
+						"type": "headtouch",
+						"line": "Wh-what is it...?"
+					},
+					{
+						"type": "home",
+						"line": "Good work out there. Master, please head on out for your debriefing.",
+						"oath": "Well done. Um, how about taking a short break before reviewing your plans...? Come on, look at how tired you are..."
+					},
+					{
+						"type": "hp_warning",
+						"line": "Keep calm, and carry on...!"
+					},
+					{
+						"type": "login",
+						"line": "I see you've arrived, Master. Here is your schedule for the day.",
+						"oath": "Master, what will you start off with today? How about leaving your clerical duties to me and heading out to start with some training exercises?"
+					},
+					{
+						"type": "lose",
+						"line": "We lost... But it's not your fault, Master. I should've worked harder."
+					},
+					{
+						"type": "mail",
+						"line": "You've got mail, Master. I'll bring it over right away."
+					},
+					{
+						"type": "main",
+						"line": "Given your current efficiency, it seems unlikely that you'll be able to finish your work today, Master. Since Emerald won't be of any use, shall I call upon some of the other Royal Maids for assistance?|Glasgow, I really enjoyed the manga you recommended the other day. What would you recommend next... Master?! I'm not up to anything, I swear!|Please leave the cleaning to me. I'll make sure to take care of it without getting in the way of your work.",
+						"extra": "You look like you're ready to take on the world. ...Sheffield told you that as well? I-I see... I'm not jealous at all, alright...?|I enjoy reading both manga and literature. Speaking of which, what are some of your favorite books?|You need something cleaned? Sure thing, I'm on my way...!"
+					},
+					{
+						"type": "mission",
+						"line": "New missions are in. They'll be done in no time if we work together."
+					},
+					{
+						"type": "mission_complete",
+						"line": "That's all I can do for you. I'll leave you to check on the rewards."
+					},
+					{
+						"type": "profile",
+						"line": "I am Enterprise, an Emerald-class light cruiser belonging to the Royal Navy. In the great war, I participated in support, escort, and transport missions, and even participated in combat from time to time. At the Bay of Biscay... Ahem, forget I mentioned it."
+					},
+					{
+						"type": "propose",
+						"line": "From the way the celebration hall is decorated, to the blessings I've received from my friends, there's nothing lacking... I, I truly can't believe that I'm exchanging vows with you, Master... Ahh, I must be dreaming..."
+					},
+					{
+						"type": "skill",
+						"line": "I'll wipe the floor with you all!"
+					},
+					{
+						"type": "touch",
+						"line": "Did you need my advice?",
+						"oath": "I-if you just want to chat, we can do it later..."
+					},
+					{
+						"type": "touch2",
+						"line": "...I'm going to get upset.",
+						"oath": "I'm sure you do this to the other girls too, don't you? That's why you're doing this to...W-wah?!"
+					},
+					{
+						"type": "unlock",
+						"line": "I am the Royal Maid, Enterprise. I have been assigned to this port starting today. As part of the maids, I am in charge of cleaning, and my hobby is reading about all kinds of trivia. That's all I have to report."
+					},
+					{
+						"type": "upgrade",
+						"line": "Thank you for making me stronger, Master. I shall return this debt to you in battle."
+					},
+					{
+						"type": "win_mvp",
+						"line": "We won. Didn't take much brainpower either.",
+						"oath": "We won. Master, thank you for always creating the best battle plans for us."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "077",
 		"gid": 10706,
 		"name": "Enterprise",
@@ -43663,6 +43789,169 @@
 		]
 	},
 	{
+		"id": "555",
+		"gid": 90701,
+		"name": "Joffre",
+		"skins": [
+			{
+				"id": "907010",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "In the name of the Vichya, I shall bring down punishment upon thee.",
+						"oath": "Accept this divine punishment."
+					},
+					{
+						"type": "detail",
+						"line": "Bringing down punishment upon sinners—that is the sole reason for my existence. As for whether you will need to be judged or not, it is still too early to tell.",
+						"oath": "Are you curious about the Sacrament of Love? Of course, I don't mind sharing with you—In order to make it easier for you to understand, why don't we go on a date?"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Joffre-class aircraft carrier – Joffre."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission fleet has returned. Such is the Holy Iris's will."
+					},
+					{
+						"type": "feeling1",
+						"line": "Please don't force me to carry out my \"duties\" upon you. That would only make everyone sad."
+					},
+					{
+						"type": "feeling2",
+						"line": "My duty here is to \"battle,\" not to judge, right? Do not worry. I shan't do anything that causes you worry."
+					},
+					{
+						"type": "feeling3",
+						"line": "My duty here isn't solely to battle, but also to get along with the others at the port? Understood. If those are your orders as the leader of this port, then I shall see them done."
+					},
+					{
+						"type": "feeling4",
+						"line": "Don't just try to get along with the others, but also try to have fun...? But for me, having fun means doing my \"other\" job... Heh, just kidding. I had fun watching your reaction just now. Ehehe."
+					},
+					{
+						"type": "feeling5",
+						"line": "I don't like to mince words, so I will tell you this. On your next day off, how about going on a date with me? If you turn me down, I guess I'll have to—Hehehe, I see. I'll be looking forward to it then, Commander."
+					},
+					{
+						"type": "home",
+						"line": "I shall judge the results of your battles on behalf of the Holy Iris. ...Well done. That was a magnificent victory.",
+						"oath": "There is no need to fret. I am very well aware that all your battles are magnificent. What need is there for me to pass judgment?"
+					},
+					{
+						"type": "hp_warning",
+						"line": "So long as my wings don't break...!"
+					},
+					{
+						"type": "login",
+						"line": "Done with your morning prayers already? ...My apologies. Asking that of you is rather inappropriate on my part.",
+						"oath": "Commander, let us pray together. I got up two hours late just to match you."
+					},
+					{
+						"type": "lose",
+						"line": "This is merely a trial under the guise of defeat..."
+					},
+					{
+						"type": "mail",
+						"line": "It seems there's some new mail for you. Let's go check on it."
+					},
+					{
+						"type": "main",
+						"line": "Because I am one who judges sinners, in a sense, I hate everyone. All humans are born sinners, after all.|Why did you stop working? If I'm not mistaken, you still have missions to take care of...?|I am not here to judge whether your actions are good or evil. Rather, I am here to judge your existence itself.",
+						"extra": "The Independence-class... I don't think those girls understand the Holy Iris's will, but they sure fight well.|While I may no longer hold the qualification to pass judgment upon you, I am still qualified to continue observing your actions. That's the duty of a secretary ship, after all. Hehehe."
+					},
+					{
+						"type": "mission",
+						"line": "Your missions have arrived. Whether or not I pass judgment upon you depends on your progress.",
+						"oath": "Whether or not I pass judgment upon you depends on your progress... Just kidding, of course. Let's work at a reasonable pace."
+					},
+					{
+						"type": "mission_complete",
+						"line": "The rewards for your missions are here. Take them without succumbing to greed."
+					},
+					{
+						"type": "profile",
+						"line": "I am the aircraft carrier, Joffre. I was constructed to face off against Iron Blood carriers during the great war, but due to various misfortunes, I was fated to a life of continually being laid down and halted again, never getting to see the light of day. I have no doubt that was yet another of my many trials."
+					},
+					{
+						"type": "propose",
+						"line": "I swear upon the name of the Holy Iris that our vows shall hold us together evermore. ...And with that, I am no longer fit to pass judgment upon you, but that's just fine with me. I'll just have to make good use of my newly-acquired qualification to love you instead. Hehehe."
+					},
+					{
+						"type": "skill",
+						"line": "I deem thee... Guilty!"
+					},
+					{
+						"type": "touch",
+						"line": "Is something the matter?",
+						"oath": "What is it? Did you need something from me?"
+					},
+					{
+						"type": "touch2",
+						"line": "...Accept my judgment.",
+						"oath": "Hehehe..."
+					},
+					{
+						"type": "unlock",
+						"line": "By the power vested in me by the Holy Iris, I am aircraft carrier Joffre. I see that you are the Commander of this port. Hehehe, may you also receive the Iris's blessings."
+					},
+					{
+						"type": "upgrade",
+						"line": "As the Holy Iris wills."
+					},
+					{
+						"type": "win_mvp",
+						"line": "It is time for you to repent. Your life shall continue no longer. Soon, your remains shall become the foundations for our victory."
+					}
+				]
+			},
+			{
+				"id": "907011",
+				"name": "Ensorcelled Snow White",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "If I end up being hunted down, I'll fight back with all I've got. That's the best way of ensuring my survival."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Were you planning on freeing me from this spell? Then I suppose you're prepared to lock lips with me. Even though I'm already awake, um... that's just part of the ritual."
+					},
+					{
+						"type": "home",
+						"line": "My little mirror told me that you'd be arriving shortly. ...Hehe, that's a joke of course."
+					},
+					{
+						"type": "login",
+						"line": "Welcome back. What role will you be playing today? A dwarf? Or are you... my prince in shining armor?"
+					},
+					{
+						"type": "main",
+						"line": "I won't drop dead from eating a poisoned apple or two. Unlike you, I'm built pretty tough.|\"Seven dwarves\"...Hmm. Why don't we ask the Manjuus to play that part?|You know, I never expected Algérie to play a part like that. Though, I didn't expect to be playing the role of a princess either."
+					},
+					{
+						"type": "mission",
+						"line": "We've received a new mission. How should we proceed?"
+					},
+					{
+						"type": "touch",
+						"line": "You want to be my prince? That's fine with me."
+					},
+					{
+						"type": "touch2",
+						"line": "You're acting just like a famished wolf right now, hehehe."
+					},
+					{
+						"type": "unlock",
+						"line": "Were you planning on freeing me from this spell? Then I suppose you're prepared to lock lips with me. Even though I'm already awake, um... that's just part of the ritual."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "035",
 		"gid": 10207,
 		"name": "Juneau",
@@ -49684,6 +49973,208 @@
 					{
 						"type": "win_mvp",
 						"line": "Hmph, so that’s all they amounted to."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "556",
+		"gid": 90113,
+		"name": "L'Indomptable",
+		"skins": [
+			{
+				"id": "901130",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "I'll teach you what painful things happen to those who cross the line!",
+						"oath": "We shall efface all that stands in the Commander's path!"
+					},
+					{
+						"type": "detail",
+						"line": "My black lance? Hmph! As if a pleb like you would understand the majesty and power of this rigging that befits me!",
+						"oath": "Rest assured! If you're approached by any miscreants intent on disrespect, I will scare them off with my lance! Hahaha!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Le Fantasque-class destroyer – L'Indomptable."
+					},
+					{
+						"type": "expedition",
+						"line": "I've finished inspecting the commission goods. Grateful for my help, hmm? Hah! It's par for the course!"
+					},
+					{
+						"type": "feeling1",
+						"line": "Hmph. A donkey like you would flee like a coward once we encounter real danger anyway."
+					},
+					{
+						"type": "feeling2",
+						"line": "Prove your honor and sense of duty to me, then I will treat you fairly! A proud Templar Knight is true to her word!"
+					},
+					{
+						"type": "feeling3",
+						"line": "You follow the example set by my sisters Le Triomphant and Le Malin... What of Le Terrible? She is wise, yes! But do not be like her and go around asking people impossible questions!"
+					},
+					{
+						"type": "feeling4",
+						"line": "I, I must admit, you have quite some elegance for a pleb... Hm? You appreciate my efforts in observing you? It's hardly worthy of praise. In fact, I'm enjoying mys– No, I mean...! Flattery won't get you anywhere with me!"
+					},
+					{
+						"type": "feeling5",
+						"line": "Hmph. You've earned my recognition, pleb! I will be your knight. You have my loyalty, and my heart! ...What about it? What I just said is completely ordinary coming from a Templar Knight!",
+						"oath": "My creed says I \"must be ready to sacrifice everything for love, even my life.\" I would never betray you, but I don't know how to martyr myself for love... I needn't do anything so extreme, you say? Hmph, then I implore you to tell me what I SHOULD do! ...A-a date, for starters?!"
+					},
+					{
+						"type": "headtouch",
+						"line": "Hmph! You think your pleb tricks will work on– Hehehehe... Oohh...",
+						"oath": "Well, um... Do as you please. Ooohhh... H-h-hey! I didn't tell you to stop!"
+					},
+					{
+						"type": "home",
+						"line": "Magnificent commanding, pleb! Keep it up if you hope to earn my recognition!",
+						"oath": "With one as elegant and excellent as you at the helm, I assume your battle went well! I expect no less from the one who guides my sword!"
+					},
+					{
+						"type": "hp_warning",
+						"line": "You underestimate this proud Templar Knight!"
+					},
+					{
+						"type": "login",
+						"line": "You're late! One in command of the whole fleet must always be first to arrive at the office!",
+						"oath": "Get your act together and learn to clock in early like me! I w-worry about you when you're not around, you know!"
+					},
+					{
+						"type": "lose",
+						"line": "Grrr... My knightly pride has been tarnished..."
+					},
+					{
+						"type": "mail",
+						"line": "A letter for you. Well, well, this is an exquisite wax seal."
+					},
+					{
+						"type": "main",
+						"line": "I strive to always conduct myself with confidence and elegance, like my role model, Le Malin! ...What are you grinning for, pleb?|A reward for a job well done, you say? I'll have some macaro– Ahem! No, a proud Templar Knight needs no rewards!|The Le Fantasque class is renowned for its speed. And any who think it comes at the cost of firepower is in for a world of pain!",
+						"extra": "Resting to regain one's strength is crucial, you say... Ah! Now I see the profound reason for why Le Malin is always doing that!|Whew... Huff... Puff... Your proud Templar Knight has put in a lot of work today! T-tell me you appreciate me already!|Your sword is always at your side! Give me your orders, and I shall carry them out!"
+					},
+					{
+						"type": "mission",
+						"line": "I am a Templar Knight with honor! I do not let missions gather dust unlike you, pleb!",
+						"oath": "Hahah! In times when missions have you overwhelmed, what you should do is call upon your sword – that is to say, me!"
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission completed. Let's see the rewards... This is all...? N-no, I said nothing!",
+						"oath": "Mission complete! Don't forget to hand down a few rewards in accordance with who worked hardest!"
+					},
+					{
+						"type": "profile",
+						"line": "I am Templar Knight L'Indomptable, Le Fantasque-class large destroyer. As my name states, this proud knight shall neither cede a single step, nor back down before any foe!"
+					},
+					{
+						"type": "propose",
+						"line": "Is a ritual like this required for me to become yours? And I even have to wear this ring too? ...Very well. Then let us move on to exchanging vows! ...Hold hands? Then go on a date? Wh-wh-what are you talking about? Y-y-you've tricked me, haven't you?!"
+					},
+					{
+						"type": "skill",
+						"line": "You will be judged in the Vichya's name!"
+					},
+					{
+						"type": "touch",
+						"line": "Hahah! Revere my lance 'til you've had your fill! It is my weapon and my badge of honor!"
+					},
+					{
+						"type": "touch2",
+						"line": "Y-y-you vile barbarian!",
+						"oath": "St-st-stop it with this caprice!"
+					},
+					{
+						"type": "unlock",
+						"line": "L'Indomptable – Le Fantasque-class large destroyer and Templar Knight of the Vichya Dominion – has arrived! Have you the honor befitting someone of your status? ...Hmph, save your breath! I shall judge you through your conduct, not your words."
+					},
+					{
+						"type": "upgrade",
+						"line": "The greatest equipment belongs only in the hands of the greatest wielder!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "MVP? Woohoo! ...Ahem! My wish is to see hard work be duly rewarded.",
+						"oath": "Hmph! See? I am your most commendable champion!"
+					}
+				]
+			},
+			{
+				"id": "901131",
+				"name": "Little Red Riding Hood's Worries",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "It's your funeral if you think my helplessness is any more than an act!"
+					},
+					{
+						"type": "detail",
+						"line": "Am I really meant to lie here and do nothing, Le Malin? ...It's part of getting into the role? I see. Then lie I will!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "What a farce, making a proud Templar Knight portray a helpless little girl... Why am I lying here, you ask? Hmph. Because Le Malin asserted this is the best way to get in touch with my \"vulnerable side\"..."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team has returned. Don't keep them waiting over at the pier."
+					},
+					{
+						"type": "feeling5",
+						"line": "If I were to ever lose my strength and become a helpless little girl... would you stay with me, even if I'd be a hindrance to you? ...If it comes to that, you'll become MY sword?! Th-th-th-that doesn't exactly delight me, not at all...!"
+					},
+					{
+						"type": "headtouch",
+						"line": "C-careful with my hair!"
+					},
+					{
+						"type": "home",
+						"line": "\"Are you my Grandmamma?\" – Hah, Little Red Riding Hood is a fool! If I were her, I'd say \"I saw through your disguise with one glance, Big Bad Wolf! Prepare to meet your maker!\""
+					},
+					{
+						"type": "login",
+						"line": "So soft and cushy... Mmh, this is the dream... *yawn*... *gasp*! Rats! I got dangerously close to dozing off...!"
+					},
+					{
+						"type": "lose",
+						"line": "Urgh. Playing a feeble character must've turned me genuinely feeble..."
+					},
+					{
+						"type": "main",
+						"line": "I'm infinitely more suited to play a gallant knight than a defenseless little girl... But, I'm sure Le Malin has her reasons for promoting this role to me.|How should I act to appear helpless? ...Hm? When I encounter evildoers, my first instinct is always to send them packing with my lance.|Sleeping Beauty is apparently the role Le Malin most wants to play. Fitting, seeing as she's skilled at feigning sleep!"
+					},
+					{
+						"type": "mission",
+						"line": "New missions have come in. I'd rather be doing those than playing this role that ill suits me."
+					},
+					{
+						"type": "mission_complete",
+						"line": "You finished the mission? H-here I thought I could assist you after my rehearsal..."
+					},
+					{
+						"type": "touch",
+						"line": "Do you want this sweet, juicy apple? ...No, it's not poisoned, it's merely a tasty apple!"
+					},
+					{
+						"type": "touch2",
+						"line": "Y-y-you're making me mad!"
+					},
+					{
+						"type": "unlock",
+						"line": "What a farce, making a proud Templar Knight portray a helpless little girl... Why am I lying here, you ask? Hmph. Because Le Malin asserted this is the best way to get in touch with my \"vulnerable side\"..."
+					},
+					{
+						"type": "upgrade",
+						"line": "I feel ever so slightly stronger..."
+					},
+					{
+						"type": "win_mvp",
+						"line": "You reaped what you sowed by scoffing at a Templar Knight!"
 					}
 				]
 			}
