@@ -3771,6 +3771,20 @@
 						"line": "Oh my, hehe... Are you enjoying the warmth of the sunlight here? I'm glad that you're finding some time to relax here, but wouldn't you rather come play with everyone else?"
 					}
 				]
+			},
+			{
+				"id": "903022",
+				"name": "Red Queen's Decree",
+				"voiceline": [
+					{
+						"type": "drop_descrip",
+						"line": "Oh my, it seems that the one who ended up coming wasn't little Alice, but you instead... Do you plan to defy me as well, Commander? If so, I'll have to put you on trial for your sins... How was my acting just now? Hehe~"
+					},
+					{
+						"type": "main",
+						"line": "nil|nil|nil"
+					}
+				]
 			}
 		]
 	},
