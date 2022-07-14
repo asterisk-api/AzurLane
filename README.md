@@ -51,9 +51,9 @@ object: {
   id: string,
   name: string,
   break_1: object,
-  break_2: object,
-  break_3: object,
-  break_4: object,
+  break_2?: object,
+  break_3?: object,
+  break_4?: object,
   retrofit?: object
 }
 
