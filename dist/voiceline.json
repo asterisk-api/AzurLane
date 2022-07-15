@@ -13599,6 +13599,132 @@
 		]
 	},
 	{
+		"id": "20027",
+		"gid": 89903,
+		"name": "Brest",
+		"skins": [
+			{
+				"id": "899030",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Go forward with the Saintess of Victory's everlasting blessings.",
+						"oath": "Let us write a new chapter in our Champion's tale."
+					},
+					{
+						"type": "detail",
+						"line": "Phew... Oh my, I do believe our Champion has arrived. Why yes, I'm perfectly fine. I was just struck with inspiration for a new paean and simply must put pen to paper.",
+						"oath": "By the way, the champions of legend usually take on a heroine as well. Or multiple, if you're into that. If you really can't decide, we can always improvise... Oh? My, oh my..."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Large cruiser - Brest."
+					},
+					{
+						"type": "expedition",
+						"line": "Our friends have returned to us from their odyssey. I wonder what kind of stories they brought back with them?"
+					},
+					{
+						"type": "feeling1",
+						"line": "Your tale ought not to end here. Please regather yourself and press onward."
+					},
+					{
+						"type": "feeling2",
+						"line": "O Champion, I've heard a great many tales about you from many different people. Now, how goes the tale you narrate through your own eyes? How I wish to find out."
+					},
+					{
+						"type": "feeling3",
+						"line": "The oracles of legend were said to be able to foretell the fates of humans. Even though I don't have that power, I've read your story up close, and believe that you have what it takes to become a true Champion."
+					},
+					{
+						"type": "feeling4",
+						"line": "The bards of legend were said to travel the world, singing paeans of their champions. The paean I compose for your tale shall also be sung across the world one day."
+					},
+					{
+						"type": "feeling5",
+						"line": "The champions of legend accomplished feats that transcended time, but all mortals will succumb to fatigue. Should you ever feel tired, please make sure to rest. I shall nourish you with my finest song and verse."
+					},
+					{
+						"type": "headtouch",
+						"line": "Oh? Is this intended to bring me succor...?",
+						"oath": "Have you had your fill? Then, why don't we try reversing roles?"
+					},
+					{
+						"type": "home",
+						"line": "Our Champion returns triumphantly... I feel the inspiration for a new paean coming~",
+						"oath": "Our Champion returns home victorious once again... Hehe, you are a champion, after all."
+					},
+					{
+						"type": "hp_warning",
+						"line": "There's no need for haste. We have plenty of time still~"
+					},
+					{
+						"type": "login",
+						"line": "O Champion, what tales of heroism will you weave into the annals of history today?",
+						"oath": "Would you like to listen to the paean I improvised for you?"
+					},
+					{
+						"type": "lose",
+						"line": "Setbacks are a necessary component of any champion's tale."
+					},
+					{
+						"type": "mail",
+						"line": "New mail has arrived."
+					},
+					{
+						"type": "main",
+						"line": "Why not stop to smell the roses on your odyssey forward? Take heed of nature's marvels and friends who cherish you – there are still many things here worthy of your attention.|Every life is a wonderful story – be it an epic akin to a turbulent storm, or a lullaby as calming as the gentle sea breeze. Everything is embraced by the land and the sea, and committed to memory.|What's my favorite type of tea? Umm, whatever you'd like. As for desserts... Well, I'm fine with just about anything...",
+						"extra": "Oh my, such delicate yet emotional lines. Thanks to you, Champagne, I've come up with so many new verses.|It's not good to overwork yourself, Champion. A quill made to write too much will snap. A mind made to think too much will become clouded. Gascogne's \"Work Module\" made to operate too much will overheat.|No matter what sceneries lie ahead of us, let us bear witness to them together. Not only as the weaver of the Champion's future-spanning tale, but also as your beloved companion who always stays by your side.|The days pass, the seasons change. The flow of time grinds all things to dust – except one. Only true love can weather this trial, and continue to shine proudly through the song of life."
+					},
+					{
+						"type": "mission",
+						"line": "There's no need for haste, Champion. Keep it slow and steady, just as you always do."
+					},
+					{
+						"type": "mission_complete",
+						"line": "The mission rewards aren't going anywhere. There's no need for haste - we can always check them later."
+					},
+					{
+						"type": "profile",
+						"line": "I am large cruiser Brest, born upon Iris Libre's hallowed ground. I love hearing all the tales spanning land and sea, and spreading my own tales through song and poem. I look forward to hearing the tales you are bound to weave, Champion."
+					},
+					{
+						"type": "propose",
+						"line": "To think that I, as a singer, would become part of my Champion's tale... What an unexpected plot twist. Heehee~ O Champion, shall we join hands and weave the paean to a more joyous tomorrow?"
+					},
+					{
+						"type": "skill",
+						"line": "Thus exeunts the villains."
+					},
+					{
+						"type": "touch",
+						"line": "Hmm...? Did you need my advice, Champion?",
+						"oath": "You may consult me for anything, Champion."
+					},
+					{
+						"type": "touch2",
+						"line": "Oh my... I suppose every champion's tale has indiscretions such as these~",
+						"oath": "Does the Champion... crave my comforts? Hehe~"
+					},
+					{
+						"type": "unlock",
+						"line": "Are you our Champion? I am Brest of Iris Libre. Now that fate has brought us together, may our journey be blessed."
+					},
+					{
+						"type": "upgrade",
+						"line": "A more harmonious timbre."
+					},
+					{
+						"type": "win_mvp",
+						"line": "And thus, a new passage is inscribed in our Champion's paean––",
+						"oath": "I shall be the Parnassian who sings your tales of heroism, Champion."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "533",
 		"gid": 10149,
 		"name": "Bristol",
@@ -18015,6 +18141,129 @@
 					{
 						"type": "unlock",
 						"line": "Hehe~ If you don't have any other plans, then your only task... is to enjoy a holiday by the sea! Commander, have you switched into vacation mode yet?"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "20026",
+		"gid": 79901,
+		"name": "Chkalov",
+		"skins": [
+			{
+				"id": "799010",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Sometimes, you have to get your hands dirty."
+					},
+					{
+						"type": "detail",
+						"line": "You're not just here to chat, are you? If you've got something important to say, spit it out. Just don't expect me to respond right away because I'm busy.",
+						"oath": "\"How can your dear Miss Chkalov help, Commander?\" ...Boo, you're no fun. I just thought I'd change the mood a bit since I know you're just here to chat."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Aircraft carrier - Chkalov."
+					},
+					{
+						"type": "expedition",
+						"line": "Commission complete. That's all she wrote. Nothing special.",
+						"oath": "The commission team is back. With info on that date spot I had them check out, to boot. Heehee."
+					},
+					{
+						"type": "feeling1",
+						"line": "I'm actually curious as to how someone can keep failing over and over. You are an awful outlier."
+					},
+					{
+						"type": "feeling2",
+						"line": "I sleep in my lab on most nights. There are some places to lie down, and for dinner you can always just order home delivery. Why don't you stay sometime, Commander?"
+					},
+					{
+						"type": "feeling3",
+						"line": "Ah! ...Another blackout. Yeah, it's a problem with my lab, not the port itself. All my tinkering has made the power really unstable. Just make yourself at home and wait for the lights to come back."
+					},
+					{
+						"type": "feeling4",
+						"line": "You're more courageous than I took you for, Commander. What do I mean? Well, you know just how risky it is to be alone with me in this place... don't you?"
+					},
+					{
+						"type": "feeling5",
+						"line": "I'll be frank with you. I find you fairly... no, VERY fascinating, Commander. You're the one who leads the shipgirls at this port. It's not often someone gets the chance to closely examine you from the inside and out, wouldn't you say? Heehee♡",
+						"oath": "*yaaawn*... Commander? How long have you been up? Forgive me, I really went wild last night... It's fine if you don't remember. I don't really either... *yawn*... Your combat gear... It's really nice... Heehee... Zzz..."
+					},
+					{
+						"type": "home",
+						"line": "Back safe and sound, I see. Here's the after-action report with all the data sorted out. I'll leave the debriefing to you.",
+						"oath": "Seems you made it home with no injuries. Externally, anyway... How do you feel? Do you feel you have a headache or any stomach pains? ...No? Then all is good."
+					},
+					{
+						"type": "hp_warning",
+						"line": "You're making this harder than it needs to be...!"
+					},
+					{
+						"type": "login",
+						"line": "Oh, so you're a real workhorse. Suppose I'll really have to apply myself as your secretary then.",
+						"oath": "I've been waiting for you. Today's schedule includes office work, your examination, and... I think that's it. Want to go for lunch once we're done?"
+					},
+					{
+						"type": "lose",
+						"line": "Tsk... I hate writing self-improvement reviews..."
+					},
+					{
+						"type": "mail",
+						"line": "Letter for you, Commander. Be sure to give it a read."
+					},
+					{
+						"type": "main",
+						"line": "Ugh... Wish there was some vodka in here... Your office is so much stricter than my lab when it comes to rules and the like.|I'm curious – based on what criteria do you choose a secretary? Surely it's not just good looks? ...But if it is, don't be afraid to admit it♡|I'd appreciate it if you'd let me handle data analysis in addition to office work. Work is boring, but I can stick to it longer when it involves something I'm good at.",
+						"extra": "...Mmm! I love starting the morning with vodka. Want a shot, Commander? Heehee, it actually works out very well for me if you get wasted.|Hey, you're not making any progress with your work. Don't hesitate to tell me if I'm distracting you. Heehee♡|*sigh*... Another request from Kronshtadt. What is it with her? Always demanding stuff from people – unlike you."
+					},
+					{
+						"type": "mission",
+						"line": "Here are some mission instructions for you. I can do overtime if it's for science, but I'd rather not for this type of work."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete. Maybe I'll get to return to my lab early today...",
+						"oath": "Mission complete. Here's hoping you'll finish your work soon enough."
+					},
+					{
+						"type": "profile",
+						"line": "I'm blueprint ship Chkalov, Project 71B aircraft carrier. I'll do a good job as long as you pay me, and if I ever ask for something, you can expect something in return. I hope we can have a mutually beneficial relationship."
+					},
+					{
+						"type": "propose",
+						"line": "A ring, huh... So you'll be indebted to me if I accept it – is that right? Then I'll gladly take it. Sharing a special relationship with you works out nicely... because it makes it easier to examine your mind and body♡"
+					},
+					{
+						"type": "skill",
+						"line": "How's this?"
+					},
+					{
+						"type": "touch",
+						"line": "What's up? Want me to get you some coffee?",
+						"oath": "Ah, how about we go on a rejuvenating walk?"
+					},
+					{
+						"type": "touch2",
+						"line": "Need to vent some stress, do you? Heehee♡",
+						"oath": "You're excited, I see♡"
+					},
+					{
+						"type": "unlock",
+						"line": "Introductions? Fine, fine... I'm Chkalov, Northern Parliament blueprint ship. That good enough? Let's get back to work then; it's a better use of time for both of us, right?"
+					},
+					{
+						"type": "upgrade",
+						"line": "Well, that's one way of doing it."
+					},
+					{
+						"type": "win_mvp",
+						"line": "Done already? Then, let's get moving. We're not getting paid to stand around.",
+						"oath": "A juicy bonus, or an opportunity to examine you from head to toe... I'm fine with either one, Commander. Heehee."
 					}
 				]
 			}
@@ -32483,6 +32732,119 @@
 					{
 						"type": "unlock",
 						"line": "What kinds of flowers should I decorate the office with for the Lunar New Year...? Ugh, I just can't decide! Um, Commander, will you be inspecting the interior? I'll show you around! Phew..."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "20025",
+		"gid": 59901,
+		"name": "Harbin",
+		"skins": [
+			{
+				"id": "599010",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Everyone, follow me!"
+					},
+					{
+						"type": "detail",
+						"line": "Commander, if there's anything on your mind, just lay 'em on me! Let's not beat around the bush."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Light cruiser - Harbin."
+					},
+					{
+						"type": "expedition",
+						"line": "Oh, it looks like our friends are back from their commission! Perfect timing, Commander, let's throw a welcoming banquet!"
+					},
+					{
+						"type": "feeling1",
+						"line": "A soldier's failure dooms one, but a general's failure dooms the whole army. You're the Commander, so get your act together already!"
+					},
+					{
+						"type": "feeling2",
+						"line": "If you're not busy, want to step out for a chat? Haha, there's nothing to be embarrassed about. The best way to get to know someone is to have a nice, long chat with them, right?"
+					},
+					{
+						"type": "feeling3",
+						"line": "What do you do on your days off? I... like going out with my friends, I guess. Get some good food and drinks. It's a great change of pace! Oh right, since we have free time today, let's go do that right now!"
+					},
+					{
+						"type": "feeling4",
+						"line": "Commander, c'mon, let's get going! Go where, you say? Lemme think... Oh yeah, how about looking for some enemies to beat the crap out of? It's dangerous? Hah, not when I'm by your side!"
+					},
+					{
+						"type": "feeling5",
+						"line": "I've been thinking, Commander. You should totally become mine. We'll go through heaven and hell together, get drunk off glory and riches together, and if you're ever in danger, I'll be there to protect you. Now that's what you call a whirlwind romance! Ahaha!"
+					},
+					{
+						"type": "home",
+						"line": "You must be tired from all that running around, right? Want me to help you relax? I can draw the bathwater for you, or give you a massage... You in?"
+					},
+					{
+						"type": "hp_warning",
+						"line": "If you think you've got what it takes, come at me!"
+					},
+					{
+						"type": "login",
+						"line": "Mornin', Commander. Need help with anything today? There's no need to be shy - just say the word!"
+					},
+					{
+						"type": "lose",
+						"line": "Retreat now – I'll handle things over here!"
+					},
+					{
+						"type": "mail",
+						"line": "I picked up the mail for you on the way here. Hurry up and take a look!"
+					},
+					{
+						"type": "main",
+						"line": "Commander, want to cap off work with a bit of wine? Of course, you're free to drink something else. Gotta treat yourself right after a day of hard work, right?|Hai Tien's always sayin' stuff like \"you are what you eat,\" but she's always guzzling down those chilis like it's nobody's business. If you ask me, the best food is whatever fills your belly.|Chen Hai's out there doing divinations on the cosmos before she makes her move, but I'm the complete opposite. Hit first, ask questions later! Hahaha!"
+					},
+					{
+						"type": "mission",
+						"line": "Another job, huh? Just leave it to me. I'll have everything sorted out for you."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Well done! I'll hand out the rewards, so you just worry about getting rested up."
+					},
+					{
+						"type": "profile",
+						"line": "The name's Harbin, light cruiser from the Dragon Empery. What, didn't expect to see me here? Ahaha, well, life is full of surprises. In any case, I don't plan on letting you down, and neither do my guns!"
+					},
+					{
+						"type": "propose",
+						"line": "Looks like you've already made up your mind. But, this venue isn't lively enough... Let's find an auspicious day and invite all our friends over for a huge banquet. I'm gonna invite everyone, so you better yell my name out to the world!"
+					},
+					{
+						"type": "skill",
+						"line": "See how you like this!"
+					},
+					{
+						"type": "touch",
+						"line": "If you have time to burn, wanna see one of my comedy skits? Hahaha, I've got quite a few little hobbies outside of fightin'."
+					},
+					{
+						"type": "touch2",
+						"line": "Oho? You've got guts. Real punchable guts."
+					},
+					{
+						"type": "unlock",
+						"line": "The name's Harbin, Dragon Empery light cruiser. You're the Commander of this joint? Hrmm... I like the look in your eyes, and your bod's not half-bad either... Good stuff! From now on, you're rollin' with me!"
+					},
+					{
+						"type": "upgrade",
+						"line": "Hahaha! I'm itchin' for a fight!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Hmph, absolutely pathetic. Not even worthy of being my playthings."
 					}
 				]
 			}
@@ -69268,6 +69630,132 @@
 		]
 	},
 	{
+		"id": "20023",
+		"gid": 29905,
+		"name": "Plymouth",
+		"skins": [
+			{
+				"id": "299050",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "I shall take you on.",
+						"oath": "What would you have me do, dear Commander?"
+					},
+					{
+						"type": "detail",
+						"line": "A pleasure to see you today. I hope to spend another wonderful day with you today, dear Commander. Mhm, quite the reason to rejoice.",
+						"oath": "A pleasure to see you today. As you can see, I am currently partaking in a tea party with my esteemed colleagues. Why don't you join us? Let's find you a seat... How about in my lap?"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Light Cruiser—Plymouth"
+					},
+					{
+						"type": "expedition",
+						"line": "A commission has been completed. Let us rejoice now, dear Commander."
+					},
+					{
+						"type": "feeling1",
+						"line": "Rejoice, dear Commander, for you can still turn to me for help now."
+					},
+					{
+						"type": "feeling2",
+						"line": "You may rely on me more, Commander. After all, my duty is to help you help everyone."
+					},
+					{
+						"type": "feeling3",
+						"line": "I don't know too much about the Royal Maid Corps. Since I support you just as they do, there should not be much difference in our positions. Do you agree, dear Commander?"
+					},
+					{
+						"type": "feeling4",
+						"line": "Rejoice, dear Commander, for I shall be assisting the Royal Maids today. ...With the assistance of my colleagues, I shall be able to support you to an even greater capacity –a reason to rejoice indeed."
+					},
+					{
+						"type": "feeling5",
+						"line": "Commander, are there any wishes you'd like to have fulfilled today? I am no longer here just to support you. Should you desire, I shall assist you, serve you, and of course, love you... Rejoice, dear Commander, for there is nothing I will not do for your sake."
+					},
+					{
+						"type": "headtouch",
+						"line": "Your hand feels most pleasing upon my head. Thank you."
+					},
+					{
+						"type": "home",
+						"line": "Rejoice, dear Commander—I have come to bring you a full-course Sardegnian meal. ...It's too heavy, you say?",
+						"oath": "Commander, how do the refreshments look? I made a light snack set for you today. Well then, please help yourself!"
+					},
+					{
+						"type": "hp_warning",
+						"line": "I'm ashamed to show you my unsightly side..."
+					},
+					{
+						"type": "login",
+						"line": "Rejoice, dear Commander, for this morning is most refreshing. How shall we start our day?",
+						"oath": "Rejoice, dear Commander, for today is yet another wonderful day. Please feel free to ask anything of me."
+					},
+					{
+						"type": "lose",
+						"line": "So this is the taste of defeat, Commander. How repugnant."
+					},
+					{
+						"type": "mail",
+						"line": "Rejoice, dear Commander, for new mail has arrived."
+					},
+					{
+						"type": "main",
+						"line": "Oh, do be careful now... Miss Edinburgh, it seems that the rumors of your clumsiness were... not greatly exaggerated.|Did you need some papers disposed of. *BOOM* ...There you go. Rejoice, for I have turned your troubles into a pile of ash!|Having trouble focusing on your work? Well, I suppose I could tell you a fairy tale. A long, long time ago...",
+						"extra": "\"Please leave everything to me, Master.\" ...How was my impression of Belfast? Hehehe.| Commander, while you look for those documents, why don't I tell you a story? That might help you focus.|How about reading a book for a change of pace? I don't mind lending you something from my personal collection. Mhm, please rejoice."
+					},
+					{
+						"type": "mission",
+						"line": "A new mission has arrived, Commander. Allow me to– Hmm? You're going to do it yourself?"
+					},
+					{
+						"type": "mission_complete",
+						"line": "The mission rewards are here. Let's open it—it'll be destroyed if I fire a shell at it? Understood.",
+						"oath": "The mission rewards are right here. Other than carrying them back, is there anything else I can help with?"
+					},
+					{
+						"type": "profile",
+						"line": "I am the blueprint ship Plymouth, an alternate branch of the Edinburgh class. I give my thanks to you for manifesting me in this port. Please, use me as you see fit."
+					},
+					{
+						"type": "propose",
+						"line": "Rejoice, dear Commander! Starting today, I shall become your exclusive-use shipgirl! By exclusive, I mean special... Basically, I've become someone special to you, so can I stop looking after you today and just rejoice for myself? Heehee~"
+					},
+					{
+						"type": "skill",
+						"line": "Please excuse me."
+					},
+					{
+						"type": "touch",
+						"line": "You'd like to hear me sing? Then, please tell me what you'd like to hear—if it's something I don't already know, I'm willing to learn.",
+						"oath": "Hmmhm~♪ Please make your next song request! Ask anything of me.!"
+					},
+					{
+						"type": "touch2",
+						"line": "Yes, do as you please with me. As long as it makes you rejoice, dear Commander.",
+						"oath": "You don't need to hold back, dear Commander."
+					},
+					{
+						"type": "unlock",
+						"line": "I offer my greetings to you who has manifested me, Commander. I am the blueprint ship, Plymouth. Starting here and now, I stand ready to execute your every order. May you rejoice in our blessed encounter."
+					},
+					{
+						"type": "upgrade",
+						"line": "Strength flows through me. Rejoice, dear Commander, for I have become \"easier to use.\""
+					},
+					{
+						"type": "win_mvp",
+						"line": "Victory is ours. Rejoice, dear Commander.",
+						"oath": "Was this victory worthy of rejoicing? If not, I shall seek out another foe."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "489",
 		"gid": 60303,
 		"name": "Pola",
@@ -70931,6 +71419,134 @@
 					{
 						"type": "unlock",
 						"line": "Phew... Changing into these clothes took quite a long time~ So, how does it look? A fine mixing of different cultures, wouldn't you agree? Ahaha, Happy New Year, Commander!"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "20024",
+		"gid": 49907,
+		"name": "Prinz Rupprecht",
+		"skins": [
+			{
+				"id": "499070",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Victory will be mine!",
+						"oath": "Hahaha! Let them have it!"
+					},
+					{
+						"type": "detail",
+						"line": "Tuning my rigging should just take a little... Whoa, calm down! Heed my damn command! ...You! Stop gawking and help me! It's only the obvious thing to do!",
+						"oath": "Just how weak are you if this little thing is too heavy for you? ...Heehee, I'll admit, your weakness is endearing♪ H-hey, don't go away! I'm sorry I said that, just stay with me!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Battlecruiser – Prinz Rupprecht."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team has returned. I wonder what tributes they've brought me.",
+						"oath": "The commission team is back♪ ...Now get out there and receive them!"
+					},
+					{
+						"type": "feeling1",
+						"line": "Get out of my sight. You're an eyesore."
+					},
+					{
+						"type": "feeling2",
+						"line": "You should be thankful that someone such as myself would even deign to call a complete nobody like you \"Commander.\""
+					},
+					{
+						"type": "feeling3",
+						"line": "Hmph. I've taken a slight interest in you since I can see a smidge of potential within you. Then again, that much should be obvious given that I call you \"Commander.\""
+					},
+					{
+						"type": "feeling4",
+						"line": "You belong to no one but me, Prinz Rupprecht. That should be obvious, seeing as how I have acknowledged you as \"Commander.\" Do you have a problem with being mine? Too bad – you've never had and never will have the right to object!"
+					},
+					{
+						"type": "feeling5",
+						"line": "You don't want to be mine? You have some nerve, you impudent cretin. You are mine, full stop. I don't give a damn what anyone else says! You belong to me, and that's that!",
+						"oath": "You'll obviously do anything I tell you to since you belong to me, right? Because I've been shockingly nice by calling you \"Commander,\" accepting your ring, and even going on dates with you! Now take my hand!"
+					},
+					{
+						"type": "headtouch",
+						"line": "Blep!"
+					},
+					{
+						"type": "home",
+						"line": "Look who's back. I suppose you have your moments as the Commander♪",
+						"oath": "Head out and thank the girls? You go do it, then come right back. You're my property, so don't wander off without my permission."
+					},
+					{
+						"type": "hp_warning",
+						"line": "How?! But, I'm the strongest...!"
+					},
+					{
+						"type": "login",
+						"line": "You're late! What excuse do you have to keep ME waiting? Do you WANT me to send you packing?",
+						"oath": "You actually came out to see me – that's nice. Now get back to your chair and work harder♪"
+					},
+					{
+						"type": "lose",
+						"line": "You're horribly mistaken if you think you'll get away with this!"
+					},
+					{
+						"type": "mail",
+						"line": "A letter... Nothing I'd care about, it seems."
+					},
+					{
+						"type": "main",
+						"line": "A tea party? Who went and decided I have to spend my time on that? If anything, YOU should be spending time with ME♪|...Oh, this sweet candy? I got it from a destroyer. And no, you can't have any.|You can't even do this no-brainer work? And you seriously call yourself the Commander? ...Things would be better if I had your position.",
+						"extra": "Forget going to some random girl's tea party – You should host one just for me. Obviously I deserve it for all my work as your secretary!|I think I'll go part hunting in Bismarck's workshop... \"Don't?\" Excuse me, whose side are you on?!|You've done well, now enjoy some time off... I was just talking to myself. I don't care if you– Actually! Since you belong to me, you must take a break with me... Impudent little...! Stop working at once, you hear me?!"
+					},
+					{
+						"type": "mission",
+						"line": "Missions, eh... Do them yourself. I'm above all that busywork."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission rewards! I've claimed them in my na– What the hell! This is just a list!",
+						"oath": "Mission rewards are here. Let's not forget what's yours is mine."
+					},
+					{
+						"type": "profile",
+						"line": "I'm Prinz Rupprecht, Iron Blood blueprint ship. It's my way or the highway. Hmph, obviously I get to act high and mighty because I AM high and mighty. I don't HAVE to follow your orders, they are merely suggestions to me!"
+					},
+					{
+						"type": "propose",
+						"line": "Marriage? What are you talking about? This is an act of insolence on your part, one-sidedly hoping I'll exchange vows with you. Obviously, it's my choice whether to accept or refuse... If you want my hand so badly, cry and plead for it one more time! And don't try to run away!"
+					},
+					{
+						"type": "skill",
+						"line": "Hahahaha! I'll squash you like bugs!"
+					},
+					{
+						"type": "touch",
+						"line": "What's that you're staring at? Hand it over. I want to see it for myself.",
+						"oath": "Yes? ...Don't call me over only to ignore me!"
+					},
+					{
+						"type": "touch2",
+						"line": "Eek! Don't touch me!",
+						"oath": "Wh-what?! Um... (*blushes*)"
+					},
+					{
+						"type": "unlock",
+						"line": "Ooh, so you're the self-proclaimed Commander, huh... Hmph! Commander of what, exactly? From now on, I shall be the one issuing commands around here! Now, hurry along~♪"
+					},
+					{
+						"type": "upgrade",
+						"line": "It's the obvious choice, because I am the strongest♪"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Me being the MVP is such an obvious outcome I don't even feel happy about it.",
+						"oath": "I'm the MVP♪ ...Look at me when I speak. Hey, I'm talking to YOU! Look at me and tell me how great I am!"
 					}
 				]
 			}
