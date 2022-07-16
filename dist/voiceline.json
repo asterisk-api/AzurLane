@@ -14342,7 +14342,7 @@
 					},
 					{
 						"type": "propose",
-						"line": "Does this mean you love me more than anyone else? If so, will you do anything I ask you to? Okay! I want some snacks from that store that jus opened, so let's go there right now!"
+						"line": "Does this mean you love me more than anyone else? If so, will you do anything I ask you to? Okay! I want some snacks from that store that just opened, so let's go there right now!"
 					},
 					{
 						"type": "skill",
@@ -21993,7 +21993,7 @@
 					},
 					{
 						"type": "feeling5",
-						"line": "Though we speak of it, I've never thought I would such a day would come... How should I react?... Commander, can you teach me?"
+						"line": "I've never actually thought that I would see such a day coming... How should I react?... Commander, can you teach me?"
 					},
 					{
 						"type": "home",
