@@ -17,10 +17,12 @@ export default function tags(azurapi)
 		const NAME     = ship.names.en;
 		const CODENAME = ship.names.code;
 
-		const RARITY   = ship.rarity;
-		const NATION   = ship.nationality;
-		const HULLTYPE = ship.hullType;
-		const RETROFIT = ship.retrofit;
+		const RARITY      = ship.rarity;
+		const NATION      = ship.nationality;
+		const HULLTYPE    = ship.hullType;
+		const LIMIT_BREAK = ship.limitBreaks;
+		const DEV_LEVELS  = ship.devLevels;
+		const RETROFIT    = ship.retrofit;
 		const RETROFIT_HULLTYPE = ship.retrofitHullType;
 
 		// Research
@@ -47,7 +49,7 @@ export default function tags(azurapi)
 
 		// NATIONALITY
 		if (NATION) TAGS.push(NATION);
-		else console.log("=> invalid nationality: " + NATION);
+		else console.log("=> Invalid nationality: " + NATION);
 
 		// PREFIX
 		const PREFIX = [
@@ -75,18 +77,89 @@ export default function tags(azurapi)
 		// Hull Type
 		if (HULLTYPE)
 			TAGS.push(HULLTYPE);
-		else console.log("invalid hullType: " + HULLTYPE);
+		else console.log("=> Invalid hullType: " + HULLTYPE);
+
+		// Short Hull Type
+		const SHORT_HULLTYPE = {
+			"Destroyer": "DD",
+			"Light Cruiser": "CL",
+			"Heavy Cruiser": "CA",
+			"Large Cruiser": "CB",
+			"Battlecruiser": "BC",
+			"Battleship": "BB",
+			"Light Carrier": "CVL",
+			"Light Aircraft Carrier": "CVL",
+			"Aircraft Carrier": "CV",
+			"Submarine": "SS",
+			"Submarine Carrier": "SSV",
+			"Aviation Battleship": "BBV",
+			"Repair": "AR",
+			"Monitor": "BM",
+			"Munition Ship": "AE"
+		};
+
+		if (SHORT_HULLTYPE[HULLTYPE])
+			TAGS.push(SHORT_HULLTYPE[HULLTYPE]);
+		else if (HULLTYPE !== "DDG")
+			console.log("=> Invalid hullType: " + HULLTYPE);
+
+		// Vanguard / Main Type
+		const SHIP_LINE_TYPE = {
+			"Destroyer": "Vanguard",
+			"Light Cruiser": "Vanguard",
+			"Heavy Cruiser": "Vanguard",
+			"Large Cruiser": "Vanguard",
+			"Battlecruiser": "Main",
+			"Battleship": "Main",
+			"Light Carrier": "Main",
+			"Light Aircraft Carrier": "Main",
+			"Aircraft Carrier": "Main",
+			"Aviation Battleship": "Main",
+			"Repair": "Main",
+			"Monitor": "Main",
+			"Munition Ship": "Vanguard",
+		};
+
+		if (SHIP_LINE_TYPE[HULLTYPE])
+			TAGS.push(SHIP_LINE_TYPE[HULLTYPE]);
 
 		// Retrofit Hull Type
 		if (RETROFIT_HULLTYPE && RETROFIT_HULLTYPE !== HULLTYPE)
+		{
 			TAGS.push(RETROFIT_HULLTYPE);
+			if (RETROFIT_HULLTYPE !== "DDG")
+				TAGS.push(SHORT_HULLTYPE[RETROFIT_HULLTYPE]);
+
+			if (RETROFIT_HULLTYPE === "DDG")
+				TAGS.push("Main");
+		};
+
+		// DD BONUS { AUX, TRP, AOA }
+		const destroyerBonusType = (buff) =>
+		{
+			const BUFF = buff.toLowerCase();
+			if (BUFF.includes("30%") && BUFF.includes("aux"))
+				TAGS.push("DD AUX");
+
+			if (BUFF.includes("spread") && BUFF.includes("torpedo"))
+				TAGS.push("DD TRP");
+
+			if (BUFF.includes("trigger") && BUFF.includes("assault"))
+				TAGS.push("DD AOA");
+		};
+
+		if (LIMIT_BREAK)
+			LIMIT_BREAK.forEach((lb) =>
+				lb.forEach((buff) => destroyerBonusType(buff)));
+
+		if (DEV_LEVELS)
+			DEV_LEVELS.forEach((dev) =>
+				dev.buffs.forEach((buff) => destroyerBonusType(buff)));
 
 
-		CONTAINER.push({
-			id: SHIP_ID,
-			name: NAME,
-			tags: TAGS
-		});
+		TAGS.sort((a, b) => a < b ? -1 : 1);
+
+		CONTAINER.push({ id: SHIP_ID, name: NAME, tags: TAGS });
 	});
 
 	fs.writeFile(

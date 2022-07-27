@@ -3,257 +3,311 @@
 		"id": "Collab021",
 		"name": "22",
 		"tags": [
-			"Elite",
-			"Bilibili",
 			"BILI",
-			"Destroyer"
+			"Bilibili",
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"Elite",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab022",
 		"name": "33",
 		"tags": [
-			"Elite",
-			"Bilibili",
 			"BILI",
-			"Destroyer"
+			"Bilibili",
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"Elite",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "336",
 		"name": "Abercrombie",
 		"tags": [
+			"BM",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Monitor"
+			"Main",
+			"Monitor",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "187",
 		"name": "Abukuma",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"CL",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "082",
 		"name": "Acasta",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "105",
 		"name": "Achilles",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "246",
 		"name": "Admiral Graf Spee",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "242",
 		"name": "Admiral Hipper",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "422",
 		"name": "Admiral Hipper μ",
 		"tags": [
+			"CA",
 			"Elite",
-			"Muse",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Muse",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "321",
 		"name": "Agano",
 		"tags": [
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "106",
 		"name": "Ajax",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "224",
 		"name": "Akagi",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "419",
 		"name": "Akagi μ",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
+			"IJN",
+			"Main",
 			"Muse",
 			"Sakura Empire",
-			"IJN",
-			"Aircraft Carrier"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "384",
 		"name": "Akagi-chan",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "10082",
 		"name": "Akane Shinjo",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
+			"Main",
 			"SSSS",
-			"Battleship"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "232",
 		"name": "Akashi",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"AR",
 			"IJN",
-			"Repair"
+			"Main",
+			"Repair",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "159",
 		"name": "Akatsuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "401",
 		"name": "Alabama",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "358",
 		"name": "Albacore",
 		"tags": [
-			"Super Rare",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "477",
 		"name": "Albacore μ",
 		"tags": [
+			"Eagle Union",
 			"Elite",
 			"Muse",
-			"Eagle Union",
-			"USS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"USS"
 		]
 	},
 	{
 		"id": "455",
 		"name": "Algérie",
 		"tags": [
-			"Super Rare",
-			"Vichya Dominion",
+			"CA",
+			"Heavy Cruiser",
 			"MNF",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "508",
 		"name": "Allen M. Sumner",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Super Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "367",
 		"name": "Amagi",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BC",
+			"Battlecruiser",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "510",
 		"name": "Amagi-chan",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "081",
 		"name": "Amazon",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
@@ -261,1955 +315,2395 @@
 		"name": "Ami Futami",
 		"tags": [
 			"Elite",
-			"The Idolmaster",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"The Idolmaster"
 		]
 	},
 	{
 		"id": "253",
 		"name": "An Shan",
 		"tags": [
-			"Retrofit",
-			"Elite",
-			"Dragon Empery",
-			"PRAN",
+			"DD",
+			"DD AOA",
+			"DDG",
 			"Destroyer",
-			"DDG"
+			"Dragon Empery",
+			"Elite",
+			"Main",
+			"PRAN",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan018",
 		"name": "Anchorage",
 		"tags": [
-			"Research",
-			"Priority",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Priority",
+			"Research",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab043",
 		"name": "Anniversary Kizuna AI",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Kizuna AI",
 			"KizunaAI",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "192",
 		"name": "Aoba",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
+			"IJN",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "502",
 		"name": "Aquila",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"RN",
-			"Aircraft Carrier"
+			"Sardegna Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "334",
 		"name": "Arashio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "513",
 		"name": "Archerfish",
 		"tags": [
-			"Super Rare",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "083",
 		"name": "Ardent",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "116",
 		"name": "Arethusa",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "175",
 		"name": "Ariake",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "055",
 		"name": "Arizona",
 		"tags": [
-			"Elite",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "144",
 		"name": "Ark Royal",
 		"tags": [
-			"Retrofit",
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Retrofit",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "536",
 		"name": "Arkhangelsk",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
+			"Main",
 			"Northern Parliament",
-			"SN",
-			"Battleship"
+			"SN"
 		]
 	},
 	{
 		"id": "331",
 		"name": "Asashio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "198",
 		"name": "Ashigara",
 		"tags": [
+			"CA",
 			"Elite",
-			"Sakura Empire",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "046",
 		"name": "Astoria",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "201",
 		"name": "Atago",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "034",
 		"name": "Atlanta",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan021",
 		"name": "August von Parseval",
 		"tags": [
-			"Research",
-			"Priority",
+			"Aircraft Carrier",
+			"CV",
 			"Iron Blood",
 			"KMS",
-			"Aircraft Carrier"
+			"Main",
+			"Priority",
+			"Research"
 		]
 	},
 	{
 		"id": "015",
 		"name": "Aulick",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "118",
 		"name": "Aurora",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "262",
 		"name": "Avrora",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"Light Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "155",
 		"name": "Ayanami",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "406",
 		"name": "Aylwin",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan010",
 		"name": "Azuma",
 		"tags": [
-			"Research",
+			"CB",
 			"Decisive",
-			"Sakura Empire",
 			"IJN",
-			"Large Cruiser"
+			"Large Cruiser",
+			"Research",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10074",
 		"name": "Azusa Miura",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
 			"Super Rare",
 			"The Idolmaster",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "407",
 		"name": "Bache",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "263",
 		"name": "Bailey",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "050",
 		"name": "Baltimore",
 		"tags": [
-			"Super Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Super Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "478",
 		"name": "Baltimore μ",
 		"tags": [
-			"Elite",
-			"Muse",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
+			"Muse",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "403",
 		"name": "Bataan",
 		"tags": [
-			"Elite",
+			"CVL",
 			"Eagle Union",
-			"USS",
-			"Light Carrier"
+			"Elite",
+			"Light Carrier",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "086",
 		"name": "Beagle",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Normal",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "115",
 		"name": "Belfast",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "551",
 		"name": "Bellona",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "018",
 		"name": "Benson",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "428",
 		"name": "Biloxi",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "405",
 		"name": "Birmingham",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "250",
 		"name": "Bismarck",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Iron Blood",
 			"KMS",
-			"Battleship"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Collab006",
 		"name": "Black Heart",
 		"tags": [
-			"Super Rare",
-			"Neptunia",
+			"CA",
 			"HDN",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Neptunia",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "408",
 		"name": "Black Prince",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab003",
 		"name": "Blanc",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Neptunia",
 			"HDN",
-			"Destroyer"
+			"Neptunia",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "446",
 		"name": "Bluegill",
 		"tags": [
-			"Elite",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"Elite",
+			"SS",
+			"Submarine",
+			"USS"
 		]
 	},
 	{
 		"id": "071",
 		"name": "Bogue",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"CVL",
+			"CVL",
 			"Eagle Union",
-			"USS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "514",
 		"name": "Boise",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "443",
 		"name": "Bremerton",
 		"tags": [
-			"Super Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Super Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "20027",
 		"name": "Brest",
 		"tags": [
-			"Research",
+			"CB",
 			"Decisive",
-			"Iris Libre",
 			"FFNF",
-			"Large Cruiser"
+			"Iris Libre",
+			"Large Cruiser",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "533",
 		"name": "Bristol",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Super Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "031",
 		"name": "Brooklyn",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "087",
 		"name": "Bulldog",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Normal",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "380",
 		"name": "Bunker Hill",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "355",
 		"name": "Bush",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "458",
 		"name": "Béarn",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Iris Libre",
 			"FFNF",
-			"Aircraft Carrier"
+			"Iris Libre",
+			"Main"
 		]
 	},
 	{
 		"id": "059",
 		"name": "California",
 		"tags": [
-			"Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "415",
 		"name": "Carabiniere",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sardegna Empire",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "447",
 		"name": "Casablanca",
 		"tags": [
-			"Rare",
+			"CVL",
 			"Eagle Union",
-			"USS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "005",
 		"name": "Cassin",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "402",
 		"name": "Cavalla",
 		"tags": [
-			"Super Rare",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "356",
 		"name": "Centaur",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CVL",
 			"HMS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Plan017",
 		"name": "Champagne",
 		"tags": [
-			"Research",
-			"Priority",
-			"Iris Libre",
+			"BB",
+			"Battleship",
 			"FFNF",
-			"Battleship"
+			"Iris Libre",
+			"Main",
+			"Priority",
+			"Research"
 		]
 	},
 	{
 		"id": "255",
 		"name": "Chang Chun",
 		"tags": [
-			"Retrofit",
-			"Elite",
-			"Dragon Empery",
-			"PRAN",
+			"DD",
+			"DD AOA",
+			"DDG",
 			"Destroyer",
-			"DDG"
+			"Dragon Empery",
+			"Elite",
+			"Main",
+			"PRAN",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "494",
 		"name": "Chao Ho",
 		"tags": [
-			"Elite",
+			"CL",
 			"Dragon Empery",
+			"Elite",
+			"Light Cruiser",
 			"ROC",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "436",
 		"name": "Chapayev",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"Light Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "013",
 		"name": "Charles Ausburne",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "530",
 		"name": "Charybdis",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "376",
 		"name": "Chaser",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "534",
 		"name": "Chen Hai",
 		"tags": [
-			"Elite",
+			"CVL",
 			"Dragon Empery",
-			"Light Carrier"
+			"Elite",
+			"Light Carrier",
+			"Main"
 		]
 	},
 	{
 		"id": "Plan013",
 		"name": "Cheshire",
 		"tags": [
-			"Research",
-			"Priority",
-			"Royal Navy",
+			"CA",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Priority",
+			"Research",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "042",
 		"name": "Chicago",
 		"tags": [
-			"Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10072",
 		"name": "Chihaya Kisaragi",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"Super Rare",
-			"The Idolmaster",
-			"Aircraft Carrier"
+			"The Idolmaster"
 		]
 	},
 	{
 		"id": "195",
 		"name": "Chikuma",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10086",
 		"name": "Chise Asukagawa",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"SSSS",
-			"Aircraft Carrier"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "470",
 		"name": "Chitose",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "471",
 		"name": "Chiyoda",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "20026",
 		"name": "Chkalov",
 		"tags": [
-			"Research",
-			"Priority",
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"Northern Parliament",
-			"SN",
-			"Aircraft Carrier"
+			"Priority",
+			"Research",
+			"SN"
 		]
 	},
 	{
 		"id": "203",
 		"name": "Choukai",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "391",
 		"name": "Clevelad",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "037",
 		"name": "Cleveland",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "420",
 		"name": "Cleveland μ",
 		"tags": [
-			"Elite",
-			"Muse",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
+			"Muse",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "060",
 		"name": "Colorado",
 		"tags": [
-			"Elite",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "038",
 		"name": "Columbia",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "088",
 		"name": "Comet",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "366",
 		"name": "Concord",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "411",
 		"name": "Conte di Cavour",
 		"tags": [
-			"Rare",
-			"Sardegna Empire",
+			"BB",
+			"Battleship",
+			"Main",
 			"RN",
-			"Battleship"
+			"Rare",
+			"Sardegna Empire"
 		]
 	},
 	{
 		"id": "444",
 		"name": "Cooper",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "008",
 		"name": "Craven",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "089",
 		"name": "Crescent",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "372",
 		"name": "Curacoa",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "373",
 		"name": "Curlew",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "090",
 		"name": "Cygnet",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "342",
 		"name": "Dace",
 		"tags": [
-			"Elite",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"Elite",
+			"SS",
+			"Submarine",
+			"USS"
 		]
 	},
 	{
 		"id": "330",
 		"name": "Denver",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "245",
 		"name": "Deutschland",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "004",
 		"name": "Dewey",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "107",
 		"name": "Dido",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "476",
 		"name": "Dido μ",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Muse",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "124",
 		"name": "Dorsetshire",
 		"tags": [
+			"CA",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "006",
 		"name": "Downes",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan014",
 		"name": "Drake",
 		"tags": [
-			"Research",
+			"CA",
 			"Decisive",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Research",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "501",
 		"name": "Duca degli Abruzzi",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"CL",
+			"Light Cruiser",
 			"RN",
-			"Light Cruiser"
+			"Sardegna Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "136",
 		"name": "Duke of York",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "352",
 		"name": "Dunkerque",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Vichya Dominion",
 			"MNF",
-			"Battlecruiser"
+			"Main",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "143",
 		"name": "Eagle",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "389",
 		"name": "Echo",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "114",
 		"name": "Edinburgh",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "526",
 		"name": "Elbe",
 		"tags": [
+			"CVL",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main"
 		]
 	},
 	{
 		"id": "548",
 		"name": "Elbing",
 		"tags": [
+			"CL",
 			"Elite",
 			"Iron Blood",
+			"Light Cruiser",
 			"SMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "028",
 		"name": "Eldridge",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Super Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab042",
 		"name": "Elegant Kizuna AI",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"Kizuna AI",
 			"KizunaAI",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "547",
 		"name": "Emden",
 		"tags": [
-			"Super Rare",
+			"CL",
 			"Iron Blood",
+			"Light Cruiser",
 			"SMS",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "557",
 		"name": "Enterprise",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "077",
 		"name": "Enterprise",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "149",
 		"name": "Erebus",
 		"tags": [
+			"BM",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Monitor"
+			"Main",
+			"Monitor",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "460",
 		"name": "Eskimo",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "357",
 		"name": "Essex",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "126",
 		"name": "Exeter",
 		"tags": [
-			"Retrofit",
+			"CA",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "327",
 		"name": "Fiji",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "011",
 		"name": "Fletcher",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "524",
 		"name": "Foch",
 		"tags": [
+			"CA",
 			"Elite",
-			"Vichya Dominion",
+			"Heavy Cruiser",
 			"MNF",
-			"Heavy Cruiser"
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "016",
 		"name": "Foote",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "348",
 		"name": "Forbin",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Iris Libre",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Rare",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "147",
 		"name": "Formidable",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"Aircraft Carrier",
+			"CV",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "092",
 		"name": "Fortune",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "091",
 		"name": "Foxhound",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan011",
 		"name": "Friedrich der Große",
 		"tags": [
-			"Research",
+			"BB",
+			"Battleship",
 			"Decisive",
 			"Iron Blood",
 			"KMS",
-			"Battleship"
+			"Main",
+			"Research"
 		]
 	},
 	{
 		"id": "254",
 		"name": "Fu Shun",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Dragon Empery",
+			"Elite",
 			"PRAN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "151",
 		"name": "Fubuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab036",
 		"name": "Fumiruiru",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Utawarerumono",
-			"Aircraft Carrier"
+			"Main",
+			"Utawarerumono"
 		]
 	},
 	{
 		"id": "277",
 		"name": "Fumizuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "190",
 		"name": "Furutaka",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "208",
 		"name": "Fusou",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
-			"IJN",
+			"Aviation Battleship",
+			"BB",
+			"BBV",
 			"Battleship",
-			"Aviation Battleship"
+			"IJN",
+			"Main",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30005",
 		"name": "Fusou META",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
 			"META",
-			"Battleship"
+			"Main"
 		]
 	},
 	{
 		"id": "117",
 		"name": "Galatea",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "437",
 		"name": "Gangut",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
+			"Main",
 			"Northern Parliament",
-			"SN",
-			"Battleship"
+			"SN"
 		]
 	},
 	{
 		"id": "Plan012",
 		"name": "Gascogne",
 		"tags": [
-			"Research",
-			"Priority",
-			"Vichya Dominion",
+			"BB",
+			"Battleship",
 			"MNF",
-			"Battleship"
+			"Main",
+			"Priority",
+			"Research",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "418",
 		"name": "Gascogne μ",
 		"tags": [
-			"Super Rare",
-			"Muse",
-			"Vichya Dominion",
+			"BB",
+			"Battleship",
 			"MNF",
-			"Battleship"
+			"Main",
+			"Muse",
+			"Super Rare",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "Plan008",
 		"name": "Georgia",
 		"tags": [
-			"Research",
-			"Priority",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Priority",
+			"Research",
+			"USS"
 		]
 	},
 	{
 		"id": "412",
 		"name": "Giulio Cesare",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Sardegna Empire",
+			"Main",
 			"RN",
-			"Battleship"
+			"Sardegna Empire"
 		]
 	},
 	{
 		"id": "423",
 		"name": "Glasgow",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "148",
 		"name": "Glorious",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "113",
 		"name": "Gloucester",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "094",
 		"name": "Glowworm",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "249",
 		"name": "Gneisenau",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Battlecruiser"
+			"Main"
 		]
 	},
 	{
 		"id": "30007",
 		"name": "Gneisenau META",
 		"tags": [
-			"Super Rare",
+			"BC",
+			"Battlecruiser",
 			"META",
-			"Battlecruiser"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "252",
 		"name": "Graf Zeppelin",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Iron Blood",
 			"KMS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Collab008",
 		"name": "Green Heart",
 		"tags": [
-			"Super Rare",
-			"Neptunia",
+			"Aircraft Carrier",
+			"CV",
 			"HDN",
-			"Aircraft Carrier"
+			"Main",
+			"Neptunia",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "497",
 		"name": "Gremyashchy",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "093",
 		"name": "Grenville",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "007",
 		"name": "Gridley",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "499",
 		"name": "Gromky",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "431",
 		"name": "Grozny",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "532",
 		"name": "Hai Chi",
 		"tags": [
-			"Elite",
+			"CL",
 			"Dragon Empery",
-			"Light Cruiser"
+			"Elite",
+			"Light Cruiser",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "531",
 		"name": "Hai Tien",
 		"tags": [
-			"Elite",
+			"CL",
 			"Dragon Empery",
-			"Light Cruiser"
+			"Elite",
+			"Light Cruiser",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan019",
 		"name": "Hakuryuu",
 		"tags": [
-			"Research",
+			"Aircraft Carrier",
+			"CV",
 			"Decisive",
-			"Sakura Empire",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Research",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "427",
 		"name": "Halsey Powell",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "318",
 		"name": "Hamakaze",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "027",
 		"name": "Hammann",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "449",
 		"name": "Hanazuki",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "20025",
 		"name": "Harbin",
 		"tags": [
-			"Research",
-			"Priority",
+			"CL",
+			"DD TRP",
 			"Dragon Empery",
+			"Light Cruiser",
 			"PRAN",
-			"Light Cruiser"
+			"Priority",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "096",
 		"name": "Hardy",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10071",
 		"name": "Haruka Amami",
 		"tags": [
+			"CL",
+			"Light Cruiser",
 			"Super Rare",
 			"The Idolmaster",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "206",
 		"name": "Haruna",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "296",
 		"name": "Harutsuki",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10083",
 		"name": "Hass",
 		"tags": [
+			"CL",
 			"Elite",
+			"Light Cruiser",
 			"SSSS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "369",
 		"name": "Hatakaze",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "171",
 		"name": "Hatsuharu",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "174",
 		"name": "Hatsushimo",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "365",
 		"name": "Hazelwood",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "033",
 		"name": "Helena",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
+			"Retrofit",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "30003",
 		"name": "Helena META",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"Light Cruiser",
 			"META",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "140",
 		"name": "Hermes",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"CVL",
+			"CVL",
 			"HMS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "463",
 		"name": "Hermione",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "160",
 		"name": "Hibiki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "205",
 		"name": "Hiei",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "383",
 		"name": "Hiei-chan",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30001",
 		"name": "Hiryu.META",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"META",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "227",
 		"name": "Hiryuu",
 		"tags": [
-			"Retrofit",
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "218",
 		"name": "Hiyou",
 		"tags": [
-			"Rare",
-			"Sakura Empire",
+			"CVL",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Rare",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30006",
 		"name": "Hiyou META",
 		"tags": [
+			"CVL",
 			"Elite",
+			"Light Carrier",
 			"META",
-			"Light Carrier"
+			"Main"
 		]
 	},
 	{
 		"id": "362",
 		"name": "Hobby",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10062",
 		"name": "Honoka",
 		"tags": [
+			"BB",
+			"Battleship",
+			"Main",
 			"Super Rare",
-			"Venus Vacation",
-			"Battleship"
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "304",
 		"name": "Honolulu",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "129",
 		"name": "Hood",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"BC",
+			"Battlecruiser",
 			"HMS",
-			"Battlecruiser"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "078",
 		"name": "Hornet",
 		"tags": [
-			"Elite",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "220",
 		"name": "Houshou",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "043",
 		"name": "Houston",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "461",
 		"name": "Howe",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "100",
 		"name": "Hunter",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "211",
 		"name": "Hyuuga",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
-			"IJN",
+			"Aviation Battleship",
+			"BB",
+			"BBV",
 			"Battleship",
-			"Aviation Battleship"
+			"IJN",
+			"Main",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "381",
 		"name": "I-13",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
 			"IJN",
-			"Submarine Carrier"
+			"SSV",
+			"Sakura Empire",
+			"Submarine Carrier",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "398",
 		"name": "I-168",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
 			"IJN",
-			"Submarine"
+			"SS",
+			"Sakura Empire",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "338",
 		"name": "I-19",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
 			"IJN",
-			"Submarine"
+			"SS",
+			"Sakura Empire",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
@@ -2217,8 +2711,9 @@
 		"name": "I-25",
 		"tags": [
 			"Elite",
-			"Sakura Empire",
 			"IJN",
+			"SS",
+			"Sakura Empire",
 			"Submarine"
 		]
 	},
@@ -2227,8 +2722,9 @@
 		"name": "I-26",
 		"tags": [
 			"Elite",
-			"Sakura Empire",
 			"IJN",
+			"SS",
+			"Sakura Empire",
 			"Submarine"
 		]
 	},
@@ -2237,8 +2733,9 @@
 		"name": "I-56",
 		"tags": [
 			"Elite",
-			"Sakura Empire",
 			"IJN",
+			"SS",
+			"Sakura Empire",
 			"Submarine"
 		]
 	},
@@ -2247,8 +2744,9 @@
 		"name": "I-58",
 		"tags": [
 			"Elite",
-			"Sakura Empire",
 			"IJN",
+			"SS",
+			"Sakura Empire",
 			"Submarine"
 		]
 	},
@@ -2256,986 +2754,1219 @@
 		"id": "Plan003",
 		"name": "Ibuki",
 		"tags": [
-			"Research",
-			"Priority",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Priority",
+			"Research",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "465",
 		"name": "Icarus",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "161",
 		"name": "Ikazuchi",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "145",
 		"name": "Illustrious",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"Aircraft Carrier",
+			"CV",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "480",
 		"name": "Illustrious μ",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
+			"HMS",
+			"Main",
 			"Muse",
 			"Royal Navy",
-			"HMS",
-			"Aircraft Carrier"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "540",
 		"name": "Impero",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"RN",
-			"Aircraft Carrier"
+			"Sardegna Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "162",
 		"name": "Inazuma",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "377",
 		"name": "Independence",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"CVL",
+			"CVL",
 			"Eagle Union",
-			"USS",
+			"Elite",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "045",
 		"name": "Indianapolis",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "553",
 		"name": "Indomitable",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"Aircraft Carrier",
+			"CV",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "518",
 		"name": "Ingraham",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Super Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "442",
 		"name": "Intrepid",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "10073",
 		"name": "Iori Minase",
 		"tags": [
+			"BB",
+			"Battleship",
+			"Main",
 			"Super Rare",
-			"The Idolmaster",
-			"Battleship"
+			"The Idolmaster"
 		]
 	},
 	{
 		"id": "210",
 		"name": "Ise",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
-			"IJN",
+			"Aviation Battleship",
+			"BB",
+			"BBV",
 			"Battleship",
-			"Aviation Battleship"
+			"IJN",
+			"Main",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "317",
 		"name": "Isokaze",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "183",
 		"name": "Isuzu",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"CL",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan004",
 		"name": "Izumo",
 		"tags": [
-			"Research",
-			"Priority",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Priority",
+			"Research",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "328",
 		"name": "Jamaica",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "101",
 		"name": "Javelin",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "353",
 		"name": "Jean Bart",
 		"tags": [
-			"Super Rare",
-			"Vichya Dominion",
+			"BB",
+			"Battleship",
 			"MNF",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "454",
 		"name": "Jeanne d'Arc",
 		"tags": [
-			"Super Rare",
-			"Iris Libre",
+			"CL",
 			"FFNF",
-			"Light Cruiser"
+			"Iris Libre",
+			"Light Cruiser",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "300",
 		"name": "Jenkins",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "307",
 		"name": "Jersey",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "550",
 		"name": "Jervis",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "309",
 		"name": "Jintsuu",
 		"tags": [
-			"Retrofit",
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "555",
 		"name": "Joffre",
 		"tags": [
-			"Super Rare",
-			"Vichya Dominion",
+			"Aircraft Carrier",
+			"CV",
 			"MNF",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "035",
 		"name": "Juneau",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "102",
 		"name": "Juno",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "219",
 		"name": "Junyou",
 		"tags": [
-			"Rare",
-			"Sakura Empire",
+			"CVL",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Rare",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30008",
 		"name": "Junyou META",
 		"tags": [
+			"CVL",
 			"Elite",
+			"Light Carrier",
 			"META",
-			"Light Carrier"
+			"Main"
 		]
 	},
 	{
 		"id": "306",
 		"name": "Jupiter",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"HMS",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "225",
 		"name": "Kaga",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "368",
 		"name": "Kaga(BB)",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "167",
 		"name": "Kagerou",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "191",
 		"name": "Kako",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "363",
 		"name": "Kalk",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "269",
 		"name": "Kamikaze",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "239",
 		"name": "Karlsruhe",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Normal",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "472",
 		"name": "Kashino",
 		"tags": [
+			"AE",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Munition Ship"
+			"Munition Ship",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "424",
 		"name": "Kasumi",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10063",
 		"name": "Kasumi",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
 			"Super Rare",
-			"Venus Vacation",
-			"Heavy Cruiser"
+			"Vanguard",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "520",
 		"name": "Katsuragi",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "288",
 		"name": "Kawakaze",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "517",
 		"name": "Kazagumo",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "121",
 		"name": "Kent",
 		"tags": [
+			"CA",
+			"HMS",
+			"Heavy Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "535",
 		"name": "Kiev",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "214",
 		"name": "Kii",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "374",
 		"name": "Kimberly",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "134",
 		"name": "King George V",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "186",
 		"name": "Kinu",
 		"tags": [
-			"Retrofit",
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "193",
 		"name": "Kinugasa",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
+			"IJN",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "207",
 		"name": "Kirishima",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "435",
 		"name": "Kirov",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"Light Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "272",
 		"name": "Kisaragi",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan009",
 		"name": "Kitakaze",
 		"tags": [
-			"Research",
-			"Priority",
-			"Sakura Empire",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Priority",
+			"Research",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "293",
 		"name": "Kiyonami",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab041",
 		"name": "Kizuna AI",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
 			"Kizuna AI",
 			"KizunaAI",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "204",
 		"name": "Kongou",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battlecruiser"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "539",
 		"name": "Kronshtadt",
 		"tags": [
-			"Ultra Rare",
+			"CB",
+			"Large Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Large Cruiser"
+			"Ultra Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "469",
 		"name": "Kumano",
 		"tags": [
+			"CA",
 			"Elite",
-			"Sakura Empire",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab031",
 		"name": "Kuon",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
 			"Super Rare",
 			"Utawarerumono",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "177",
 		"name": "Kuroshio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "240",
 		"name": "Köln",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Normal",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "238",
 		"name": "Königsberg",
 		"tags": [
-			"Normal",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Normal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "556",
 		"name": "L'Indomptable",
 		"tags": [
-			"Super Rare",
-			"Vichya Dominion",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"MNF",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "395",
 		"name": "L'Opiniâtre",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Iris Libre",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "456",
 		"name": "La Galissonnière",
 		"tags": [
+			"CL",
 			"Elite",
-			"Vichya Dominion",
+			"Light Cruiser",
 			"MNF",
-			"Light Cruiser"
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "019",
 		"name": "Laffey",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "072",
 		"name": "Langley",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"CVL",
+			"CVL",
 			"Eagle Union",
-			"USS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "394",
 		"name": "Le Malin",
 		"tags": [
-			"Super Rare",
-			"Vichya Dominion",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"MNF",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "481",
 		"name": "Le Malin μ",
 		"tags": [
-			"Super Rare",
-			"Muse",
-			"Vichya Dominion",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"MNF",
-			"Destroyer"
+			"Muse",
+			"Super Rare",
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "351",
 		"name": "Le Mars",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Vichya Dominion",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"MNF",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "522",
 		"name": "Le Terrible",
 		"tags": [
-			"Super Rare",
-			"Iris Libre",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "347",
 		"name": "Le Triomphant",
 		"tags": [
-			"Super Rare",
-			"Iris Libre",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "359",
 		"name": "Le Téméraire",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Iris Libre",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "104",
 		"name": "Leander",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Normal",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "241",
 		"name": "Leipzig",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "390",
 		"name": "Lena",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "073",
 		"name": "Lexington",
 		"tags": [
-			"Elite",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "392",
 		"name": "Li'l Sandy",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "505",
 		"name": "Libeccio",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sardegna Empire",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "335",
 		"name": "Little Bel",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "552",
 		"name": "Little Cheshire",
 		"tags": [
+			"CA",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "516",
 		"name": "Little Enterprise",
 		"tags": [
-			"Elite",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "459",
 		"name": "Little Illustrious",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "549",
 		"name": "Little Prinz Eugen",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "451",
 		"name": "Little Renown",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battlecruiser"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "410",
 		"name": "Littorio",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"BB",
+			"Battleship",
+			"Main",
 			"RN",
-			"Battleship"
+			"Sardegna Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "119",
 		"name": "London",
 		"tags": [
-			"Retrofit",
+			"CA",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "070",
 		"name": "Long Island",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"CVL",
+			"CVL",
 			"Eagle Union",
-			"USS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Rare",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "544",
 		"name": "Lützow",
 		"tags": [
-			"Super Rare",
+			"BC",
+			"Battlecruiser",
 			"Iron Blood",
+			"Main",
 			"SMS",
-			"Battlecruiser"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "504",
 		"name": "Maestrale",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sardegna Empire",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "525",
 		"name": "Magdeburg",
 		"tags": [
-			"Super Rare",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "523",
 		"name": "Maillé Brézé",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Iris Libre",
 			"FFNF",
-			"Destroyer"
+			"Iris Libre",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan015",
 		"name": "Mainz",
 		"tags": [
-			"Research",
-			"Priority",
+			"CL",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Priority",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "370",
 		"name": "Makinami",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
@@ -3243,1573 +3974,1924 @@
 		"name": "Mami Futami",
 		"tags": [
 			"Elite",
-			"The Idolmaster",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"The Idolmaster"
 		]
 	},
 	{
 		"id": "448",
 		"name": "Marblehead",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan022",
 		"name": "Marco Polo",
 		"tags": [
-			"Research",
+			"BB",
+			"Battleship",
+			"Main",
 			"Priority",
-			"Sardegna Empire",
 			"RN",
-			"Battleship"
+			"Research",
+			"Sardegna Empire"
 		]
 	},
 	{
 		"id": "10061",
 		"name": "Marie Rose",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Super Rare",
-			"Venus Vacation",
-			"Destroyer"
+			"Vanguard",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "061",
 		"name": "Maryland",
 		"tags": [
-			"Elite",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "354",
 		"name": "Massachusetts",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "325",
 		"name": "Matchless",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "270",
 		"name": "Matsukaze",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "010",
 		"name": "Maury",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "202",
 		"name": "Maya",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "009",
 		"name": "McCall",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "360",
 		"name": "Memphis",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "30011",
 		"name": "Memphis META",
 		"tags": [
+			"CL",
 			"Elite",
+			"Light Cruiser",
 			"META",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "333",
 		"name": "Michishio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "320",
 		"name": "Mikasa",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "280",
 		"name": "Mikazuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "189",
 		"name": "Mikuma",
 		"tags": [
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab053",
 		"name": "Minato Aqua",
 		"tags": [
-			"Super Rare",
 			"Hololive",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "276",
 		"name": "Minazuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "364",
 		"name": "Minneapolis",
 		"tags": [
-			"Super Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Super Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "432",
 		"name": "Minsk",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10064",
 		"name": "Misaki",
 		"tags": [
+			"CL",
+			"Light Cruiser",
 			"Super Rare",
-			"Venus Vacation",
-			"Light Cruiser"
+			"Vanguard",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "188",
 		"name": "Mogami",
 		"tags": [
-			"Retrofit",
+			"CA",
+			"CL",
 			"Elite",
-			"Sakura Empire",
+			"Heavy Cruiser",
 			"IJN",
 			"Light Cruiser",
-			"Heavy Cruiser"
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan002",
 		"name": "Monarch",
 		"tags": [
-			"Research",
-			"Priority",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Priority",
+			"Research",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "10067",
 		"name": "Monica",
 		"tags": [
+			"CL",
 			"Elite",
-			"Venus Vacation",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Vanguard",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "329",
 		"name": "Montpelier",
 		"tags": [
-			"Super Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Super Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "515",
 		"name": "Morrison",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10087",
 		"name": "Mujina",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"SSSS",
-			"Battleship"
+			"Main",
+			"SSSS"
 		]
 	},
 	{
 		"id": "375",
 		"name": "Mullany",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab056",
 		"name": "Murasaki Shion",
 		"tags": [
+			"CVL",
 			"Elite",
 			"Hololive",
-			"Light Carrier"
+			"Light Carrier",
+			"Main"
 		]
 	},
 	{
 		"id": "498",
 		"name": "Murmansk",
 		"tags": [
+			"CL",
 			"Elite",
+			"Light Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "326",
 		"name": "Musketeer",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "213",
 		"name": "Mutsu",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "271",
 		"name": "Mutsuki",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "196",
 		"name": "Myoukou",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "197",
 		"name": "Nachi",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "450",
 		"name": "Naganami",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "182",
 		"name": "Nagara",
 		"tags": [
+			"CL",
+			"IJN",
+			"Light Cruiser",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "212",
 		"name": "Nagato",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "278",
 		"name": "Nagatsuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10065",
 		"name": "Nagisa",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Venus Vacation",
-			"Battleship"
+			"Main",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "310",
 		"name": "Naka",
 		"tags": [
+			"CL",
+			"IJN",
+			"Light Cruiser",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab055",
 		"name": "Nakiri Ayame",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Hololive",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10084",
 		"name": "Namiko",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"SSSS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab054",
 		"name": "Natsuiro Matsuri",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
 			"Hololive",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "519",
 		"name": "Nautilus",
 		"tags": [
-			"Elite",
 			"Eagle Union",
-			"USS",
-			"Submarine"
+			"Elite",
+			"SS",
+			"Submarine",
+			"USS"
 		]
 	},
 	{
 		"id": "Collab032",
 		"name": "Nekone",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Super Rare",
 			"Utawarerumono",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "132",
 		"name": "Nelson",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "Plan001",
 		"name": "Neptune",
 		"tags": [
-			"Research",
-			"Priority",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Priority",
+			"Research",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab001",
 		"name": "Neptune",
 		"tags": [
+			"CL",
 			"Elite",
-			"Neptunia",
 			"HDN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Neptunia",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "052",
 		"name": "Nevada",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "068",
 		"name": "New Jersey",
 		"tags": [
-			"Ultra Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
+			"Main",
 			"USS",
-			"Battleship"
+			"Ultra Rare"
 		]
 	},
 	{
 		"id": "521",
 		"name": "New Orleans",
 		"tags": [
-			"Super Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Super Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "361",
 		"name": "Newcastle",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "301",
 		"name": "Nicholas",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "506",
 		"name": "Nicoloso da Recco",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sardegna Empire",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "295",
 		"name": "Niizuki",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "258",
 		"name": "Ning Hai",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"CL",
 			"Dragon Empery",
+			"Elite",
+			"Light Cruiser",
 			"ROC",
-			"Light Cruiser"
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab002",
 		"name": "Noire",
 		"tags": [
+			"CA",
 			"Elite",
-			"Neptunia",
 			"HDN",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Neptunia",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "123",
 		"name": "Norfolk",
 		"tags": [
+			"CA",
+			"HMS",
+			"Heavy Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "063",
 		"name": "North Carolina",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "041",
 		"name": "Northampton",
 		"tags": [
-			"Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "322",
 		"name": "Noshiro",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CL",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "170",
 		"name": "Nowaki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10066",
 		"name": "Nyotengu",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Venus Vacation",
-			"Aircraft Carrier"
+			"Main",
+			"Venus Vacation"
 		]
 	},
 	{
 		"id": "486",
 		"name": "Nürnberg",
 		"tags": [
+			"CL",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Plan016",
 		"name": "Odin",
 		"tags": [
-			"Research",
-			"Priority",
+			"BC",
+			"Battlecruiser",
 			"Iron Blood",
 			"KMS",
-			"Battlecruiser"
+			"Main",
+			"Priority",
+			"Research"
 		]
 	},
 	{
 		"id": "507",
 		"name": "Oite",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "053",
 		"name": "Oklahoma",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "029",
 		"name": "Omaha",
 		"tags": [
-			"Normal",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Normal",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "332",
 		"name": "Ooshio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "178",
 		"name": "Oyashio",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "434",
 		"name": "Pamiat' Merkuria",
 		"tags": [
-			"Retrofit",
+			"CL",
 			"Elite",
+			"Light Cruiser",
 			"Northern Parliament",
+			"Retrofit",
 			"SN",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "495",
 		"name": "Penelope",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "054",
 		"name": "Pennsylvania",
 		"tags": [
-			"Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "039",
 		"name": "Pensacola",
 		"tags": [
-			"Normal",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Normal",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "462",
 		"name": "Perseus",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CVL",
 			"HMS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "482",
 		"name": "Peter Strasser",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Iron Blood",
 			"KMS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "032",
 		"name": "Phoenix",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "259",
 		"name": "Ping Hai",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"CL",
 			"Dragon Empery",
+			"Elite",
+			"Light Cruiser",
 			"ROC",
-			"Light Cruiser"
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "20023",
 		"name": "Plymouth",
 		"tags": [
-			"Research",
+			"CL",
 			"Decisive",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Research",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "489",
 		"name": "Pola",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"CA",
+			"Heavy Cruiser",
 			"RN",
-			"Heavy Cruiser"
+			"Sardegna Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "541",
 		"name": "Pompeo Magno",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "044",
 		"name": "Portland",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Rare",
+			"Retrofit",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "135",
 		"name": "Prince of Wales",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "473",
 		"name": "Princeton",
 		"tags": [
-			"Elite",
+			"CVL",
 			"Eagle Union",
-			"USS",
-			"Light Carrier"
+			"Elite",
+			"Light Carrier",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "527",
 		"name": "Prinz Adalbert",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "244",
 		"name": "Prinz Eugen",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "483",
 		"name": "Prinz Heinrich",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "20024",
 		"name": "Prinz Rupprecht",
 		"tags": [
-			"Research",
-			"Priority",
+			"BC",
+			"Battlecruiser",
 			"Iron Blood",
 			"KMS",
-			"Battlecruiser"
+			"Main",
+			"Priority",
+			"Research"
 		]
 	},
 	{
 		"id": "002",
 		"name": "Prototype Bulin MKII",
 		"tags": [
-			"Super Rare",
 			"Bulin",
-			"Universal",
+			"DD",
+			"Destroyer",
+			"Super Rare",
 			"UNIV",
-			"Destroyer"
+			"Universal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab005",
 		"name": "Purple Heart",
 		"tags": [
-			"Super Rare",
-			"Neptunia",
+			"CL",
 			"HDN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Neptunia",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "130",
 		"name": "Queen Elizabeth",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "047",
 		"name": "Quincy",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "299",
 		"name": "Radford",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "030",
 		"name": "Raleigh",
 		"tags": [
-			"Normal",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Normal",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "075",
 		"name": "Ranger",
 		"tags": [
-			"Retrofit",
-			"Normal",
+			"CVL",
+			"CVL",
 			"Eagle Union",
-			"USS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Normal",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "445",
 		"name": "Reno",
 		"tags": [
-			"Super Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Super Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "127",
 		"name": "Renown",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battlecruiser"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "128",
 		"name": "Repulse",
 		"tags": [
-			"Rare",
-			"Royal Navy",
+			"BC",
+			"Battlecruiser",
 			"HMS",
-			"Battlecruiser"
+			"Main",
+			"Rare",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "30012",
 		"name": "Repulse META",
 		"tags": [
-			"Super Rare",
+			"BC",
+			"Battlecruiser",
 			"META",
-			"Battlecruiser"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "554",
 		"name": "Revenge",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "453",
 		"name": "Richelieu",
 		"tags": [
-			"Super Rare",
-			"Iris Libre",
+			"BB",
+			"Battleship",
 			"FFNF",
-			"Battleship"
+			"Iris Libre",
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "303",
 		"name": "Richmond",
 		"tags": [
-			"Normal",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Normal",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10081",
 		"name": "Rikka Takarada",
 		"tags": [
-			"Super Rare",
+			"CL",
+			"Light Cruiser",
 			"SSSS",
-			"Light Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10075",
 		"name": "Ritsuko Akizuki",
 		"tags": [
+			"AE",
 			"Elite",
+			"Munition Ship",
 			"The Idolmaster",
-			"Munition Ship"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "133",
 		"name": "Rodney",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "Plan005",
 		"name": "Roon",
 		"tags": [
-			"Research",
-			"Priority",
+			"CA",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Priority",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "479",
 		"name": "Roon μ",
 		"tags": [
-			"Super Rare",
-			"Muse",
+			"CA",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"KMS",
-			"Heavy Cruiser"
+			"Muse",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "30002",
 		"name": "Royal.META",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"META",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Collab033",
 		"name": "Rurutie",
 		"tags": [
+			"CL",
+			"Light Cruiser",
 			"Super Rare",
 			"Utawarerumono",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "426",
 		"name": "Ryuuhou",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CVL",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "223",
 		"name": "Ryuujou",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "Plan006",
 		"name": "Saint Louis",
 		"tags": [
-			"Research",
-			"Priority",
-			"Iris Libre",
+			"CA",
 			"FFNF",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Iris Libre",
+			"Priority",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "040",
 		"name": "Salt Lake City",
 		"tags": [
-			"Normal",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Normal",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "036",
 		"name": "San Diego",
 		"tags": [
+			"CL",
+			"Eagle Union",
+			"Light Cruiser",
 			"Retrofit",
 			"Super Rare",
-			"Eagle Union",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "512",
 		"name": "San Francisco",
 		"tags": [
-			"Super Rare",
+			"CA",
 			"Eagle Union",
+			"Heavy Cruiser",
+			"Super Rare",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "404",
 		"name": "San Juan",
 		"tags": [
-			"Rare",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Rare",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab035",
 		"name": "Saraana",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Utawarerumono",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Utawarerumono"
 		]
 	},
 	{
 		"id": "074",
 		"name": "Saratoga",
 		"tags": [
-			"Retrofit",
-			"Elite",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Elite",
+			"Main",
+			"Retrofit",
+			"USS"
 		]
 	},
 	{
 		"id": "248",
 		"name": "Scharnhorst",
 		"tags": [
+			"BC",
+			"Battlecruiser",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Battlecruiser"
+			"Main"
 		]
 	},
 	{
 		"id": "30009",
 		"name": "Scharnhorst META",
 		"tags": [
-			"Super Rare",
+			"BC",
+			"Battlecruiser",
 			"META",
-			"Battlecruiser"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Plan007",
 		"name": "Seattle",
 		"tags": [
-			"Research",
-			"Priority",
+			"CL",
 			"Eagle Union",
+			"Light Cruiser",
+			"Priority",
+			"Research",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "308",
 		"name": "Sendai",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"CL",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "543",
 		"name": "Seydlitz",
 		"tags": [
-			"Super Rare",
+			"BC",
+			"Battlecruiser",
 			"Iron Blood",
+			"Main",
 			"SMS",
-			"Battlecruiser"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "378",
 		"name": "Shangri-La",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "111",
 		"name": "Sheffield",
 		"tags": [
+			"CL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "421",
 		"name": "Sheffield μ",
 		"tags": [
+			"CL",
 			"Elite",
+			"HMS",
+			"Light Cruiser",
 			"Muse",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "165",
 		"name": "Shigure",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "268",
 		"name": "Shimakaze",
 		"tags": [
-			"Ultra Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Ultra Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "231",
 		"name": "Shinano",
 		"tags": [
-			"Ultra Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Ultra Rare"
 		]
 	},
 	{
 		"id": "Collab051",
 		"name": "Shirakami Fubuki",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Hololive",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "168",
 		"name": "Shiranui",
 		"tags": [
-			"Retrofit",
-			"Normal",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Normal",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "163",
 		"name": "Shiratsuyu",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "152",
 		"name": "Shirayuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "222",
 		"name": "Shouhou",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"CVL",
+			"CVL",
 			"IJN",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "228",
 		"name": "Shoukaku",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "120",
 		"name": "Shropshire",
 		"tags": [
+			"CA",
+			"HMS",
+			"Heavy Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "026",
 		"name": "Sims",
 		"tags": [
-			"Retrofit",
-			"Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
+			"Retrofit",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "371",
 		"name": "Sirius",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "417",
 		"name": "Smalley",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "537",
 		"name": "Soobrazitelny",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "226",
 		"name": "Souryuu",
 		"tags": [
-			"Retrofit",
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30004",
 		"name": "Souryuu META",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"META",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "065",
 		"name": "South Dakota",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "110",
 		"name": "Southampton",
 		"tags": [
+			"CL",
+			"HMS",
+			"Light Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "440",
 		"name": "Sovetskaya Belorussiya",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
+			"Main",
 			"Northern Parliament",
 			"SN",
-			"Battleship"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "441",
 		"name": "Sovetskaya Rossiya",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
+			"Main",
 			"Northern Parliament",
 			"SN",
-			"Battleship"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "003",
 		"name": "Specialized Bulin Custom MKIII",
 		"tags": [
-			"Ultra Rare",
 			"Bulin",
-			"Universal",
+			"DD",
+			"Destroyer",
 			"UNIV",
-			"Destroyer"
+			"Ultra Rare",
+			"Universal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "017",
 		"name": "Spence",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Normal",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "305",
 		"name": "St. Louis",
 		"tags": [
-			"Elite",
+			"CL",
 			"Eagle Union",
+			"Elite",
+			"Light Cruiser",
 			"USS",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "409",
 		"name": "Stanly",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "509",
 		"name": "Stephen Potter",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Elite",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "491",
 		"name": "Stremitelny",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "122",
 		"name": "Suffolk",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Royal Navy",
+			"CA",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Rare",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab044",
 		"name": "Super Gamer Kizuna AI",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Kizuna AI",
 			"KizunaAI",
-			"Battleship"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
@@ -4817,8 +5899,9 @@
 		"name": "Surcouf",
 		"tags": [
 			"Elite",
-			"Iris Libre",
 			"FFNF",
+			"Iris Libre",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -4826,212 +5909,261 @@
 		"id": "425",
 		"name": "Suruga",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "337",
 		"name": "Sussex",
 		"tags": [
+			"CA",
+			"HMS",
+			"Heavy Cruiser",
 			"Rare",
 			"Royal Navy",
-			"HMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "468",
 		"name": "Suzutsuki",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "382",
 		"name": "Suzuya",
 		"tags": [
+			"CA",
 			"Elite",
-			"Sakura Empire",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "393",
 		"name": "Swiftsure",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"CL",
 			"HMS",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Royal Navy",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "256",
 		"name": "Tai Yuan",
 		"tags": [
-			"Elite",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Dragon Empery",
+			"Elite",
 			"PRAN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "230",
 		"name": "Taihou",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "474",
 		"name": "Taihou μ",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
+			"IJN",
+			"Main",
 			"Muse",
 			"Sakura Empire",
-			"IJN",
-			"Aircraft Carrier"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "200",
 		"name": "Takao",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"CA",
+			"Heavy Cruiser",
 			"IJN",
-			"Heavy Cruiser"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "496",
 		"name": "Tallinn",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"Northern Parliament",
 			"SN",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "319",
 		"name": "Tanikaze",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "452",
 		"name": "Tartu",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Vichya Dominion",
 			"MNF",
-			"Destroyer"
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "433",
 		"name": "Tashkent",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "475",
 		"name": "Tashkent μ",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Muse",
 			"Northern Parliament",
 			"SN",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "058",
 		"name": "Tennessee",
 		"tags": [
-			"Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "150",
 		"name": "Terror",
 		"tags": [
+			"BM",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Monitor"
+			"Main",
+			"Monitor",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "014",
 		"name": "Thatcher",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Eagle Union",
+			"Rare",
 			"USS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "545",
 		"name": "Thüringen",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
 			"Iron Blood",
-			"SMS",
-			"Battleship"
+			"Main",
+			"SMS"
 		]
 	},
 	{
 		"id": "511",
 		"name": "Ticonderoga",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "251",
 		"name": "Tirpitz",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Iron Blood",
 			"KMS",
-			"Battleship"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Collab052",
 		"name": "Tokino Sora",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Hololive",
-			"Aircraft Carrier"
+			"Main",
+			"Super Rare"
 		]
 	},
 	{
@@ -5039,8 +6171,9 @@
 		"name": "Torricelli",
 		"tags": [
 			"Elite",
-			"Sardegna Empire",
 			"RN",
+			"SS",
+			"Sardegna Empire",
 			"Submarine"
 		]
 	},
@@ -5048,40 +6181,47 @@
 		"id": "215",
 		"name": "Tosa",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"BB",
+			"Battleship",
 			"IJN",
-			"Battleship"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "414",
 		"name": "Trento",
 		"tags": [
+			"CA",
+			"Heavy Cruiser",
+			"RN",
 			"Rare",
 			"Sardegna Empire",
-			"RN",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "542",
 		"name": "Trieste",
 		"tags": [
+			"CA",
 			"Elite",
-			"Sardegna Empire",
+			"Heavy Cruiser",
 			"RN",
-			"Heavy Cruiser"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "399",
 		"name": "U-101",
 		"tags": [
-			"Super Rare",
 			"Iron Blood",
 			"KMS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
@@ -5091,6 +6231,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5101,6 +6242,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5108,10 +6250,11 @@
 		"id": "484",
 		"name": "U-37",
 		"tags": [
-			"Super Rare",
 			"Iron Blood",
 			"KMS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
@@ -5121,6 +6264,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5128,10 +6272,11 @@
 		"id": "343",
 		"name": "U-47",
 		"tags": [
-			"Super Rare",
 			"Iron Blood",
 			"KMS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
@@ -5141,6 +6286,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5151,6 +6297,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5161,6 +6308,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5171,6 +6319,7 @@
 			"Elite",
 			"Iron Blood",
 			"KMS",
+			"SS",
 			"Submarine"
 		]
 	},
@@ -5178,650 +6327,806 @@
 		"id": "341",
 		"name": "U-81",
 		"tags": [
-			"Super Rare",
 			"Iron Blood",
 			"KMS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "467",
 		"name": "U-96",
 		"tags": [
-			"Super Rare",
 			"Iron Blood",
 			"KMS",
-			"Submarine"
+			"SS",
+			"Submarine",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "529",
 		"name": "Ulrich von Hutten",
 		"tags": [
-			"Ultra Rare",
+			"BB",
+			"Battleship",
 			"Iron Blood",
 			"KMS",
-			"Battleship"
+			"Main",
+			"Ultra Rare"
 		]
 	},
 	{
 		"id": "286",
 		"name": "Umikaze",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "142",
 		"name": "Unicorn",
 		"tags": [
-			"Retrofit",
+			"CVL",
+			"CVL",
 			"Elite",
-			"Royal Navy",
 			"HMS",
+			"Light Aircraft Carrier",
 			"Light Carrier",
-			"Light Aircraft Carrier"
+			"Main",
+			"Retrofit",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "001",
 		"name": "Universal Bulin",
 		"tags": [
-			"Elite",
 			"Bulin",
-			"Universal",
+			"DD",
+			"Destroyer",
+			"Elite",
 			"UNIV",
-			"Destroyer"
+			"Universal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "316",
 		"name": "Urakaze",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "429",
 		"name": "Uranami",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab034",
 		"name": "Uruuru",
 		"tags": [
+			"CVL",
 			"Elite",
-			"Utawarerumono",
-			"Light Carrier"
+			"Light Carrier",
+			"Main",
+			"Utawarerumono"
 		]
 	},
 	{
 		"id": "274",
 		"name": "Uzuki",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Normal",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "464",
 		"name": "Valiant",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy"
 		]
 	},
 	{
 		"id": "103",
 		"name": "Vampire",
 		"tags": [
+			"DD",
+			"DD AUX",
+			"Destroyer",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Destroyer"
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "137",
 		"name": "Vanguard",
 		"tags": [
-			"Ultra Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Royal Navy",
+			"Ultra Rare"
 		]
 	},
 	{
 		"id": "457",
 		"name": "Vauquelin",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Vichya Dominion",
 			"MNF",
-			"Destroyer"
+			"Vanguard",
+			"Vichya Dominion"
 		]
 	},
 	{
 		"id": "Collab004",
 		"name": "Vert",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
-			"Neptunia",
 			"HDN",
-			"Aircraft Carrier"
+			"Main",
+			"Neptunia"
 		]
 	},
 	{
 		"id": "080",
 		"name": "Vestal",
 		"tags": [
-			"Elite",
+			"AR",
 			"Eagle Union",
-			"USS",
-			"Repair"
+			"Elite",
+			"Main",
+			"Repair",
+			"USS"
 		]
 	},
 	{
 		"id": "146",
 		"name": "Victorious",
 		"tags": [
-			"Super Rare",
-			"Royal Navy",
+			"Aircraft Carrier",
+			"CV",
 			"HMS",
-			"Aircraft Carrier"
+			"Main",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "048",
 		"name": "Vincennes",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "490",
 		"name": "Vincenzo Gioberti",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sardegna Empire",
 			"RN",
-			"Destroyer"
+			"Sardegna Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "500",
 		"name": "Vittorio Veneto",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"BB",
+			"Battleship",
+			"Main",
 			"RN",
-			"Battleship"
+			"Sardegna Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "538",
 		"name": "Volga",
 		"tags": [
-			"Super Rare",
+			"Aircraft Carrier",
+			"CV",
+			"Main",
 			"Northern Parliament",
 			"SN",
-			"Aircraft Carrier"
+			"Super Rare"
 		]
 	},
 	{
 		"id": "173",
 		"name": "Wakaba",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
+			"IJN",
 			"Rare",
 			"Sakura Empire",
-			"IJN",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "131",
 		"name": "Warspite",
 		"tags": [
-			"Retrofit",
-			"Super Rare",
-			"Royal Navy",
+			"BB",
+			"Battleship",
 			"HMS",
-			"Battleship"
+			"Main",
+			"Retrofit",
+			"Royal Navy",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "064",
 		"name": "Washington",
 		"tags": [
-			"Super Rare",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Main",
+			"Super Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "079",
 		"name": "Wasp",
 		"tags": [
-			"Rare",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Main",
+			"Rare",
+			"USS"
 		]
 	},
 	{
 		"id": "485",
 		"name": "Weser",
 		"tags": [
+			"CVL",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Light Carrier"
+			"Light Carrier",
+			"Main"
 		]
 	},
 	{
 		"id": "062",
 		"name": "West Virginia",
 		"tags": [
-			"Elite",
+			"BB",
+			"Battleship",
 			"Eagle Union",
-			"USS",
-			"Battleship"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "Collab007",
 		"name": "White Heart",
 		"tags": [
-			"Super Rare",
-			"Neptunia",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"HDN",
-			"Destroyer"
+			"Neptunia",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "049",
 		"name": "Wichita",
 		"tags": [
-			"Elite",
+			"CA",
 			"Eagle Union",
+			"Elite",
+			"Heavy Cruiser",
 			"USS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "287",
 		"name": "Yamakaze",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "209",
 		"name": "Yamashiro",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
-			"IJN",
+			"Aviation Battleship",
+			"BB",
+			"BBV",
 			"Battleship",
-			"Aviation Battleship"
+			"IJN",
+			"Main",
+			"Rare",
+			"Retrofit",
+			"Sakura Empire"
 		]
 	},
 	{
 		"id": "30010",
 		"name": "Yamashiro META",
 		"tags": [
+			"BB",
+			"Battleship",
 			"Elite",
 			"META",
-			"Battleship"
+			"Main"
 		]
 	},
 	{
 		"id": "257",
 		"name": "Yat Sen",
 		"tags": [
-			"Elite",
+			"CL",
 			"Dragon Empery",
+			"Elite",
+			"Light Cruiser",
 			"ROC",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "493",
 		"name": "Ying Swei",
 		"tags": [
-			"Elite",
+			"CL",
 			"Dragon Empery",
+			"Elite",
+			"Light Cruiser",
 			"ROC",
-			"Light Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "297",
 		"name": "Yoizuki",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "546",
 		"name": "Yorck",
 		"tags": [
+			"CA",
 			"Elite",
+			"Heavy Cruiser",
 			"Iron Blood",
 			"SMS",
-			"Heavy Cruiser"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "125",
 		"name": "York",
 		"tags": [
-			"Retrofit",
+			"CA",
 			"Elite",
-			"Royal Navy",
 			"HMS",
-			"Heavy Cruiser"
+			"Heavy Cruiser",
+			"Retrofit",
+			"Royal Navy",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "076",
 		"name": "Yorktown",
 		"tags": [
-			"Elite",
+			"Aircraft Carrier",
+			"CV",
 			"Eagle Union",
-			"USS",
-			"Aircraft Carrier"
+			"Elite",
+			"Main",
+			"USS"
 		]
 	},
 	{
 		"id": "166",
 		"name": "Yukikaze",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "10085",
 		"name": "Yume Minami",
 		"tags": [
-			"Super Rare",
+			"CA",
+			"Heavy Cruiser",
 			"SSSS",
-			"Heavy Cruiser"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "185",
 		"name": "Yura",
 		"tags": [
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "179",
 		"name": "Yuubari",
 		"tags": [
-			"Retrofit",
+			"CL",
 			"Elite",
-			"Sakura Empire",
 			"IJN",
-			"Light Cruiser"
+			"Light Cruiser",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "164",
 		"name": "Yuudachi",
 		"tags": [
-			"Retrofit",
-			"Super Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Retrofit",
+			"Sakura Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "176",
 		"name": "Yuugure",
 		"tags": [
-			"Retrofit",
-			"Rare",
-			"Sakura Empire",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"IJN",
-			"Destroyer"
+			"Rare",
+			"Retrofit",
+			"Sakura Empire",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "233",
 		"name": "Z1",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "346",
 		"name": "Z18",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "264",
 		"name": "Z19",
 		"tags": [
-			"Rare",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "379",
 		"name": "Z2",
 		"tags": [
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "265",
 		"name": "Z20",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Normal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "266",
 		"name": "Z21",
 		"tags": [
-			"Normal",
+			"DD",
+			"DD TRP",
+			"Destroyer",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Normal",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "236",
 		"name": "Z23",
 		"tags": [
-			"Retrofit",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "487",
 		"name": "Z24",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "237",
 		"name": "Z25",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "466",
 		"name": "Z26",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "488",
 		"name": "Z28",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "345",
 		"name": "Z35",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "388",
 		"name": "Z36",
 		"tags": [
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Vanguard"
 		]
 	},
 	{
 		"id": "267",
 		"name": "Z46",
 		"tags": [
-			"Super Rare",
+			"DD",
+			"DD AOA",
+			"Destroyer",
 			"Iron Blood",
 			"KMS",
-			"Destroyer"
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "413",
 		"name": "Zara",
 		"tags": [
-			"Super Rare",
-			"Sardegna Empire",
+			"CA",
+			"Heavy Cruiser",
 			"RN",
-			"Heavy Cruiser"
+			"Sardegna Empire",
+			"Super Rare",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "385",
 		"name": "Zeppy",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
 			"Iron Blood",
 			"KMS",
-			"Aircraft Carrier"
+			"Main"
 		]
 	},
 	{
 		"id": "229",
 		"name": "Zuikaku",
 		"tags": [
-			"Super Rare",
-			"Sakura Empire",
+			"Aircraft Carrier",
+			"CV",
 			"IJN",
-			"Aircraft Carrier"
+			"Main",
+			"Sakura Empire",
+			"Super Rare"
 		]
 	},
 	{
 		"id": "Plan020",
 		"name": "Ägir",
 		"tags": [
-			"Research",
+			"CB",
 			"Decisive",
 			"Iron Blood",
 			"KMS",
-			"Large Cruiser"
+			"Large Cruiser",
+			"Research",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "349",
 		"name": "Émile Bertin",
 		"tags": [
-			"Retrofit",
+			"CL",
 			"Elite",
-			"Iris Libre",
 			"FFNF",
-			"Light Cruiser"
+			"Iris Libre",
+			"Light Cruiser",
+			"Retrofit",
+			"Vanguard"
 		]
 	},
 	{
 		"id": "Collab057",
 		"name": "Ōkami Mio",
 		"tags": [
+			"Aircraft Carrier",
+			"CV",
 			"Elite",
 			"Hololive",
-			"Aircraft Carrier"
+			"Main"
 		]
 	}
 ]
