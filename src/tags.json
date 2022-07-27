@@ -5,6 +5,7 @@
 		"tags": [
 			"BILI",
 			"Bilibili",
+			"Collab",
 			"DD",
 			"DD AUX",
 			"Destroyer",
@@ -18,6 +19,7 @@
 		"tags": [
 			"BILI",
 			"Bilibili",
+			"Collab",
 			"DD",
 			"DD AUX",
 			"Destroyer",
@@ -182,6 +184,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Main",
 			"SSSS",
 			"Super Rare"
@@ -314,6 +317,7 @@
 		"id": "10076",
 		"name": "Ami Futami",
 		"tags": [
+			"Collab",
 			"Elite",
 			"SS",
 			"Submarine",
@@ -355,6 +359,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Kizuna AI",
 			"KizunaAI",
 			"Main",
@@ -642,6 +647,7 @@
 		"name": "Azusa Miura",
 		"tags": [
 			"CA",
+			"Collab",
 			"Heavy Cruiser",
 			"Super Rare",
 			"The Idolmaster",
@@ -803,6 +809,7 @@
 		"name": "Black Heart",
 		"tags": [
 			"CA",
+			"Collab",
 			"HDN",
 			"Heavy Cruiser",
 			"Neptunia",
@@ -826,6 +833,7 @@
 		"id": "Collab003",
 		"name": "Blanc",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -1179,6 +1187,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Main",
 			"Super Rare",
 			"The Idolmaster"
@@ -1202,6 +1211,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Main",
 			"SSSS",
 			"Super Rare"
@@ -1662,6 +1672,7 @@
 		"name": "Elegant Kizuna AI",
 		"tags": [
 			"CA",
+			"Collab",
 			"Heavy Cruiser",
 			"Kizuna AI",
 			"KizunaAI",
@@ -1904,6 +1915,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Elite",
 			"Main",
 			"Utawarerumono"
@@ -2126,6 +2138,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"HDN",
 			"Main",
 			"Neptunia",
@@ -2318,6 +2331,7 @@
 		"name": "Haruka Amami",
 		"tags": [
 			"CL",
+			"Collab",
 			"Light Cruiser",
 			"Super Rare",
 			"The Idolmaster",
@@ -2354,6 +2368,7 @@
 		"name": "Hass",
 		"tags": [
 			"CL",
+			"Collab",
 			"Elite",
 			"Light Cruiser",
 			"SSSS",
@@ -2568,6 +2583,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Main",
 			"Super Rare",
 			"Venus Vacation"
@@ -2909,6 +2925,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Main",
 			"Super Rare",
 			"The Idolmaster"
@@ -3265,6 +3282,7 @@
 		"name": "Kasumi",
 		"tags": [
 			"CA",
+			"Collab",
 			"Heavy Cruiser",
 			"Super Rare",
 			"Vanguard",
@@ -3465,6 +3483,7 @@
 		"id": "Collab041",
 		"name": "Kizuna AI",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -3515,6 +3534,7 @@
 		"name": "Kuon",
 		"tags": [
 			"CA",
+			"Collab",
 			"Heavy Cruiser",
 			"Super Rare",
 			"Utawarerumono",
@@ -3973,6 +3993,7 @@
 		"id": "10077",
 		"name": "Mami Futami",
 		"tags": [
+			"Collab",
 			"Elite",
 			"SS",
 			"Submarine",
@@ -4008,6 +4029,7 @@
 		"id": "10061",
 		"name": "Marie Rose",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -4182,6 +4204,7 @@
 		"id": "Collab053",
 		"name": "Minato Aqua",
 		"tags": [
+			"Collab",
 			"Hololive",
 			"SS",
 			"Submarine",
@@ -4231,6 +4254,7 @@
 		"name": "Misaki",
 		"tags": [
 			"CL",
+			"Collab",
 			"Light Cruiser",
 			"Super Rare",
 			"Vanguard",
@@ -4270,6 +4294,7 @@
 		"name": "Monica",
 		"tags": [
 			"CL",
+			"Collab",
 			"Elite",
 			"Light Cruiser",
 			"Vanguard",
@@ -4307,6 +4332,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Elite",
 			"Main",
 			"SSSS"
@@ -4330,6 +4356,7 @@
 		"name": "Murasaki Shion",
 		"tags": [
 			"CVL",
+			"Collab",
 			"Elite",
 			"Hololive",
 			"Light Carrier",
@@ -4467,6 +4494,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Elite",
 			"Main",
 			"Venus Vacation"
@@ -4489,6 +4517,7 @@
 		"name": "Nakiri Ayame",
 		"tags": [
 			"CA",
+			"Collab",
 			"Elite",
 			"Heavy Cruiser",
 			"Hololive",
@@ -4500,6 +4529,7 @@
 		"name": "Namiko",
 		"tags": [
 			"CA",
+			"Collab",
 			"Elite",
 			"Heavy Cruiser",
 			"SSSS",
@@ -4510,6 +4540,7 @@
 		"id": "Collab054",
 		"name": "Natsuiro Matsuri",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -4533,6 +4564,7 @@
 		"id": "Collab032",
 		"name": "Nekone",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD AUX",
 			"Destroyer",
@@ -4571,6 +4603,7 @@
 		"name": "Neptune",
 		"tags": [
 			"CL",
+			"Collab",
 			"Elite",
 			"HDN",
 			"Light Cruiser",
@@ -4686,6 +4719,7 @@
 		"name": "Noire",
 		"tags": [
 			"CA",
+			"Collab",
 			"Elite",
 			"HDN",
 			"Heavy Cruiser",
@@ -4760,6 +4794,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Elite",
 			"Main",
 			"Venus Vacation"
@@ -5094,6 +5129,7 @@
 		"name": "Purple Heart",
 		"tags": [
 			"CL",
+			"Collab",
 			"HDN",
 			"Light Cruiser",
 			"Neptunia",
@@ -5253,6 +5289,7 @@
 		"name": "Rikka Takarada",
 		"tags": [
 			"CL",
+			"Collab",
 			"Light Cruiser",
 			"SSSS",
 			"Super Rare",
@@ -5264,6 +5301,7 @@
 		"name": "Ritsuko Akizuki",
 		"tags": [
 			"AE",
+			"Collab",
 			"Elite",
 			"Munition Ship",
 			"The Idolmaster",
@@ -5324,6 +5362,7 @@
 		"name": "Rurutie",
 		"tags": [
 			"CL",
+			"Collab",
 			"Light Cruiser",
 			"Super Rare",
 			"Utawarerumono",
@@ -5421,6 +5460,7 @@
 		"name": "Saraana",
 		"tags": [
 			"CVL",
+			"Collab",
 			"Elite",
 			"Light Carrier",
 			"Main",
@@ -5581,6 +5621,7 @@
 		"id": "Collab051",
 		"name": "Shirakami Fubuki",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -5888,6 +5929,7 @@
 		"tags": [
 			"BB",
 			"Battleship",
+			"Collab",
 			"Kizuna AI",
 			"KizunaAI",
 			"Main",
@@ -6161,6 +6203,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Hololive",
 			"Main",
 			"Super Rare"
@@ -6429,6 +6472,7 @@
 		"name": "Uruuru",
 		"tags": [
 			"CVL",
+			"Collab",
 			"Elite",
 			"Light Carrier",
 			"Main",
@@ -6504,6 +6548,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Elite",
 			"HDN",
 			"Main",
@@ -6661,6 +6706,7 @@
 		"id": "Collab007",
 		"name": "White Heart",
 		"tags": [
+			"Collab",
 			"DD",
 			"DD TRP",
 			"Destroyer",
@@ -6813,6 +6859,7 @@
 		"name": "Yume Minami",
 		"tags": [
 			"CA",
+			"Collab",
 			"Heavy Cruiser",
 			"SSSS",
 			"Super Rare",
@@ -7124,6 +7171,7 @@
 		"tags": [
 			"Aircraft Carrier",
 			"CV",
+			"Collab",
 			"Elite",
 			"Hololive",
 			"Main"

@@ -1,11 +1,8 @@
 import fs from 'node:fs';
-import { dirname, join } from 'path';
-import { fileURLToPath } from 'url';
 
 import skin_list_extract from './voiceline/skin_list_extract.js';
 import voiceline_extract from './voiceline/voiceline_extract.js';
 
-const __dirname	= dirname(fileURLToPath(import.meta.url));
 
 export default function voiceline(azurapi, voiceline, voiceline_extra, skin_id, skin_template, name_code)
 {

@@ -47,6 +47,24 @@ export default function tags(azurapi)
 		if (["001", "002", "003"].includes(SHIP_ID))
 			TAGS.push("Bulin");
 
+		// Collab
+		const NATION_LIST = [
+			"Universal",
+			"Eagle Union",
+			"Royal Navy",
+			"Sakura Empire",
+			"Iron Blood",
+			"Dragon Empery",
+			"Sardegna Empire",
+			"Northern Parliament",
+			"Iris Libre",
+			"Vichya Dominion",
+			"META"
+		];
+
+		if (NATION && !NATION_LIST.includes(NATION))
+			TAGS.push("Collab");
+
 		// NATIONALITY
 		if (NATION) TAGS.push(NATION);
 		else console.log("=> Invalid nationality: " + NATION);
@@ -156,7 +174,10 @@ export default function tags(azurapi)
 			DEV_LEVELS.forEach((dev) =>
 				dev.buffs.forEach((buff) => destroyerBonusType(buff)));
 
+		// Equipment Type {}
 
+
+		// tags sort by alphabet
 		TAGS.sort((a, b) => a < b ? -1 : 1);
 
 		CONTAINER.push({ id: SHIP_ID, name: NAME, tags: TAGS });
@@ -171,11 +192,47 @@ export default function tags(azurapi)
 	);
 };
 
-// container design
-const prototype = {
-	id: String,
-	name: String,
-	tags: [String, Number, Boolean]
-};
+// typelist
+/*
+	S1-{type}
+	S2-{type}
+	S3-{type}
+	S4-{type}
+	S5-{type}
 
-// fetch type tags.json => res.json() => api
+	{type} => number/integer => range 1 > 20;
+
+	S1M+{mount_count}
+	S2M+{mount_count}
+	S3M+{mount_count}
+		
+	{mount_count} => number/integer => approx value > 1
+
+	Torpedo Preload +{preload_count}
+	Airstrike Preload +{preload_count}
+	Gun Preload +{preload_count}
+
+	{preload_count} => number/integer => approx value > 1
+
+	guntype => {gun_type}
+	{gun_type} => oneof
+		DD Gun
+		CL Gun
+		CA Gun
+		BB Gun
+		Torpedo
+		AA Gun
+		Fighter
+		Torpedo Bomber
+		Dive Bomber
+		Auxiliary
+		CB Gun
+		Seaplane
+		Submarine Torpedo
+		Depth Charge
+		Sonar
+		ASW Bomber
+		Helicopter
+		Cargo
+		Missle
+*/
