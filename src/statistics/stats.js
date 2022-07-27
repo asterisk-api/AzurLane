@@ -1,20 +1,20 @@
-export default function stats(azurapi, ship, range, kai=false) {
+export default function stats(azurapi, ship, range, kai = false)
+{
     const gid = azurapi._gid;
 
     let sid_range = gid.toString() + range;
     let kai_range = false;
 
-    if ( azurapi._sid.length === 1 ) sid_range = azurapi._sid[0];
-    if ( kai )
+    if ( azurapi._sid.length === 1 )
+        sid_range = azurapi._sid[0];
+
+    if ( kai && azurapi.retrofit)
     {
-        if ( azurapi.retrofit )
+        sid_range = range;
+        if ( !range )
         {
-            sid_range = range;
-            if ( !range )
-            {
-                sid_range = gid.toString() + "4";
-                kai_range = true;
-            };
+            sid_range = gid.toString() + "4";
+            kai_range = true;
         };
     };
 

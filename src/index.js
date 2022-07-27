@@ -65,37 +65,35 @@ Promise.all([
         research_enhance, research_effect,
         skin_words, skin_words_extra,
         ship_skin, skin_template, name_code
-    ]) => {
+    ]) =>
+    {
         if ( ARGS.includes('statistics') || ARGS.includes('stat') )
-        {
             statistics(
                 azurapi, ship_statistic, ship_enhance,
                 meta_enhance, meta_repair, meta_effect,
                 research_enhance, research_effect,
                 retrofit, retrofit_template
             );
-        };
 
         if ( ARGS.includes('equipable') || ARGS.includes('eq') )
-        {
             equipable(azurapi, ship_template, retrofit, retrofit_template);
-        };
 
         if ( ARGS.includes('voiceline') || ARGS.includes('vl') )
-        {
             voiceline(azurapi, skin_words, skin_words_extra, ship_skin.all, skin_template, name_code);
-        };
 
-        fs.writeFile("./dist/azurapi.json", JSON.stringify(azurapi, null, '\t'), 'utf8', function (err) {
-            if (err)
-            {
-                console.log("An error occured while writing JSON to File");
-                return console.log(err);
-            };
-            console.log("=> ./dist/azurapi.json has been updated!");
-        });
+        fs.writeFile(
+            "./dist/azurapi.json",
+            JSON.stringify(azurapi, null, '\t'),
+            'utf8',
+            function (err) {
+                if (err)
+                {
+                    console.log("An error occured while writing JSON to File");
+                    return console.log(err);
+                };
+                console.log("=> ./dist/azurapi.json has been updated!");
+            }
+        );
     },
-    (error) => {
-        console.log('error: ' + error);
-    }
+    (error) => console.log('error: ' + error)
 );

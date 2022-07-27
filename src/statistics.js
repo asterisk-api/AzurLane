@@ -11,13 +11,15 @@ export default function statistics(
     meta_enhance, meta_repair, meta_effect,
     research_enhance, research_effect,
     retrofit_data, retrofit_template
-) {
+)
+{
     let json_builder = [];
-    azurapi.forEach((api) => {
-        const gid     = api._gid;
-        const sid     = api._sid;
-        const id      = api.id;
-        const name    = api.names.en;
+    azurapi.forEach((api) =>
+    {
+        const gid  = api._gid;
+        const sid  = api._sid;
+        const id   = api.id;
+        const name = api.names.en;
 
         let break_1, break_2, break_3, break_4;
         let growth_1, growth_2, growth_3, growth_4;
@@ -63,7 +65,8 @@ export default function statistics(
                 retrofit_growth: retrofit_growth,
                 retrofit_enhance: retrofit_enhance
             });
-        } else
+        }
+        else
         {
             json_builder.push({
                 id: id,
@@ -75,7 +78,8 @@ export default function statistics(
             });
         };
 
-        function statsGet(type, kai=false, level=124, affection=1.06) {
+        function statsGet(type, kai=false, level=124, affection=1.06)
+        {
             let stats   = stats_builder.slice(-1)[0][type];
             let growth  = growth_builder.slice(-1)[0][type];
             let enhance = enhance_builder[type];
@@ -91,7 +95,8 @@ export default function statistics(
             return Math.floor( ( stats + ( ( growth * level ) / 1000 ) + enhance ) * oath );
         };
 
-        function consoleGet(type, kai=false) {
+        function consoleGet(type, kai=false)
+        {
             let subtype = type;
             if ( type === "asw" ) subtype = "antisubmarineWarfare";
             if ( type === "hit" ) subtype = "accuracy";
@@ -125,12 +130,18 @@ export default function statistics(
 
     });
 
-    fs.writeFile("./dist/statistics.json", JSON.stringify(json_builder, null, '\t'), 'utf8', function (err) {
-        if (err)
+    fs.writeFile(
+        "./dist/statistics.json",
+        JSON.stringify(json_builder, null, '\t'),
+        'utf8',
+        function (err)
         {
-            console.log("An error occured while writing JSON to File");
-            return console.log(err);
-        };
+            if (err)
+            {
+                console.log("An error occured while writing JSON to File");
+                return console.log(err);
+            };
         console.log("=> ./dist/statistics.json has been updated!");
-    });
+        }
+    );
 };

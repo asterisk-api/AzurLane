@@ -1,0 +1,4672 @@
+[
+	{
+		"id": "Collab021",
+		"name": "22",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab022",
+		"name": "33",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "336",
+		"name": "Abercrombie",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "187",
+		"name": "Abukuma",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "082",
+		"name": "Acasta",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "105",
+		"name": "Achilles",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "246",
+		"name": "Admiral Graf Spee",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "242",
+		"name": "Admiral Hipper",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "422",
+		"name": "Admiral Hipper μ",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "321",
+		"name": "Agano",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "106",
+		"name": "Ajax",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "224",
+		"name": "Akagi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "419",
+		"name": "Akagi μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "384",
+		"name": "Akagi-chan",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10082",
+		"name": "Akane Shinjo",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "232",
+		"name": "Akashi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "159",
+		"name": "Akatsuki",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "401",
+		"name": "Alabama",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "358",
+		"name": "Albacore",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "477",
+		"name": "Albacore μ",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "455",
+		"name": "Algérie",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "508",
+		"name": "Allen M. Sumner",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "367",
+		"name": "Amagi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "510",
+		"name": "Amagi-chan",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "081",
+		"name": "Amazon",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "10076",
+		"name": "Ami Futami",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "253",
+		"name": "An Shan",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan018",
+		"name": "Anchorage",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "Collab043",
+		"name": "Anniversary Kizuna AI",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "192",
+		"name": "Aoba",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "502",
+		"name": "Aquila",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "334",
+		"name": "Arashio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "513",
+		"name": "Archerfish",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "083",
+		"name": "Ardent",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "116",
+		"name": "Arethusa",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "175",
+		"name": "Ariake",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "055",
+		"name": "Arizona",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "144",
+		"name": "Ark Royal",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "536",
+		"name": "Arkhangelsk",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "331",
+		"name": "Asashio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "198",
+		"name": "Ashigara",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "046",
+		"name": "Astoria",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "201",
+		"name": "Atago",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "034",
+		"name": "Atlanta",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Plan021",
+		"name": "August von Parseval",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "015",
+		"name": "Aulick",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "118",
+		"name": "Aurora",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "262",
+		"name": "Avrora",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "155",
+		"name": "Ayanami",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "406",
+		"name": "Aylwin",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Plan010",
+		"name": "Azuma",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "10074",
+		"name": "Azusa Miura",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "407",
+		"name": "Bache",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "263",
+		"name": "Bailey",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "050",
+		"name": "Baltimore",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "478",
+		"name": "Baltimore μ",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "403",
+		"name": "Bataan",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "086",
+		"name": "Beagle",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "115",
+		"name": "Belfast",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "551",
+		"name": "Bellona",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "018",
+		"name": "Benson",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "428",
+		"name": "Biloxi",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "405",
+		"name": "Birmingham",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "250",
+		"name": "Bismarck",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab006",
+		"name": "Black Heart",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "408",
+		"name": "Black Prince",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab003",
+		"name": "Blanc",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "446",
+		"name": "Bluegill",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "071",
+		"name": "Bogue",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "514",
+		"name": "Boise",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "443",
+		"name": "Bremerton",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "20027",
+		"name": "Brest",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "533",
+		"name": "Bristol",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "031",
+		"name": "Brooklyn",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "087",
+		"name": "Bulldog",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "380",
+		"name": "Bunker Hill",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "355",
+		"name": "Bush",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "458",
+		"name": "Béarn",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "059",
+		"name": "California",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "415",
+		"name": "Carabiniere",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "447",
+		"name": "Casablanca",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "005",
+		"name": "Cassin",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "402",
+		"name": "Cavalla",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "356",
+		"name": "Centaur",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Plan017",
+		"name": "Champagne",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "255",
+		"name": "Chang Chun",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "494",
+		"name": "Chao Ho",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "436",
+		"name": "Chapayev",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "013",
+		"name": "Charles Ausburne",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "530",
+		"name": "Charybdis",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "376",
+		"name": "Chaser",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "534",
+		"name": "Chen Hai",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan013",
+		"name": "Cheshire",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "042",
+		"name": "Chicago",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "10072",
+		"name": "Chihaya Kisaragi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "195",
+		"name": "Chikuma",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "10086",
+		"name": "Chise Asukagawa",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "470",
+		"name": "Chitose",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "471",
+		"name": "Chiyoda",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "20026",
+		"name": "Chkalov",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "203",
+		"name": "Choukai",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "391",
+		"name": "Clevelad",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "037",
+		"name": "Cleveland",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "420",
+		"name": "Cleveland μ",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "060",
+		"name": "Colorado",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "038",
+		"name": "Columbia",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "088",
+		"name": "Comet",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "366",
+		"name": "Concord",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "411",
+		"name": "Conte di Cavour",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "444",
+		"name": "Cooper",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "008",
+		"name": "Craven",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "089",
+		"name": "Crescent",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "372",
+		"name": "Curacoa",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "373",
+		"name": "Curlew",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "090",
+		"name": "Cygnet",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "342",
+		"name": "Dace",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "330",
+		"name": "Denver",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "245",
+		"name": "Deutschland",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "004",
+		"name": "Dewey",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "107",
+		"name": "Dido",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "476",
+		"name": "Dido μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "124",
+		"name": "Dorsetshire",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "006",
+		"name": "Downes",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "Plan014",
+		"name": "Drake",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "501",
+		"name": "Duca degli Abruzzi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "136",
+		"name": "Duke of York",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "352",
+		"name": "Dunkerque",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "143",
+		"name": "Eagle",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "389",
+		"name": "Echo",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "114",
+		"name": "Edinburgh",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "526",
+		"name": "Elbe",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "548",
+		"name": "Elbing",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "028",
+		"name": "Eldridge",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab042",
+		"name": "Elegant Kizuna AI",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "547",
+		"name": "Emden",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "557",
+		"name": "Enterprise",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "077",
+		"name": "Enterprise",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "149",
+		"name": "Erebus",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "460",
+		"name": "Eskimo",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "357",
+		"name": "Essex",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "126",
+		"name": "Exeter",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "327",
+		"name": "Fiji",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "011",
+		"name": "Fletcher",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "524",
+		"name": "Foch",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "016",
+		"name": "Foote",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "348",
+		"name": "Forbin",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "147",
+		"name": "Formidable",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "092",
+		"name": "Fortune",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "091",
+		"name": "Foxhound",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "Plan011",
+		"name": "Friedrich der Große",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "254",
+		"name": "Fu Shun",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "151",
+		"name": "Fubuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab036",
+		"name": "Fumiruiru",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "277",
+		"name": "Fumizuki",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "190",
+		"name": "Furutaka",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "208",
+		"name": "Fusou",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "30005",
+		"name": "Fusou META",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "117",
+		"name": "Galatea",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "437",
+		"name": "Gangut",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan012",
+		"name": "Gascogne",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "418",
+		"name": "Gascogne μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Plan008",
+		"name": "Georgia",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "412",
+		"name": "Giulio Cesare",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "423",
+		"name": "Glasgow",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "148",
+		"name": "Glorious",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "113",
+		"name": "Gloucester",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "094",
+		"name": "Glowworm",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "249",
+		"name": "Gneisenau",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "30007",
+		"name": "Gneisenau META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "252",
+		"name": "Graf Zeppelin",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab008",
+		"name": "Green Heart",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "497",
+		"name": "Gremyashchy",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "093",
+		"name": "Grenville",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "007",
+		"name": "Gridley",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "499",
+		"name": "Gromky",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "431",
+		"name": "Grozny",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "532",
+		"name": "Hai Chi",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "531",
+		"name": "Hai Tien",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan019",
+		"name": "Hakuryuu",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "427",
+		"name": "Halsey Powell",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "318",
+		"name": "Hamakaze",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "027",
+		"name": "Hammann",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "449",
+		"name": "Hanazuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "20025",
+		"name": "Harbin",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "096",
+		"name": "Hardy",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10071",
+		"name": "Haruka Amami",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "206",
+		"name": "Haruna",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "296",
+		"name": "Harutsuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10083",
+		"name": "Hass",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "369",
+		"name": "Hatakaze",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "171",
+		"name": "Hatsuharu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "174",
+		"name": "Hatsushimo",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "365",
+		"name": "Hazelwood",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "033",
+		"name": "Helena",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "30003",
+		"name": "Helena META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "140",
+		"name": "Hermes",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "463",
+		"name": "Hermione",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "160",
+		"name": "Hibiki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "205",
+		"name": "Hiei",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "383",
+		"name": "Hiei-chan",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "30001",
+		"name": "Hiryu.META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "227",
+		"name": "Hiryuu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "218",
+		"name": "Hiyou",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "30006",
+		"name": "Hiyou META",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "362",
+		"name": "Hobby",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "10062",
+		"name": "Honoka",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "304",
+		"name": "Honolulu",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "129",
+		"name": "Hood",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "078",
+		"name": "Hornet",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "220",
+		"name": "Houshou",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "043",
+		"name": "Houston",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "461",
+		"name": "Howe",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "100",
+		"name": "Hunter",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "211",
+		"name": "Hyuuga",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "381",
+		"name": "I-13",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "398",
+		"name": "I-168",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "338",
+		"name": "I-19",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "396",
+		"name": "I-25",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "339",
+		"name": "I-26",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "397",
+		"name": "I-56",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "340",
+		"name": "I-58",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan003",
+		"name": "Ibuki",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "465",
+		"name": "Icarus",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "161",
+		"name": "Ikazuchi",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "145",
+		"name": "Illustrious",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "480",
+		"name": "Illustrious μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "540",
+		"name": "Impero",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "162",
+		"name": "Inazuma",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "377",
+		"name": "Independence",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "045",
+		"name": "Indianapolis",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "553",
+		"name": "Indomitable",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "518",
+		"name": "Ingraham",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "442",
+		"name": "Intrepid",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "10073",
+		"name": "Iori Minase",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "210",
+		"name": "Ise",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "317",
+		"name": "Isokaze",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "183",
+		"name": "Isuzu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "Plan004",
+		"name": "Izumo",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "328",
+		"name": "Jamaica",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "101",
+		"name": "Javelin",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "353",
+		"name": "Jean Bart",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "454",
+		"name": "Jeanne d'Arc",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "300",
+		"name": "Jenkins",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "307",
+		"name": "Jersey",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "550",
+		"name": "Jervis",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "309",
+		"name": "Jintsuu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "555",
+		"name": "Joffre",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "035",
+		"name": "Juneau",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "102",
+		"name": "Juno",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "219",
+		"name": "Junyou",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "30008",
+		"name": "Junyou META",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "306",
+		"name": "Jupiter",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "225",
+		"name": "Kaga",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "368",
+		"name": "Kaga(BB)",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "167",
+		"name": "Kagerou",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "191",
+		"name": "Kako",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "363",
+		"name": "Kalk",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "269",
+		"name": "Kamikaze",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "239",
+		"name": "Karlsruhe",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "472",
+		"name": "Kashino",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "424",
+		"name": "Kasumi",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "10063",
+		"name": "Kasumi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "520",
+		"name": "Katsuragi",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "288",
+		"name": "Kawakaze",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "517",
+		"name": "Kazagumo",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "121",
+		"name": "Kent",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "535",
+		"name": "Kiev",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "214",
+		"name": "Kii",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "374",
+		"name": "Kimberly",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "134",
+		"name": "King George V",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "186",
+		"name": "Kinu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "193",
+		"name": "Kinugasa",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "207",
+		"name": "Kirishima",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "435",
+		"name": "Kirov",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "272",
+		"name": "Kisaragi",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "Plan009",
+		"name": "Kitakaze",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "293",
+		"name": "Kiyonami",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Collab041",
+		"name": "Kizuna AI",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "204",
+		"name": "Kongou",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "539",
+		"name": "Kronshtadt",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "469",
+		"name": "Kumano",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab031",
+		"name": "Kuon",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "177",
+		"name": "Kuroshio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "240",
+		"name": "Köln",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "238",
+		"name": "Königsberg",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "556",
+		"name": "L'Indomptable",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "395",
+		"name": "L'Opiniâtre",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "456",
+		"name": "La Galissonnière",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "019",
+		"name": "Laffey",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "072",
+		"name": "Langley",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "394",
+		"name": "Le Malin",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "481",
+		"name": "Le Malin μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "351",
+		"name": "Le Mars",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "522",
+		"name": "Le Terrible",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "347",
+		"name": "Le Triomphant",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "359",
+		"name": "Le Téméraire",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "104",
+		"name": "Leander",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "241",
+		"name": "Leipzig",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "390",
+		"name": "Lena",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "073",
+		"name": "Lexington",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "392",
+		"name": "Li'l Sandy",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "505",
+		"name": "Libeccio",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "335",
+		"name": "Little Bel",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "552",
+		"name": "Little Cheshire",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "516",
+		"name": "Little Enterprise",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "459",
+		"name": "Little Illustrious",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "549",
+		"name": "Little Prinz Eugen",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "451",
+		"name": "Little Renown",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "410",
+		"name": "Littorio",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "119",
+		"name": "London",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "070",
+		"name": "Long Island",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "544",
+		"name": "Lützow",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "504",
+		"name": "Maestrale",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "525",
+		"name": "Magdeburg",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "523",
+		"name": "Maillé Brézé",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan015",
+		"name": "Mainz",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "370",
+		"name": "Makinami",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10077",
+		"name": "Mami Futami",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "448",
+		"name": "Marblehead",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Plan022",
+		"name": "Marco Polo",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "10061",
+		"name": "Marie Rose",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "061",
+		"name": "Maryland",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "354",
+		"name": "Massachusetts",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "325",
+		"name": "Matchless",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "270",
+		"name": "Matsukaze",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "010",
+		"name": "Maury",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "202",
+		"name": "Maya",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "009",
+		"name": "McCall",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "360",
+		"name": "Memphis",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "30011",
+		"name": "Memphis META",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "333",
+		"name": "Michishio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "320",
+		"name": "Mikasa",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "280",
+		"name": "Mikazuki",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "189",
+		"name": "Mikuma",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab053",
+		"name": "Minato Aqua",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "276",
+		"name": "Minazuki",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "364",
+		"name": "Minneapolis",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "432",
+		"name": "Minsk",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10064",
+		"name": "Misaki",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "188",
+		"name": "Mogami",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan002",
+		"name": "Monarch",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "10067",
+		"name": "Monica",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "329",
+		"name": "Montpelier",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "515",
+		"name": "Morrison",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10087",
+		"name": "Mujina",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "375",
+		"name": "Mullany",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab056",
+		"name": "Murasaki Shion",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "498",
+		"name": "Murmansk",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "326",
+		"name": "Musketeer",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "213",
+		"name": "Mutsu",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "271",
+		"name": "Mutsuki",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "196",
+		"name": "Myoukou",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "197",
+		"name": "Nachi",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "450",
+		"name": "Naganami",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "182",
+		"name": "Nagara",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "212",
+		"name": "Nagato",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "278",
+		"name": "Nagatsuki",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "10065",
+		"name": "Nagisa",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "310",
+		"name": "Naka",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Collab055",
+		"name": "Nakiri Ayame",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10084",
+		"name": "Namiko",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab054",
+		"name": "Natsuiro Matsuri",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "519",
+		"name": "Nautilus",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab032",
+		"name": "Nekone",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "132",
+		"name": "Nelson",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan001",
+		"name": "Neptune",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "Collab001",
+		"name": "Neptune",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "052",
+		"name": "Nevada",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "068",
+		"name": "New Jersey",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "521",
+		"name": "New Orleans",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "361",
+		"name": "Newcastle",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "301",
+		"name": "Nicholas",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "506",
+		"name": "Nicoloso da Recco",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "295",
+		"name": "Niizuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "258",
+		"name": "Ning Hai",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab002",
+		"name": "Noire",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "123",
+		"name": "Norfolk",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "063",
+		"name": "North Carolina",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "041",
+		"name": "Northampton",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "322",
+		"name": "Noshiro",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "170",
+		"name": "Nowaki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "10066",
+		"name": "Nyotengu",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "486",
+		"name": "Nürnberg",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan016",
+		"name": "Odin",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "507",
+		"name": "Oite",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "053",
+		"name": "Oklahoma",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "029",
+		"name": "Omaha",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "332",
+		"name": "Ooshio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "178",
+		"name": "Oyashio",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "434",
+		"name": "Pamiat' Merkuria",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "495",
+		"name": "Penelope",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "054",
+		"name": "Pennsylvania",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "039",
+		"name": "Pensacola",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "462",
+		"name": "Perseus",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "482",
+		"name": "Peter Strasser",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "032",
+		"name": "Phoenix",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "259",
+		"name": "Ping Hai",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "20023",
+		"name": "Plymouth",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "489",
+		"name": "Pola",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "541",
+		"name": "Pompeo Magno",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "044",
+		"name": "Portland",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "135",
+		"name": "Prince of Wales",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "473",
+		"name": "Princeton",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "527",
+		"name": "Prinz Adalbert",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "244",
+		"name": "Prinz Eugen",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "483",
+		"name": "Prinz Heinrich",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "20024",
+		"name": "Prinz Rupprecht",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "002",
+		"name": "Prototype Bulin MKII",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab005",
+		"name": "Purple Heart",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "130",
+		"name": "Queen Elizabeth",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "047",
+		"name": "Quincy",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "299",
+		"name": "Radford",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "030",
+		"name": "Raleigh",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "075",
+		"name": "Ranger",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "445",
+		"name": "Reno",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "127",
+		"name": "Renown",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "128",
+		"name": "Repulse",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "30012",
+		"name": "Repulse META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "554",
+		"name": "Revenge",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "453",
+		"name": "Richelieu",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "303",
+		"name": "Richmond",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "10081",
+		"name": "Rikka Takarada",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "10075",
+		"name": "Ritsuko Akizuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "133",
+		"name": "Rodney",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan005",
+		"name": "Roon",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "479",
+		"name": "Roon μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "30002",
+		"name": "Royal.META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab033",
+		"name": "Rurutie",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "426",
+		"name": "Ryuuhou",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "223",
+		"name": "Ryuujou",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Plan006",
+		"name": "Saint Louis",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "040",
+		"name": "Salt Lake City",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "036",
+		"name": "San Diego",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "512",
+		"name": "San Francisco",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "404",
+		"name": "San Juan",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "Collab035",
+		"name": "Saraana",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "074",
+		"name": "Saratoga",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "248",
+		"name": "Scharnhorst",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "30009",
+		"name": "Scharnhorst META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Plan007",
+		"name": "Seattle",
+		"tags": [
+			"Research",
+			"Priority"
+		]
+	},
+	{
+		"id": "308",
+		"name": "Sendai",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "543",
+		"name": "Seydlitz",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "378",
+		"name": "Shangri-La",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "111",
+		"name": "Sheffield",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "421",
+		"name": "Sheffield μ",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "165",
+		"name": "Shigure",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "268",
+		"name": "Shimakaze",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "231",
+		"name": "Shinano",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "Collab051",
+		"name": "Shirakami Fubuki",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "168",
+		"name": "Shiranui",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Normal"
+		]
+	},
+	{
+		"id": "163",
+		"name": "Shiratsuyu",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "152",
+		"name": "Shirayuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "222",
+		"name": "Shouhou",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "228",
+		"name": "Shoukaku",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "120",
+		"name": "Shropshire",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "026",
+		"name": "Sims",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "371",
+		"name": "Sirius",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "417",
+		"name": "Smalley",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "537",
+		"name": "Soobrazitelny",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "226",
+		"name": "Souryuu",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "30004",
+		"name": "Souryuu META",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "065",
+		"name": "South Dakota",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "110",
+		"name": "Southampton",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "440",
+		"name": "Sovetskaya Belorussiya",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "441",
+		"name": "Sovetskaya Rossiya",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "003",
+		"name": "Specialized Bulin Custom MKIII",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "017",
+		"name": "Spence",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "305",
+		"name": "St. Louis",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "409",
+		"name": "Stanly",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "509",
+		"name": "Stephen Potter",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "491",
+		"name": "Stremitelny",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "122",
+		"name": "Suffolk",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "Collab044",
+		"name": "Super Gamer Kizuna AI",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "350",
+		"name": "Surcouf",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "425",
+		"name": "Suruga",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "337",
+		"name": "Sussex",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "468",
+		"name": "Suzutsuki",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "382",
+		"name": "Suzuya",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "393",
+		"name": "Swiftsure",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "256",
+		"name": "Tai Yuan",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "230",
+		"name": "Taihou",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "474",
+		"name": "Taihou μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "200",
+		"name": "Takao",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "496",
+		"name": "Tallinn",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "319",
+		"name": "Tanikaze",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "452",
+		"name": "Tartu",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "433",
+		"name": "Tashkent",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "475",
+		"name": "Tashkent μ",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "058",
+		"name": "Tennessee",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "150",
+		"name": "Terror",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "014",
+		"name": "Thatcher",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "545",
+		"name": "Thüringen",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "511",
+		"name": "Ticonderoga",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "251",
+		"name": "Tirpitz",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Collab052",
+		"name": "Tokino Sora",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "503",
+		"name": "Torricelli",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "215",
+		"name": "Tosa",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "414",
+		"name": "Trento",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "542",
+		"name": "Trieste",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "399",
+		"name": "U-101",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "416",
+		"name": "U-110",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "528",
+		"name": "U-1206",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "484",
+		"name": "U-37",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "492",
+		"name": "U-410",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "343",
+		"name": "U-47",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "400",
+		"name": "U-522",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "386",
+		"name": "U-556",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "344",
+		"name": "U-557",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "387",
+		"name": "U-73",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "341",
+		"name": "U-81",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "467",
+		"name": "U-96",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "529",
+		"name": "Ulrich von Hutten",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "286",
+		"name": "Umikaze",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "142",
+		"name": "Unicorn",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "001",
+		"name": "Universal Bulin",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "316",
+		"name": "Urakaze",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "429",
+		"name": "Uranami",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab034",
+		"name": "Uruuru",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "274",
+		"name": "Uzuki",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "464",
+		"name": "Valiant",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "103",
+		"name": "Vampire",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "137",
+		"name": "Vanguard",
+		"tags": [
+			"Research",
+			"Ultra Rare"
+		]
+	},
+	{
+		"id": "457",
+		"name": "Vauquelin",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab004",
+		"name": "Vert",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "080",
+		"name": "Vestal",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "146",
+		"name": "Victorious",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "048",
+		"name": "Vincennes",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "490",
+		"name": "Vincenzo Gioberti",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "500",
+		"name": "Vittorio Veneto",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "538",
+		"name": "Volga",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "173",
+		"name": "Wakaba",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "131",
+		"name": "Warspite",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "064",
+		"name": "Washington",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "079",
+		"name": "Wasp",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "485",
+		"name": "Weser",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "062",
+		"name": "West Virginia",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab007",
+		"name": "White Heart",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "049",
+		"name": "Wichita",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "287",
+		"name": "Yamakaze",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "209",
+		"name": "Yamashiro",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "30010",
+		"name": "Yamashiro META",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "257",
+		"name": "Yat Sen",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "493",
+		"name": "Ying Swei",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "297",
+		"name": "Yoizuki",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "546",
+		"name": "Yorck",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "125",
+		"name": "York",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "076",
+		"name": "Yorktown",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "166",
+		"name": "Yukikaze",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "10085",
+		"name": "Yume Minami",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "185",
+		"name": "Yura",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "179",
+		"name": "Yuubari",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "164",
+		"name": "Yuudachi",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "176",
+		"name": "Yuugure",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Rare"
+		]
+	},
+	{
+		"id": "233",
+		"name": "Z1",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "346",
+		"name": "Z18",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "264",
+		"name": "Z19",
+		"tags": [
+			"Research",
+			"Rare"
+		]
+	},
+	{
+		"id": "379",
+		"name": "Z2",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "265",
+		"name": "Z20",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "266",
+		"name": "Z21",
+		"tags": [
+			"Research",
+			"Normal"
+		]
+	},
+	{
+		"id": "236",
+		"name": "Z23",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "487",
+		"name": "Z24",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "237",
+		"name": "Z25",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "466",
+		"name": "Z26",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "488",
+		"name": "Z28",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "345",
+		"name": "Z35",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "388",
+		"name": "Z36",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "267",
+		"name": "Z46",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "413",
+		"name": "Zara",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "385",
+		"name": "Zeppy",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	},
+	{
+		"id": "229",
+		"name": "Zuikaku",
+		"tags": [
+			"Research",
+			"Super Rare"
+		]
+	},
+	{
+		"id": "Plan020",
+		"name": "Ägir",
+		"tags": [
+			"Research",
+			"Decisive"
+		]
+	},
+	{
+		"id": "349",
+		"name": "Émile Bertin",
+		"tags": [
+			"Research",
+			"Retrofit",
+			"Elite"
+		]
+	},
+	{
+		"id": "Collab057",
+		"name": "Ōkami Mio",
+		"tags": [
+			"Research",
+			"Elite"
+		]
+	}
+]

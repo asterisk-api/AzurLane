@@ -11,9 +11,11 @@ const _voiceline  = JSON.parse(fs.readFileSync("./voiceline.json"));
 const version = JSON.parse(fs.readFileSync("./version.json"));
 const _version = JSON.parse(fs.readFileSync("./version.json"));
 
+// statistics
 if ( JSON.stringify(statistics) !== JSON.stringify(_statistics) )
 {
-    fs.writeFile("./statistics.json", JSON.stringify(statistics), 'utf8', function (err) {
+    fs.writeFile("./statistics.json", JSON.stringify(statistics), 'utf8', function (err)
+    {
         if (err)
         {
             console.log("An error occured while writing JSON to File");
@@ -25,9 +27,11 @@ if ( JSON.stringify(statistics) !== JSON.stringify(_statistics) )
     version.statistics.timestamp = Date.now();
 } else { console.log("=> ./statistics.json is up to date!") };
 
+// equipable
 if ( JSON.stringify(equipable) !== JSON.stringify(_equipable) )
 {
-    fs.writeFile("./equipable.json", JSON.stringify(equipable), 'utf8', function (err) {
+    fs.writeFile("./equipable.json", JSON.stringify(equipable), 'utf8', function (err)
+    {
         if (err)
         {
             console.log("An error occured while writing JSON to File");
@@ -39,9 +43,11 @@ if ( JSON.stringify(equipable) !== JSON.stringify(_equipable) )
     version.equipable.timestamp = Date.now();
 } else { console.log("=> ./equipable.json is up to date!") };
 
+// voiceline
 if ( JSON.stringify(voiceline) !== JSON.stringify(_voiceline) )
 {
-    fs.writeFile("./voiceline.json", JSON.stringify(voiceline), 'utf8', function (err) {
+    fs.writeFile("./voiceline.json", JSON.stringify(voiceline), 'utf8', function (err)
+    {
         if (err)
         {
             console.log("An error occured while writing JSON to File");
@@ -53,9 +59,11 @@ if ( JSON.stringify(voiceline) !== JSON.stringify(_voiceline) )
     version.voiceline.timestamp = Date.now();
 } else { console.log("=> ./voiceline.json is up to date!") };
 
+// version
 if ( JSON.stringify(version) !== JSON.stringify(_version) )
 {
-    fs.writeFile("./version.json", JSON.stringify(version), 'utf8', function (err) {
+    fs.writeFile("./version.json", JSON.stringify(version), 'utf8', function (err)
+    {
         if (err)
         {
             console.log("An error occured while writing JSON to File");

@@ -1,4 +1,5 @@
-export default function enhance(azurapi, enhance, enhance_meta, meta_repair, meta_effect, enhance_pr, pr_effect) {
+export default function enhance(azurapi, enhance, enhance_meta, meta_repair, meta_effect, enhance_pr, pr_effect)
+{
     const gid     = azurapi._gid;
     const faction = azurapi.nationality;
 
@@ -27,7 +28,8 @@ export default function enhance(azurapi, enhance, enhance_meta, meta_repair, met
         enhance_reload.forEach((idx) => enhance_rld += meta_repair[idx].effect_attr[1]);
         enhance_torpedo.forEach((idx) => enhance_trp += meta_repair[idx].effect_attr[1]);
 
-        enhance_effect.forEach((idx) => {
+        enhance_effect.forEach((idx) =>
+        {
             enhance_hp  += meta_effect[idx[1]].effect_attr[0][1];
             enhance_aa  += meta_effect[idx[1]].effect_attr[1][1];
             enhance_hit += meta_effect[idx[1]].effect_attr[2][1];
@@ -48,17 +50,20 @@ export default function enhance(azurapi, enhance, enhance_meta, meta_repair, met
         const enhance_effect = enhance_pr[gid].strengthen_effect;
         const enhance_fate   = enhance_pr[gid].fate_strengthen;
 
-        enhance_effect.forEach((idx) => {
+        enhance_effect.forEach((idx) =>
+        {
             if ( pr_effect[idx].effect_attr === "" ) return;
 
-            pr_effect[idx].effect_attr.forEach((plx) => {
+            pr_effect[idx].effect_attr.forEach((plx) =>
+            {
                 if ( plx[0] === "durability" ) enhance_hp += plx[1];
                 if ( plx[0] === "antiaircraft" ) enhance_aa += plx[1];
                 if ( plx[0] === "dodge" ) enhance_eva += plx[1];
             });
         });
         
-        enhance_fate.forEach((idx) => {
+        enhance_fate.forEach((idx) =>
+        {
             if ( pr_effect[idx].effect_attr === "" ) return;
 
             enhance_luck += pr_effect[idx].effect_attr[0][1];

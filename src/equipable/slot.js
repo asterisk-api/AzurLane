@@ -1,13 +1,15 @@
 import fs from 'node:fs';
 
-export default function slot(azurapi, data, range, kai=false) {
+export default function slot(azurapi, data, range, kai=false)
+{
     const gid  = azurapi._gid;
 
     let sid_range = gid.toString() + range;
     if ( kai ) sid_range = range;
     if ( !range ) sid_range = gid.toString() + "4";
 
-    function filter(idx) {
+    function filter(idx)
+    {
         if ( idx === 1 ) return { id: 1, category: "Destroyer Guns", type: "DD Gun" };
         if ( idx === 2 ) return { id: 2, category: "Light Cruiser Guns", type: "CL Gun" };
         if ( idx === 3 ) return { id: 3, category: "Heavy Cruiser Guns", type: "CA Gun" };
@@ -34,11 +36,11 @@ export default function slot(azurapi, data, range, kai=false) {
     let equip_4 = [];
     let equip_5 = [];
 
-    data[sid_range].equip_1.forEach((idx) => { equip_1.push(filter(idx)) });
-    data[sid_range].equip_2.forEach((idx) => { equip_2.push(filter(idx)) });
-    data[sid_range].equip_3.forEach((idx) => { equip_3.push(filter(idx)) });
-    data[sid_range].equip_4.forEach((idx) => { equip_4.push(filter(idx)) });
-    data[sid_range].equip_5.forEach((idx) => { equip_5.push(filter(idx)) });
+    data[sid_range].equip_1.forEach((idx) => equip_1.push(filter(idx)));
+    data[sid_range].equip_2.forEach((idx) => equip_2.push(filter(idx)));
+    data[sid_range].equip_3.forEach((idx) => equip_3.push(filter(idx)));
+    data[sid_range].equip_4.forEach((idx) => equip_4.push(filter(idx)));
+    data[sid_range].equip_5.forEach((idx) => equip_5.push(filter(idx)));
 
     return ({
         equip_1: equip_1,

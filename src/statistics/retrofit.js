@@ -1,4 +1,5 @@
-export default function retrofit(azurapi, retrofit, retrofit_effect, id=false) {
+export default function retrofit(azurapi, retrofit, retrofit_effect, id = false)
+{
     const gid = azurapi._gid;
 
     let retrofit_hp   = 0;
@@ -17,31 +18,26 @@ export default function retrofit(azurapi, retrofit, retrofit_effect, id=false) {
     if ( azurapi.retrofit )
     {
         let retrofit_tree = [];
-        retrofit[gid].transform_list.forEach((idx) => {
-            idx.forEach((kai) => retrofit_tree.push(kai[1]));
-        });
+        retrofit[gid].transform_list.forEach((idx) => idx.forEach((kai) => retrofit_tree.push(kai[1])));
 
-        retrofit_tree.forEach((idx) => {
-            retrofit_effect[idx].effect.forEach((efx) => {
-               if ( efx.antiaircraft )            { retrofit_aa  += efx.antiaircraft };
-               if ( efx.air )                     { retrofit_avi += efx.air };
-               if ( efx.antisub )                 { retrofit_asw += efx.antisub };
-               if ( efx.cannon )                  { retrofit_fp  += efx.cannon };
-               if ( efx.dodge )                   { retrofit_eva += efx.dodge };
-               if ( efx.durability )              { retrofit_hp  += efx.durability };
-               if ( efx.hit )                     { retrofit_hit += efx.hit };
-               if ( efx.reload )                  { retrofit_rld += efx.reload };
-               if ( efx.speed )                   { retrofit_spd += efx.speed };
-               if ( efx.torpedo )                 { retrofit_trp += efx.torpedo };
+        retrofit_tree.forEach((idx) =>
+        {
+            retrofit_effect[idx].effect.forEach((efx) =>
+            {
+               if ( efx.antiaircraft ) retrofit_aa  += efx.antiaircraft;
+               if ( efx.air )          retrofit_avi += efx.air;
+               if ( efx.antisub )      retrofit_asw += efx.antisub;
+               if ( efx.cannon )       retrofit_fp  += efx.cannon;
+               if ( efx.dodge )        retrofit_eva += efx.dodge;
+               if ( efx.durability )   retrofit_hp  += efx.durability;
+               if ( efx.hit )          retrofit_hit += efx.hit;
+               if ( efx.reload )       retrofit_rld += efx.reload;
+               if ( efx.speed )        retrofit_spd += efx.speed;
+               if ( efx.torpedo )      retrofit_trp += efx.torpedo;
             });
 
-            if ( id )
-            {
-                if ( retrofit_effect[idx].ship_id.length !== 0 )
-                {
-                    return_value = retrofit_effect[idx].ship_id[0][1];
-                }
-            };
+            if ( id && retrofit_effect[idx].ship_id.length !== 0 )
+                return_value = retrofit_effect[idx].ship_id[0][1];
         });
     };
 

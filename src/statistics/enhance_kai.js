@@ -1,4 +1,5 @@
-export default function enhance_kai(azurapi, enhance, enhance_meta, retrofit_id) {
+export default function enhance_kai(azurapi, enhance, enhance_meta, retrofit_id)
+{
     let gid = azurapi._gid;
 
     if ( retrofit_id ) gid = retrofit_id.toString().slice(0, -1);
