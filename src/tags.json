@@ -3,222 +3,278 @@
 		"id": "Collab021",
 		"name": "22",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Bilibili",
+			"BILI",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab022",
 		"name": "33",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Bilibili",
+			"BILI",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "336",
 		"name": "Abercrombie",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Monitor"
 		]
 	},
 	{
 		"id": "187",
 		"name": "Abukuma",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "082",
 		"name": "Acasta",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "105",
 		"name": "Achilles",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "246",
 		"name": "Admiral Graf Spee",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "242",
 		"name": "Admiral Hipper",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "422",
 		"name": "Admiral Hipper μ",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Muse",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "321",
 		"name": "Agano",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "106",
 		"name": "Ajax",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "224",
 		"name": "Akagi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "419",
 		"name": "Akagi μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "384",
 		"name": "Akagi-chan",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "10082",
 		"name": "Akane Shinjo",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"SSSS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "232",
 		"name": "Akashi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Repair"
 		]
 	},
 	{
 		"id": "159",
 		"name": "Akatsuki",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "401",
 		"name": "Alabama",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "358",
 		"name": "Albacore",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "477",
 		"name": "Albacore μ",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Muse",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "455",
 		"name": "Algérie",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "508",
 		"name": "Allen M. Sumner",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "367",
 		"name": "Amagi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "510",
 		"name": "Amagi-chan",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "081",
 		"name": "Amazon",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10076",
 		"name": "Ami Futami",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"The Idolmaster",
+			"Submarine"
 		]
 	},
 	{
 		"id": "253",
 		"name": "An Shan",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"PRAN",
+			"Destroyer",
+			"DDG"
 		]
 	},
 	{
@@ -226,138 +282,173 @@
 		"name": "Anchorage",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "Collab043",
 		"name": "Anniversary Kizuna AI",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Kizuna AI",
+			"KizunaAI",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "192",
 		"name": "Aoba",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "502",
 		"name": "Aquila",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "334",
 		"name": "Arashio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "513",
 		"name": "Archerfish",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "083",
 		"name": "Ardent",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "116",
 		"name": "Arethusa",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "175",
 		"name": "Ariake",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "055",
 		"name": "Arizona",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "144",
 		"name": "Ark Royal",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "536",
 		"name": "Arkhangelsk",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "331",
 		"name": "Asashio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "198",
 		"name": "Ashigara",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "046",
 		"name": "Astoria",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "201",
 		"name": "Atago",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "034",
 		"name": "Atlanta",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -365,48 +456,61 @@
 		"name": "August von Parseval",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iron Blood",
+			"KMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "015",
 		"name": "Aulick",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "118",
 		"name": "Aurora",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "262",
 		"name": "Avrora",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "155",
 		"name": "Ayanami",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "406",
 		"name": "Aylwin",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
@@ -414,169 +518,213 @@
 		"name": "Azuma",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Sakura Empire",
+			"IJN",
+			"Large Cruiser"
 		]
 	},
 	{
 		"id": "10074",
 		"name": "Azusa Miura",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"The Idolmaster",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "407",
 		"name": "Bache",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "263",
 		"name": "Bailey",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "050",
 		"name": "Baltimore",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "478",
 		"name": "Baltimore μ",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Muse",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "403",
 		"name": "Bataan",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "086",
 		"name": "Beagle",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "115",
 		"name": "Belfast",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "551",
 		"name": "Bellona",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "018",
 		"name": "Benson",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "428",
 		"name": "Biloxi",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "405",
 		"name": "Birmingham",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "250",
 		"name": "Bismarck",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "Collab006",
 		"name": "Black Heart",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Neptunia",
+			"HDN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "408",
 		"name": "Black Prince",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab003",
 		"name": "Blanc",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Neptunia",
+			"HDN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "446",
 		"name": "Bluegill",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "071",
 		"name": "Bogue",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "514",
 		"name": "Boise",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "443",
 		"name": "Bremerton",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
@@ -584,104 +732,131 @@
 		"name": "Brest",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Iris Libre",
+			"FFNF",
+			"Large Cruiser"
 		]
 	},
 	{
 		"id": "533",
 		"name": "Bristol",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "031",
 		"name": "Brooklyn",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "087",
 		"name": "Bulldog",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "380",
 		"name": "Bunker Hill",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "355",
 		"name": "Bush",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "458",
 		"name": "Béarn",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "059",
 		"name": "California",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "415",
 		"name": "Carabiniere",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "447",
 		"name": "Casablanca",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "005",
 		"name": "Cassin",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "402",
 		"name": "Cavalla",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "356",
 		"name": "Centaur",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Carrier"
 		]
 	},
 	{
@@ -689,64 +864,81 @@
 		"name": "Champagne",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iris Libre",
+			"FFNF",
+			"Battleship"
 		]
 	},
 	{
 		"id": "255",
 		"name": "Chang Chun",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"PRAN",
+			"Destroyer",
+			"DDG"
 		]
 	},
 	{
 		"id": "494",
 		"name": "Chao Ho",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"ROC",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "436",
 		"name": "Chapayev",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "013",
 		"name": "Charles Ausburne",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "530",
 		"name": "Charybdis",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "376",
 		"name": "Chaser",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "534",
 		"name": "Chen Hai",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"Light Carrier"
 		]
 	},
 	{
@@ -754,55 +946,68 @@
 		"name": "Cheshire",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "042",
 		"name": "Chicago",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "10072",
 		"name": "Chihaya Kisaragi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"The Idolmaster",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "195",
 		"name": "Chikuma",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "10086",
 		"name": "Chise Asukagawa",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"SSSS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "470",
 		"name": "Chitose",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "471",
 		"name": "Chiyoda",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
@@ -810,197 +1015,248 @@
 		"name": "Chkalov",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Northern Parliament",
+			"SN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "203",
 		"name": "Choukai",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "391",
 		"name": "Clevelad",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "037",
 		"name": "Cleveland",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "420",
 		"name": "Cleveland μ",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Muse",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "060",
 		"name": "Colorado",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "038",
 		"name": "Columbia",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "088",
 		"name": "Comet",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "366",
 		"name": "Concord",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "411",
 		"name": "Conte di Cavour",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sardegna Empire",
+			"RN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "444",
 		"name": "Cooper",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "008",
 		"name": "Craven",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "089",
 		"name": "Crescent",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "372",
 		"name": "Curacoa",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "373",
 		"name": "Curlew",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "090",
 		"name": "Cygnet",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "342",
 		"name": "Dace",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "330",
 		"name": "Denver",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "245",
 		"name": "Deutschland",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "004",
 		"name": "Dewey",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "107",
 		"name": "Dido",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "476",
 		"name": "Dido μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "124",
 		"name": "Dorsetshire",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "006",
 		"name": "Downes",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
@@ -1008,211 +1264,264 @@
 		"name": "Drake",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "501",
 		"name": "Duca degli Abruzzi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "136",
 		"name": "Duke of York",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "352",
 		"name": "Dunkerque",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Vichya Dominion",
+			"MNF",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "143",
 		"name": "Eagle",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "389",
 		"name": "Echo",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "114",
 		"name": "Edinburgh",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "526",
 		"name": "Elbe",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "548",
 		"name": "Elbing",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"SMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "028",
 		"name": "Eldridge",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab042",
 		"name": "Elegant Kizuna AI",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Kizuna AI",
+			"KizunaAI",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "547",
 		"name": "Emden",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"SMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "557",
 		"name": "Enterprise",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "077",
 		"name": "Enterprise",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "149",
 		"name": "Erebus",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Monitor"
 		]
 	},
 	{
 		"id": "460",
 		"name": "Eskimo",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "357",
 		"name": "Essex",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "126",
 		"name": "Exeter",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "327",
 		"name": "Fiji",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "011",
 		"name": "Fletcher",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "524",
 		"name": "Foch",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Vichya Dominion",
+			"MNF",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "016",
 		"name": "Foote",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "348",
 		"name": "Forbin",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "147",
 		"name": "Formidable",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "092",
 		"name": "Fortune",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "091",
 		"name": "Foxhound",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
@@ -1220,81 +1529,101 @@
 		"name": "Friedrich der Große",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Iron Blood",
+			"KMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "254",
 		"name": "Fu Shun",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"PRAN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "151",
 		"name": "Fubuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab036",
 		"name": "Fumiruiru",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Utawarerumono",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "277",
 		"name": "Fumizuki",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "190",
 		"name": "Furutaka",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "208",
 		"name": "Fusou",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship",
+			"Aviation Battleship"
 		]
 	},
 	{
 		"id": "30005",
 		"name": "Fusou META",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"META",
+			"Battleship"
 		]
 	},
 	{
 		"id": "117",
 		"name": "Galatea",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "437",
 		"name": "Gangut",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Battleship"
 		]
 	},
 	{
@@ -1302,15 +1631,21 @@
 		"name": "Gascogne",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Vichya Dominion",
+			"MNF",
+			"Battleship"
 		]
 	},
 	{
 		"id": "418",
 		"name": "Gascogne μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Vichya Dominion",
+			"MNF",
+			"Battleship"
 		]
 	},
 	{
@@ -1318,135 +1653,167 @@
 		"name": "Georgia",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "412",
 		"name": "Giulio Cesare",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "423",
 		"name": "Glasgow",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "148",
 		"name": "Glorious",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "113",
 		"name": "Gloucester",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "094",
 		"name": "Glowworm",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "249",
 		"name": "Gneisenau",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "30007",
 		"name": "Gneisenau META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "252",
 		"name": "Graf Zeppelin",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "Collab008",
 		"name": "Green Heart",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Neptunia",
+			"HDN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "497",
 		"name": "Gremyashchy",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "093",
 		"name": "Grenville",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "007",
 		"name": "Gridley",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "499",
 		"name": "Gromky",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "431",
 		"name": "Grozny",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "532",
 		"name": "Hai Chi",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "531",
 		"name": "Hai Tien",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -1454,41 +1821,52 @@
 		"name": "Hakuryuu",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "427",
 		"name": "Halsey Powell",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "318",
 		"name": "Hamakaze",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "027",
 		"name": "Hammann",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "449",
 		"name": "Hanazuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
@@ -1496,309 +1874,382 @@
 		"name": "Harbin",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Dragon Empery",
+			"PRAN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "096",
 		"name": "Hardy",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10071",
 		"name": "Haruka Amami",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"The Idolmaster",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "206",
 		"name": "Haruna",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "296",
 		"name": "Harutsuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10083",
 		"name": "Hass",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"SSSS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "369",
 		"name": "Hatakaze",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "171",
 		"name": "Hatsuharu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "174",
 		"name": "Hatsushimo",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "365",
 		"name": "Hazelwood",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "033",
 		"name": "Helena",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "30003",
 		"name": "Helena META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "140",
 		"name": "Hermes",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "463",
 		"name": "Hermione",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "160",
 		"name": "Hibiki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "205",
 		"name": "Hiei",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "383",
 		"name": "Hiei-chan",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "30001",
 		"name": "Hiryu.META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "227",
 		"name": "Hiryuu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "218",
 		"name": "Hiyou",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "30006",
 		"name": "Hiyou META",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"META",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "362",
 		"name": "Hobby",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10062",
 		"name": "Honoka",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Venus Vacation",
+			"Battleship"
 		]
 	},
 	{
 		"id": "304",
 		"name": "Honolulu",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "129",
 		"name": "Hood",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "078",
 		"name": "Hornet",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "220",
 		"name": "Houshou",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "043",
 		"name": "Houston",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "461",
 		"name": "Howe",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "100",
 		"name": "Hunter",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "211",
 		"name": "Hyuuga",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship",
+			"Aviation Battleship"
 		]
 	},
 	{
 		"id": "381",
 		"name": "I-13",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Submarine Carrier"
 		]
 	},
 	{
 		"id": "398",
 		"name": "I-168",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "338",
 		"name": "I-19",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "396",
 		"name": "I-25",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "339",
 		"name": "I-26",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "397",
 		"name": "I-56",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "340",
 		"name": "I-58",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Submarine"
 		]
 	},
 	{
@@ -1806,130 +2257,165 @@
 		"name": "Ibuki",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "465",
 		"name": "Icarus",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "161",
 		"name": "Ikazuchi",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "145",
 		"name": "Illustrious",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "480",
 		"name": "Illustrious μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "540",
 		"name": "Impero",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "162",
 		"name": "Inazuma",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "377",
 		"name": "Independence",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "045",
 		"name": "Indianapolis",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "553",
 		"name": "Indomitable",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "518",
 		"name": "Ingraham",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "442",
 		"name": "Intrepid",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "10073",
 		"name": "Iori Minase",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"The Idolmaster",
+			"Battleship"
 		]
 	},
 	{
 		"id": "210",
 		"name": "Ise",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship",
+			"Aviation Battleship"
 		]
 	},
 	{
 		"id": "317",
 		"name": "Isokaze",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "183",
 		"name": "Isuzu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -1937,312 +2423,387 @@
 		"name": "Izumo",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "328",
 		"name": "Jamaica",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "101",
 		"name": "Javelin",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "353",
 		"name": "Jean Bart",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Battleship"
 		]
 	},
 	{
 		"id": "454",
 		"name": "Jeanne d'Arc",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iris Libre",
+			"FFNF",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "300",
 		"name": "Jenkins",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "307",
 		"name": "Jersey",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "550",
 		"name": "Jervis",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "309",
 		"name": "Jintsuu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "555",
 		"name": "Joffre",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "035",
 		"name": "Juneau",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "102",
 		"name": "Juno",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "219",
 		"name": "Junyou",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "30008",
 		"name": "Junyou META",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"META",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "306",
 		"name": "Jupiter",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "225",
 		"name": "Kaga",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "368",
 		"name": "Kaga(BB)",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "167",
 		"name": "Kagerou",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "191",
 		"name": "Kako",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "363",
 		"name": "Kalk",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "269",
 		"name": "Kamikaze",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "239",
 		"name": "Karlsruhe",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "472",
 		"name": "Kashino",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Munition Ship"
 		]
 	},
 	{
 		"id": "424",
 		"name": "Kasumi",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10063",
 		"name": "Kasumi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Venus Vacation",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "520",
 		"name": "Katsuragi",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "288",
 		"name": "Kawakaze",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "517",
 		"name": "Kazagumo",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "121",
 		"name": "Kent",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "535",
 		"name": "Kiev",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "214",
 		"name": "Kii",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "374",
 		"name": "Kimberly",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "134",
 		"name": "King George V",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "186",
 		"name": "Kinu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "193",
 		"name": "Kinugasa",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "207",
 		"name": "Kirishima",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "435",
 		"name": "Kirov",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "272",
 		"name": "Kisaragi",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
@@ -2250,327 +2811,410 @@
 		"name": "Kitakaze",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "293",
 		"name": "Kiyonami",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab041",
 		"name": "Kizuna AI",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Kizuna AI",
+			"KizunaAI",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "204",
 		"name": "Kongou",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "539",
 		"name": "Kronshtadt",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Northern Parliament",
+			"SN",
+			"Large Cruiser"
 		]
 	},
 	{
 		"id": "469",
 		"name": "Kumano",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "Collab031",
 		"name": "Kuon",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Utawarerumono",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "177",
 		"name": "Kuroshio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "240",
 		"name": "Köln",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "238",
 		"name": "Königsberg",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "556",
 		"name": "L'Indomptable",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "395",
 		"name": "L'Opiniâtre",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "456",
 		"name": "La Galissonnière",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Vichya Dominion",
+			"MNF",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "019",
 		"name": "Laffey",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "072",
 		"name": "Langley",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "394",
 		"name": "Le Malin",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "481",
 		"name": "Le Malin μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "351",
 		"name": "Le Mars",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "522",
 		"name": "Le Terrible",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "347",
 		"name": "Le Triomphant",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "359",
 		"name": "Le Téméraire",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "104",
 		"name": "Leander",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "241",
 		"name": "Leipzig",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "390",
 		"name": "Lena",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "073",
 		"name": "Lexington",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "392",
 		"name": "Li'l Sandy",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "505",
 		"name": "Libeccio",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "335",
 		"name": "Little Bel",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "552",
 		"name": "Little Cheshire",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "516",
 		"name": "Little Enterprise",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "459",
 		"name": "Little Illustrious",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "549",
 		"name": "Little Prinz Eugen",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "451",
 		"name": "Little Renown",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "410",
 		"name": "Littorio",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "119",
 		"name": "London",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "070",
 		"name": "Long Island",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "544",
 		"name": "Lützow",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"SMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "504",
 		"name": "Maestrale",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "525",
 		"name": "Magdeburg",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "523",
 		"name": "Maillé Brézé",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Destroyer"
 		]
 	},
 	{
@@ -2578,31 +3222,39 @@
 		"name": "Mainz",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "370",
 		"name": "Makinami",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10077",
 		"name": "Mami Futami",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"The Idolmaster",
+			"Submarine"
 		]
 	},
 	{
 		"id": "448",
 		"name": "Marblehead",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -2610,169 +3262,209 @@
 		"name": "Marco Polo",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Sardegna Empire",
+			"RN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "10061",
 		"name": "Marie Rose",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Venus Vacation",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "061",
 		"name": "Maryland",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "354",
 		"name": "Massachusetts",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "325",
 		"name": "Matchless",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "270",
 		"name": "Matsukaze",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "010",
 		"name": "Maury",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "202",
 		"name": "Maya",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "009",
 		"name": "McCall",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "360",
 		"name": "Memphis",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "30011",
 		"name": "Memphis META",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"META",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "333",
 		"name": "Michishio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "320",
 		"name": "Mikasa",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "280",
 		"name": "Mikazuki",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "189",
 		"name": "Mikuma",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab053",
 		"name": "Minato Aqua",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Hololive",
+			"Submarine"
 		]
 	},
 	{
 		"id": "276",
 		"name": "Minazuki",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "364",
 		"name": "Minneapolis",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "432",
 		"name": "Minsk",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10064",
 		"name": "Misaki",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Venus Vacation",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "188",
 		"name": "Mogami",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser",
+			"Heavy Cruiser"
 		]
 	},
 	{
@@ -2780,200 +3472,243 @@
 		"name": "Monarch",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "10067",
 		"name": "Monica",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Venus Vacation",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "329",
 		"name": "Montpelier",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "515",
 		"name": "Morrison",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10087",
 		"name": "Mujina",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"SSSS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "375",
 		"name": "Mullany",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab056",
 		"name": "Murasaki Shion",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Hololive",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "498",
 		"name": "Murmansk",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "326",
 		"name": "Musketeer",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "213",
 		"name": "Mutsu",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "271",
 		"name": "Mutsuki",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "196",
 		"name": "Myoukou",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "197",
 		"name": "Nachi",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "450",
 		"name": "Naganami",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "182",
 		"name": "Nagara",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "212",
 		"name": "Nagato",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "278",
 		"name": "Nagatsuki",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10065",
 		"name": "Nagisa",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Venus Vacation",
+			"Battleship"
 		]
 	},
 	{
 		"id": "310",
 		"name": "Naka",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab055",
 		"name": "Nakiri Ayame",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Hololive",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "10084",
 		"name": "Namiko",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"SSSS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "Collab054",
 		"name": "Natsuiro Matsuri",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Hololive",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "519",
 		"name": "Nautilus",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "Collab032",
 		"name": "Nekone",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Utawarerumono",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "132",
 		"name": "Nelson",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
@@ -2981,147 +3716,183 @@
 		"name": "Neptune",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab001",
 		"name": "Neptune",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Neptunia",
+			"HDN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "052",
 		"name": "Nevada",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "068",
 		"name": "New Jersey",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "521",
 		"name": "New Orleans",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "361",
 		"name": "Newcastle",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "301",
 		"name": "Nicholas",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "506",
 		"name": "Nicoloso da Recco",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "295",
 		"name": "Niizuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "258",
 		"name": "Ning Hai",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"ROC",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab002",
 		"name": "Noire",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Neptunia",
+			"HDN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "123",
 		"name": "Norfolk",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "063",
 		"name": "North Carolina",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "041",
 		"name": "Northampton",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "322",
 		"name": "Noshiro",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "170",
 		"name": "Nowaki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10066",
 		"name": "Nyotengu",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Venus Vacation",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "486",
 		"name": "Nürnberg",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -3129,114 +3900,143 @@
 		"name": "Odin",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iron Blood",
+			"KMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "507",
 		"name": "Oite",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "053",
 		"name": "Oklahoma",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "029",
 		"name": "Omaha",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "332",
 		"name": "Ooshio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "178",
 		"name": "Oyashio",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "434",
 		"name": "Pamiat' Merkuria",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "495",
 		"name": "Penelope",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "054",
 		"name": "Pennsylvania",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "039",
 		"name": "Pensacola",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "462",
 		"name": "Perseus",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "482",
 		"name": "Peter Strasser",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "032",
 		"name": "Phoenix",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "259",
 		"name": "Ping Hai",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"ROC",
+			"Light Cruiser"
 		]
 	},
 	{
@@ -3244,72 +4044,91 @@
 		"name": "Plymouth",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "489",
 		"name": "Pola",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "541",
 		"name": "Pompeo Magno",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "044",
 		"name": "Portland",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "135",
 		"name": "Prince of Wales",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "473",
 		"name": "Princeton",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "527",
 		"name": "Prinz Adalbert",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "244",
 		"name": "Prinz Eugen",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "483",
 		"name": "Prinz Heinrich",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
@@ -3317,144 +4136,180 @@
 		"name": "Prinz Rupprecht",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iron Blood",
+			"KMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "002",
 		"name": "Prototype Bulin MKII",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Bulin",
+			"Universal",
+			"UNIV",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab005",
 		"name": "Purple Heart",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Neptunia",
+			"HDN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "130",
 		"name": "Queen Elizabeth",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "047",
 		"name": "Quincy",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "299",
 		"name": "Radford",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "030",
 		"name": "Raleigh",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "075",
 		"name": "Ranger",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "445",
 		"name": "Reno",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "127",
 		"name": "Renown",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "128",
 		"name": "Repulse",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "30012",
 		"name": "Repulse META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "554",
 		"name": "Revenge",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "453",
 		"name": "Richelieu",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iris Libre",
+			"FFNF",
+			"Battleship"
 		]
 	},
 	{
 		"id": "303",
 		"name": "Richmond",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "10081",
 		"name": "Rikka Takarada",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"SSSS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "10075",
 		"name": "Ritsuko Akizuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"The Idolmaster",
+			"Munition Ship"
 		]
 	},
 	{
 		"id": "133",
 		"name": "Rodney",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
@@ -3462,47 +4317,59 @@
 		"name": "Roon",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "479",
 		"name": "Roon μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Iron Blood",
+			"KMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "30002",
 		"name": "Royal.META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "Collab033",
 		"name": "Rurutie",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Utawarerumono",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "426",
 		"name": "Ryuuhou",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "223",
 		"name": "Ryuujou",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier"
 		]
 	},
 	{
@@ -3510,73 +4377,90 @@
 		"name": "Saint Louis",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Iris Libre",
+			"FFNF",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "040",
 		"name": "Salt Lake City",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "036",
 		"name": "San Diego",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "512",
 		"name": "San Francisco",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "404",
 		"name": "San Juan",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab035",
 		"name": "Saraana",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Utawarerumono",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "074",
 		"name": "Saratoga",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "248",
 		"name": "Scharnhorst",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "30009",
 		"name": "Scharnhorst META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Battlecruiser"
 		]
 	},
 	{
@@ -3584,1064 +4468,1329 @@
 		"name": "Seattle",
 		"tags": [
 			"Research",
-			"Priority"
+			"Priority",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "308",
 		"name": "Sendai",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "543",
 		"name": "Seydlitz",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"SMS",
+			"Battlecruiser"
 		]
 	},
 	{
 		"id": "378",
 		"name": "Shangri-La",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "111",
 		"name": "Sheffield",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "421",
 		"name": "Sheffield μ",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Muse",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "165",
 		"name": "Shigure",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "268",
 		"name": "Shimakaze",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "231",
 		"name": "Shinano",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "Collab051",
 		"name": "Shirakami Fubuki",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Hololive",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "168",
 		"name": "Shiranui",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "163",
 		"name": "Shiratsuyu",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "152",
 		"name": "Shirayuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "222",
 		"name": "Shouhou",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "228",
 		"name": "Shoukaku",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "120",
 		"name": "Shropshire",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "026",
 		"name": "Sims",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "371",
 		"name": "Sirius",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "417",
 		"name": "Smalley",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "537",
 		"name": "Soobrazitelny",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "226",
 		"name": "Souryuu",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "30004",
 		"name": "Souryuu META",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"META",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "065",
 		"name": "South Dakota",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "110",
 		"name": "Southampton",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "440",
 		"name": "Sovetskaya Belorussiya",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "441",
 		"name": "Sovetskaya Rossiya",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "003",
 		"name": "Specialized Bulin Custom MKIII",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Bulin",
+			"Universal",
+			"UNIV",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "017",
 		"name": "Spence",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "305",
 		"name": "St. Louis",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "409",
 		"name": "Stanly",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "509",
 		"name": "Stephen Potter",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "491",
 		"name": "Stremitelny",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "122",
 		"name": "Suffolk",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "Collab044",
 		"name": "Super Gamer Kizuna AI",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Kizuna AI",
+			"KizunaAI",
+			"Battleship"
 		]
 	},
 	{
 		"id": "350",
 		"name": "Surcouf",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Submarine"
 		]
 	},
 	{
 		"id": "425",
 		"name": "Suruga",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "337",
 		"name": "Sussex",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "468",
 		"name": "Suzutsuki",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "382",
 		"name": "Suzuya",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "393",
 		"name": "Swiftsure",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "256",
 		"name": "Tai Yuan",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"PRAN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "230",
 		"name": "Taihou",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "474",
 		"name": "Taihou μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "200",
 		"name": "Takao",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "496",
 		"name": "Tallinn",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "319",
 		"name": "Tanikaze",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "452",
 		"name": "Tartu",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "433",
 		"name": "Tashkent",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "475",
 		"name": "Tashkent μ",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Muse",
+			"Northern Parliament",
+			"SN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "058",
 		"name": "Tennessee",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "150",
 		"name": "Terror",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Monitor"
 		]
 	},
 	{
 		"id": "014",
 		"name": "Thatcher",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "545",
 		"name": "Thüringen",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"SMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "511",
 		"name": "Ticonderoga",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "251",
 		"name": "Tirpitz",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "Collab052",
 		"name": "Tokino Sora",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Hololive",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "503",
 		"name": "Torricelli",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Submarine"
 		]
 	},
 	{
 		"id": "215",
 		"name": "Tosa",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "414",
 		"name": "Trento",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sardegna Empire",
+			"RN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "542",
 		"name": "Trieste",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "399",
 		"name": "U-101",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "416",
 		"name": "U-110",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "528",
 		"name": "U-1206",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "484",
 		"name": "U-37",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "492",
 		"name": "U-410",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "343",
 		"name": "U-47",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "400",
 		"name": "U-522",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "386",
 		"name": "U-556",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "344",
 		"name": "U-557",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "387",
 		"name": "U-73",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "341",
 		"name": "U-81",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "467",
 		"name": "U-96",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Submarine"
 		]
 	},
 	{
 		"id": "529",
 		"name": "Ulrich von Hutten",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Iron Blood",
+			"KMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "286",
 		"name": "Umikaze",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "142",
 		"name": "Unicorn",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Light Carrier",
+			"Light Aircraft Carrier"
 		]
 	},
 	{
 		"id": "001",
 		"name": "Universal Bulin",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Bulin",
+			"Universal",
+			"UNIV",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "316",
 		"name": "Urakaze",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "429",
 		"name": "Uranami",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab034",
 		"name": "Uruuru",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Utawarerumono",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "274",
 		"name": "Uzuki",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "464",
 		"name": "Valiant",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "103",
 		"name": "Vampire",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "137",
 		"name": "Vanguard",
 		"tags": [
-			"Research",
-			"Ultra Rare"
+			"Ultra Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "457",
 		"name": "Vauquelin",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Vichya Dominion",
+			"MNF",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "Collab004",
 		"name": "Vert",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Neptunia",
+			"HDN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "080",
 		"name": "Vestal",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Repair"
 		]
 	},
 	{
 		"id": "146",
 		"name": "Victorious",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "048",
 		"name": "Vincennes",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "490",
 		"name": "Vincenzo Gioberti",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sardegna Empire",
+			"RN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "500",
 		"name": "Vittorio Veneto",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Battleship"
 		]
 	},
 	{
 		"id": "538",
 		"name": "Volga",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Northern Parliament",
+			"SN",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "173",
 		"name": "Wakaba",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "131",
 		"name": "Warspite",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Super Rare"
+			"Super Rare",
+			"Royal Navy",
+			"HMS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "064",
 		"name": "Washington",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "079",
 		"name": "Wasp",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "485",
 		"name": "Weser",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Light Carrier"
 		]
 	},
 	{
 		"id": "062",
 		"name": "West Virginia",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Battleship"
 		]
 	},
 	{
 		"id": "Collab007",
 		"name": "White Heart",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Neptunia",
+			"HDN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "049",
 		"name": "Wichita",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "287",
 		"name": "Yamakaze",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "209",
 		"name": "Yamashiro",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Battleship",
+			"Aviation Battleship"
 		]
 	},
 	{
 		"id": "30010",
 		"name": "Yamashiro META",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"META",
+			"Battleship"
 		]
 	},
 	{
 		"id": "257",
 		"name": "Yat Sen",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"ROC",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "493",
 		"name": "Ying Swei",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Dragon Empery",
+			"ROC",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "297",
 		"name": "Yoizuki",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "546",
 		"name": "Yorck",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"SMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "125",
 		"name": "York",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Royal Navy",
+			"HMS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "076",
 		"name": "Yorktown",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Eagle Union",
+			"USS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "166",
 		"name": "Yukikaze",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "10085",
 		"name": "Yume Minami",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"SSSS",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "185",
 		"name": "Yura",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "179",
 		"name": "Yuubari",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Sakura Empire",
+			"IJN",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "164",
 		"name": "Yuudachi",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "176",
 		"name": "Yuugure",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Rare"
+			"Rare",
+			"Sakura Empire",
+			"IJN",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "233",
 		"name": "Z1",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "346",
 		"name": "Z18",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "264",
 		"name": "Z19",
 		"tags": [
-			"Research",
-			"Rare"
+			"Rare",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "379",
 		"name": "Z2",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "265",
 		"name": "Z20",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "266",
 		"name": "Z21",
 		"tags": [
-			"Research",
-			"Normal"
+			"Normal",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "236",
 		"name": "Z23",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "487",
 		"name": "Z24",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "237",
 		"name": "Z25",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "466",
 		"name": "Z26",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "488",
 		"name": "Z28",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "345",
 		"name": "Z35",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "388",
 		"name": "Z36",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "267",
 		"name": "Z46",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Iron Blood",
+			"KMS",
+			"Destroyer"
 		]
 	},
 	{
 		"id": "413",
 		"name": "Zara",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sardegna Empire",
+			"RN",
+			"Heavy Cruiser"
 		]
 	},
 	{
 		"id": "385",
 		"name": "Zeppy",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Iron Blood",
+			"KMS",
+			"Aircraft Carrier"
 		]
 	},
 	{
 		"id": "229",
 		"name": "Zuikaku",
 		"tags": [
-			"Research",
-			"Super Rare"
+			"Super Rare",
+			"Sakura Empire",
+			"IJN",
+			"Aircraft Carrier"
 		]
 	},
 	{
@@ -4649,24 +5798,30 @@
 		"name": "Ägir",
 		"tags": [
 			"Research",
-			"Decisive"
+			"Decisive",
+			"Iron Blood",
+			"KMS",
+			"Large Cruiser"
 		]
 	},
 	{
 		"id": "349",
 		"name": "Émile Bertin",
 		"tags": [
-			"Research",
 			"Retrofit",
-			"Elite"
+			"Elite",
+			"Iris Libre",
+			"FFNF",
+			"Light Cruiser"
 		]
 	},
 	{
 		"id": "Collab057",
 		"name": "Ōkami Mio",
 		"tags": [
-			"Research",
-			"Elite"
+			"Elite",
+			"Hololive",
+			"Aircraft Carrier"
 		]
 	}
 ]
