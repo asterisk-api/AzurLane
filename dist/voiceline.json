@@ -49075,6 +49075,20 @@
 						"line": "nil|nil|nil"
 					}
 				]
+			},
+			{
+				"id": "399033",
+				"name": "Night of Doves and Magic",
+				"voiceline": [
+					{
+						"type": "drop_descrip",
+						"line": "Mm, preparations complete. If I keep it up, the production will surely be a great success. The doves have been on their best behavior too. Commander, what do you think about Kitakaze's magic show?"
+					},
+					{
+						"type": "main",
+						"line": "nil|nil|nil"
+					}
+				]
 			}
 		]
 	},
@@ -49988,6 +50002,56 @@
 					{
 						"type": "unlock",
 						"line": "Now it's your turn, Commander! Which one's it gonna be~? You suuuure you wanna pick this card? ...I hear you, Suzuya! Stop tellin' the Commander what the cards are!"
+					}
+				]
+			},
+			{
+				"id": "303183",
+				"name": "One Thousand and One Nights' Wishes",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "I'm gonna evade all their attacks and dance around the– Oww!"
+					},
+					{
+						"type": "detail",
+						"line": "Who else are ya excited to see, besides me? Ahahah☆ Hey, I'm not jelly in the slightest. I know you, Commander. Just name like, 20 or 30 other people~"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Tadah! Get a load of my... dancer outfit! So, whaddya think? Ahaha~♡ Hey, Commander, where are those eyes wandering? Did ya see something ya like?"
+					},
+					{
+						"type": "home",
+						"line": "C'mon, take a seat~ I'mma give those weary bones a nice massage! Heheh, where should I start? Your shoulders, or your feet? Tickle tickle tickle♪"
+					},
+					{
+						"type": "login",
+						"line": "Welcome to my unveiling! Now let's see how many songs you can last before you fall for me~ Hahahah♡"
+					},
+					{
+						"type": "mail",
+						"line": "Aw crap, got an e-mail! Commander, pass me the phone!"
+					},
+					{
+						"type": "main",
+						"line": "That's... Mikuma? When'd she become so damn hot and stylish? Sheeeesh... Even I'm swooning over here!|Wanna see a rough rehearsal, Commander? Or are you gonna wait 'til the real deal?|This dance is like, murder on your back. I'm gonna be recovering in bed tomorrow, so go easy on me~ \"What're we gonna do then?\" Hang out, duh! Ahah☆"
+					},
+					{
+						"type": "mission_complete",
+						"line": "We've got mission rewards~ Anything catch your eye?"
+					},
+					{
+						"type": "touch",
+						"line": "Ahah♡ Wait 'til I start shakin' it around~"
+					},
+					{
+						"type": "touch2",
+						"line": "Commander... Where's that hand of yours wanderin'...? ♡"
+					},
+					{
+						"type": "unlock",
+						"line": "Tadah! Get a load of my... dancer outfit! So, whaddya think? Ahaha~♡ Hey, Commander, where are those eyes wandering? Did ya see something ya like?"
 					}
 				]
 			}
@@ -58624,6 +58688,68 @@
 					{
 						"type": "win_mvp",
 						"line": "This is nothing to get thrilled about!"
+					}
+				]
+			},
+			{
+				"id": "302111",
+				"name": "Offerings of Floral Grace",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "The Commander was staring right at me... Of course I'd be self-conscious, but it's not like what Suzuya said...! Just thinking about it is making me even more self-conscious... *blushes*"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Commander, may you and all our friends enjoy peace and good health... Alright, what did you think? That was a ceremonial dance I'd like to offer to everyone at the main event."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team has returned. Want to take Suzuya and Kumano with you when you head over?"
+					},
+					{
+						"type": "feeling5",
+						"line": "Commander, I'd like you to take better care of my sister instead. Though I don't mind seeing the two of you together, the same can't be said for her. The two of us at the same time...? Um, o-of course that would be possible..."
+					},
+					{
+						"type": "headtouch",
+						"line": "My horn... is cute?"
+					},
+					{
+						"type": "home",
+						"line": "I left some drinks in the lounge area for you. Commander, please take this time to rest up."
+					},
+					{
+						"type": "login",
+						"line": "Welcome back, Commander. Mogami should have already started heading back. Did something happen...?"
+					},
+					{
+						"type": "main",
+						"line": "My sister seems to be troubled... Commander, let's hear her out together!|I want to see my sister dance, but I'm better suited for an event like this.|Kumano also wants to try dancing? That could be arranged... Wait, no! What if she tears her costume because her movements are too flashy?"
+					},
+					{
+						"type": "mission",
+						"line": "I've finished collecting the mission rewards. I think it's about to go check on my sister..."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete. I'm sure my sister is also pleased by this. Heehee."
+					},
+					{
+						"type": "touch",
+						"line": "Mikuma stands at attention. Please give your orders."
+					},
+					{
+						"type": "touch2",
+						"line": "Umm, please mind my main battery... It might explode!"
+					},
+					{
+						"type": "unlock",
+						"line": "Commander, may you and all our friends enjoy peace and good health... Alright, what did you think? That was a ceremonial dance I'd like to offer to everyone at the main event."
+					},
+					{
+						"type": "win_mvp",
+						"line": "I actually would've liked my sister to take these honors..."
 					}
 				]
 			}
@@ -75839,6 +75965,52 @@
 						"line": "Now that's a clean victory! Lemme see a big smile, c'mon! Ahaha!"
 					}
 				]
+			},
+			{
+				"id": "103142",
+				"name": "It's Showtime!",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "What's this pose called? Uhh, what was it again... Eh, who cares! Don't sweat the deets and just enjoy the show!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Good evening, Puddin'! Welcome to my pole dancing show! You aren't going home tonight 'til you're head over heels for me♪"
+					},
+					{
+						"type": "home",
+						"line": "As a thank-you for coming to see me, feel free to order whatever drinks and snacks you want – it's on the house~"
+					},
+					{
+						"type": "login",
+						"line": "Ahahah! You should see how hard you're blushing, Puddin'! Need my help to take a load off? Just kidding~"
+					},
+					{
+						"type": "mail",
+						"line": "Nuh-uh. Come hell or mail, anyone who takes their eyes off me's gonna regret it♪"
+					},
+					{
+						"type": "main",
+						"line": "Puddiiin'! Over here! Keep your eyes peeled, 'cause I'm dedicating this boo-ty-li-cious number to you♪|My bat's not bad at all, but I'm thinking this pole is more user-friendly, if you catch my drift... *smirk*|What's good, Puddin'? You having a hella good time? Sweet, then you gotta hit me up next time we're doin' something fun! Then, it's a date~"
+					},
+					{
+						"type": "touch",
+						"line": "It feels HELLA good when I nail my moves! Hahahah!"
+					},
+					{
+						"type": "touch2",
+						"line": "Fallen for me, haven'tcha~?"
+					},
+					{
+						"type": "unlock",
+						"line": "Good evening, Puddin'! Welcome to my pole dancing show! You aren't going home tonight 'til you're head over heels for me♪"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Goodie! I'm like, totally kicking ass today!"
+					}
+				]
 			}
 		]
 	},
@@ -84173,6 +84345,48 @@
 					{
 						"type": "unlock",
 						"line": "Do I make a nice race queen, my Commander...? Hehe. With these proportions, and my fantastic outfit~♡ The others couldn't hope to compare with me!"
+					}
+				]
+			},
+			{
+				"id": "307074",
+				"name": "Sweet Time After School",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Anyone who would get between me and my Commander... should just disappear!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Ehehe~ There is no greater bliss than being with you after classes are over, my Commander~ The kitty here seems to agree♡"
+					},
+					{
+						"type": "home",
+						"line": "Club... activities? How could I let such insignificant matters get in the way of our precious time together, my Commander?"
+					},
+					{
+						"type": "login",
+						"line": "My Commander, would you like to go somewhere with Taihou? An after-school date, perhaps~♡"
+					},
+					{
+						"type": "main",
+						"line": "My Commander, whatever your heart desires, no matter what it is, Taihou shall grant it to you~♡|What am I writing about in my notebook...? You, of course~♡ Hehe, do you want to take a look?|A-A-A-Albacore?! ...D-don't scare me like that, my Commander. I'm telling you, that girl can pop out from just about anywhere..."
+					},
+					{
+						"type": "touch",
+						"line": "Want a feel, Commander? ––Then, here you go~ The little kitty, or Taihou? Take your pick, hehe~♡"
+					},
+					{
+						"type": "touch2",
+						"line": "Taihou belongs to you, mind, body, and soul~ Heheh... Here, put your hands on me as you please~♡"
+					},
+					{
+						"type": "unlock",
+						"line": "Ehehe~ There is no greater bliss than being with you after classes are over, my Commander~ The kitty here seems to agree♡"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Commander, nobody will get in the way of our date anymore~♡"
 					}
 				]
 			},
