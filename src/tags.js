@@ -66,21 +66,21 @@ export default function tags(azurapi)
 
 		// PREFIX
 		const PREFIX = [
-			"UNIV",     // Universal
-			"USS",      // Eagle Union
-			"HMS",      // Royal Navy
-			"IJN",      // Sakura Empire
-			"KMS",      // Iron Blood
-			"SMS",      // Iron Blood
-			"PRAN",     // Dragon Empery
-			"ROC",      // Dragon Empery
-			"RN",       // Sardegna Empire
-			"SN",       // Northern Parliament
-			"FFNF",     // Iris Libre
-			"MNF",      // Vichya Dominion
-			"BILI",     // Bilibili
+			"UNIV", // Universal
+			"USS", // Eagle Union
+			"HMS", // Royal Navy
+			"IJN", // Sakura Empire
+			"KMS", // Iron Blood
+			"SMS", // Iron Blood
+			"PRAN", // Dragon Empery
+			"ROC", // Dragon Empery
+			"RN", // Sardegna Empire
+			"SN", // Northern Parliament
+			"FFNF", // Iris Libre
+			"MNF", // Vichya Dominion
+			"BILI", // Bilibili
 			"KizunaAI", // KizunaAI
-			"HDN",      // Neptunia
+			"HDN" // Neptunia
 		];
 		if (PREFIX.includes(CODENAME.split(" ")[0]))
 			TAGS.push(CODENAME.split(" ")[0]);
@@ -130,7 +130,7 @@ export default function tags(azurapi)
 			"Aviation Battleship": "Main",
 			"Repair": "Main",
 			"Monitor": "Main",
-			"Munition Ship": "Vanguard",
+			"Munition Ship": "Vanguard"
 		};
 
 		if (SHIP_LINE_TYPE[HULLTYPE])
@@ -183,7 +183,7 @@ export default function tags(azurapi)
 		// "tags.json",
 		JSON.stringify(CONTAINER, null, "\t"),
 		"utf8",
-		function (err) { if (err) return console.log(err) }
+		function (err) { if (err) return console.log(err); }
 	);
 };
 
@@ -200,7 +200,7 @@ export default function tags(azurapi)
 	S1M+{mount_count}
 	S2M+{mount_count}
 	S3M+{mount_count}
-		
+
 	{mount_count} => number/integer => approx_value > 1
 
 	Torpedo Preload +{preload_count}
