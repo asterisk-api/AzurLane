@@ -6,7 +6,8 @@
   "main": "src/index.js",
   "scripts": {
     "start": "node src/index.js statistics equipable voiceline",
-    "deploy": "node src/deploy.js"
+    "deploy": "node src/deploy.js",
+    "test": "node src/index.js tags"
   },
   "repository": {
     "type": "git",

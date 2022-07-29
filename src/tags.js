@@ -1,9 +1,4 @@
 import fs from "node:fs";
-import fetch from "node-fetch";
-
-fetch("https://raw.githubusercontent.com/AzurAPI/azurapi-js-setup/master/ships.json")
-	.then(res => res.json())
-	.then(api => tags(api));
 
 export default function tags(azurapi)
 {
@@ -184,8 +179,8 @@ export default function tags(azurapi)
 	});
 
 	fs.writeFile(
-		// "./dist/tags.json",
-		"tags.json",
+		"./dist/tags.json",
+		// "tags.json",
 		JSON.stringify(CONTAINER, null, "\t"),
 		"utf8",
 		function (err) { if (err) return console.log(err) }
@@ -206,13 +201,13 @@ export default function tags(azurapi)
 	S2M+{mount_count}
 	S3M+{mount_count}
 		
-	{mount_count} => number/integer => approx value > 1
+	{mount_count} => number/integer => approx_value > 1
 
 	Torpedo Preload +{preload_count}
 	Airstrike Preload +{preload_count}
 	Gun Preload +{preload_count}
 
-	{preload_count} => number/integer => approx value > 1
+	{preload_count} => number/integer => approx_value > 1
 
 	guntype => {gun_type}
 	{gun_type} => oneof
@@ -232,7 +227,7 @@ export default function tags(azurapi)
 		Depth Charge
 		Sonar
 		ASW Bomber
-		Helicopter
+		ASW Helicopter
 		Cargo
 		Missle
 */

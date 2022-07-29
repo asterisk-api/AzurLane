@@ -5,6 +5,7 @@ import fetch from 'node-fetch';
 import statistics from "./statistics.js";
 import equipable from "./equipable.js";
 import voiceline from "./voiceline.js";
+import tags from "./tags.js";
 
 // repository
 const repository  = "https://raw.githubusercontent.com/AzurLaneTools/AzurLaneData/main/";
@@ -80,6 +81,9 @@ Promise.all([
 
         if ( ARGS.includes('voiceline') || ARGS.includes('vl') )
             voiceline(azurapi, skin_words, skin_words_extra, ship_skin.all, skin_template, name_code);
+
+        if ( ARGS.includes('tags') )
+            tags(azurapi);
 
         fs.writeFile(
             "./dist/azurapi.json",
