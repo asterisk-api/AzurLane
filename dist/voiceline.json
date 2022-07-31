@@ -3606,6 +3606,188 @@
 		]
 	},
 	{
+		"id": "562",
+		"gid": 60108,
+		"name": "Alfredo Oriani",
+		"skins": [
+			{
+				"id": "601080",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "We're live, so remember to look photogenic!"
+					},
+					{
+						"type": "detail",
+						"line": "If you wanna know others' secrets, you gotta give me something of equal value. Don't worry 'bout getting duped – I deal fair and square!",
+						"oath": "You curious about another girl? I could look into her if you wa– Wait a sec! You better not be thinking about cheating on me!"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Oriani-class destroyer - Alfredo Oriani."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team is back! I'm gonna go snap some group photos!",
+						"oath": "The commission team has returned! I'mma go snap a group photo of them! Come along, Commander!"
+					},
+					{
+						"type": "feeling1",
+						"line": "I-I-I'm so sorry! I'll stop with my journalism if it offends you! Just please show mercy!"
+					},
+					{
+						"type": "feeling2",
+						"line": "Commander~ Think you could make some time for a Q&A later? It'll be basic stuff! You know, hobbies, likes, your taste in girls, things like that!"
+					},
+					{
+						"type": "feeling3",
+						"line": "Just between you and me, info about you is currently worth... this much! Heheheh! Interested? Then lemme interview you some more~"
+					},
+					{
+						"type": "feeling4",
+						"line": "Hm? You like me? Ahahahah! I'm nobody special, I'm just a smalltime journalist who loves gossip~ Forget about me – who else do you fancy? That's valuable information!"
+					},
+					{
+						"type": "feeling5",
+						"line": "The more I learn about you, the less I wanna share my knowledge with others... even though I could make big bucks by selling it... I think I might've fallen for you, Commander! S-s-settle down, Alfredo! G-g-get a hold of yourself!",
+						"oath": "Oho? You look bored out of your mind, Commander! Tell you what, I know this spot at the port with a killer view – how 'bout we head there and take some pics? Plus a date selfie while we're there... Of course I'm not gonna sell them to anyone! I just want new things for my personal collection, that's all..."
+					},
+					{
+						"type": "headtouch",
+						"line": "What's this? You trying to score points with me?",
+						"oath": "You know how to make a girl happy~ Heehee~"
+					},
+					{
+						"type": "home",
+						"line": "Cheese! Welcome back! I snapped a photo of you and the fleet looking badass out there! It's gonna blow up in the news! ...In a good way! Heehee!",
+						"oath": "Look into the camera, Commander! Cheese! This shot of your heroic return is going into my collection!"
+					},
+					{
+						"type": "hp_warning",
+						"line": "D-don't lash out at me just 'cause I'm a journalist!"
+					},
+					{
+						"type": "login",
+						"line": "Morning, Commander! It's the perfect day for a close cov– I mean! For work! In more ways than one. Heheh...",
+						"oath": "Morning, Commander! Time to do what we each do best!"
+					},
+					{
+						"type": "lose",
+						"line": "I-I guess I'll hide this blunder at the back of the newspaper..."
+					},
+					{
+						"type": "mail",
+						"line": "A confidential letter... It'd make for a juicy story, but top-secret stuff has to stay that way!"
+					},
+					{
+						"type": "main",
+						"line": "Wherever you'll find scoops, you'll find me! Heehee~|You feel like you're being watched? Weeell, I'll bet that's just your fatigue speaking! Yup, hundo percent sure of it!|So you wanna become a mature big sister, do ya, GB? Heh, I've got heaps of pics of girls like that. Although, I guess photos won't really help you achieve that goal.",
+						"extra": "It's not easy finding new scoops! Especially at this port where competition is stiff. You gotta help me out, Commander! Someone's gonna overtake me if you don't!|Huh. Turns out, I've snapped a bunch of photos of you hard at work... I'll make a solo exhibition out of these at some point! ...Huh? That's a no-go? Why?|I forget I'm the name ship of my class all the time! Guess it's 'cause I'm kinda childish compared to the oldest sisters from other classes, plus I'm a shortie... Still, you married me, so that's gotta mean I have SOME unique charm!"
+					},
+					{
+						"type": "mission",
+						"line": "New missions? If we're talking quick errands, I can do 'em!"
+					},
+					{
+						"type": "mission_complete",
+						"line": "A mission has been completed! ...So, Commander, what are your thoughts on this latest development?",
+						"oath": "Mission complete! Today's headline: \"The Commander and Alfredo Overcome Tough Task Together\"!"
+					},
+					{
+						"type": "profile",
+						"line": "It's-a me, Alfredo Oriani, name ship of my class of destroyers! Conserve vowels and just call me Alfredo! Go ahead and send me to the front where all the action is – I've covered world wars, you know! Heheh!"
+					},
+					{
+						"type": "propose",
+						"line": "Hold up! This doesn't make any sense! I'm just a gossip-loving, devil-may-care, occasionally ill-mannered journalist, Commander! You have zero reason to marry someone like... Nononono! I'm not saying I hate you in any way! Oh geez, if I don't cool off now I'm gonna frickin' explode! I accept the ring, okay?! We'll talk later!"
+					},
+					{
+						"type": "skill",
+						"line": "Smile for the camera!"
+					},
+					{
+						"type": "touch",
+						"line": "My camera's inner workings are top secret! No peeking!",
+						"oath": "There's yesterday's combat report, here's some random outdoors photos I took, and this... Ummm! Forget you saw that!"
+					},
+					{
+						"type": "touch2",
+						"line": "Whuah! ...Dammit, I didn't have time to snap an incriminating pic!",
+						"oath": "H-hold your horses! I need to mentally prepare first!"
+					},
+					{
+						"type": "unlock",
+						"line": "Whoa! Here comes the mastermind behind the curtains, the one mark I really want to use all means possible to investigate – the legendary Commander! Let's get on to the interview, but first, allow me to introduce myself! The name's Alfredo Oriani! I'm a journalist, as you see!"
+					},
+					{
+						"type": "upgrade",
+						"line": "Nice! Lens aligned, picture perfect!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "First question: how does it feel to be the– Wait, what? I'M the MVP?!",
+						"oath": "Commander, I'm the MVP! Come stand next to me for a victory selfie!"
+					}
+				]
+			},
+			{
+				"id": "601081",
+				"name": "Vivacious Vivace",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "This is Alfredo, reporting live on– Hey, the battlefield's no place to fret over dresses!"
+					},
+					{
+						"type": "detail",
+						"line": "Tadah! Heehee, what'd ya think of my dance? I got advice from my Sardegnian friends on how to blend in with the crowd while gathering scoops! Although I may have gone a bit overkill with it..."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Found you, Commander! How would you grade this outfit of mine? ...No, no, I wasn't asking if it looked cute or pretty, I wanted to know if I was wearing it right in the first place! You know what though, I think I'll take those compliments~"
+					},
+					{
+						"type": "feeling5",
+						"line": "Let's see today's hottest article... \"You Won't Believe Who's the Commander's Dance Partner\"... W-wait, it's ME?! It's over... This is gonna spread around the port like wildfire... \"It's fine, I'm here with you\"? Um... Excuse me, I need to go cool off my burning hot face!"
+					},
+					{
+						"type": "headtouch",
+						"line": "You typically ask for a dance by holding someone's hand, not by patting their head..."
+					},
+					{
+						"type": "home",
+						"line": "Oh yes, this is a good angle! This photo's gonna make a good... C-C-Commander?! When'd you get here?! I'm not up to anything, nuh-uh! I-I need to get back to rehearsing my dance!"
+					},
+					{
+						"type": "login",
+						"line": "Commander, tell us who you'd most like to dance with today! ...You can't say? Figures it wouldn't be so easy... Well, we'd better find you a dance partner soon!"
+					},
+					{
+						"type": "mail",
+						"line": "A new letter? It might be a personal invitation for you! Let's find out!"
+					},
+					{
+						"type": "main",
+						"line": "There are crowds of girls vying to be your partner, Commander! That heartwarming piece of info comes from yours truly♪|GB! I snapped a bunch of photos of ladies being ladies! Here! Feel free to reference it~|Commander! I've got gorgeous pics of Sardegnian girls mid-rehearsal! Interested? ...Then you know what I want in return. Heehee~"
+					},
+					{
+						"type": "touch",
+						"line": "Aha! So I move my feet like... Hang on, why am I here learning dance moves from you?!"
+					},
+					{
+						"type": "touch2",
+						"line": "I'm not hiding anything! There's nothing I CAN hide to begin with! Use your common sense!"
+					},
+					{
+						"type": "unlock",
+						"line": "Found you, Commander! How would you grade this outfit of mine? ...No, no, I wasn't asking if it looked cute or pretty, I wanted to know if I was wearing it right in the first place! You know what though, I think I'll take those compliments~"
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "455",
 		"gid": 90302,
 		"name": "Algérie",
@@ -13336,6 +13518,176 @@
 					{
 						"type": "win_mvp",
 						"line": "Phew... I-is the battle over now...?"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "560",
+		"gid": 60305,
+		"name": "Bolzano",
+		"skins": [
+			{
+				"id": "603050",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Allow me to prove myself in combat!",
+						"oath": "I feel ready for anything right now. To battle!"
+					},
+					{
+						"type": "detail",
+						"line": "Anything... I will perform any task if you think I'm suited for it. Ah, I'm just saying IF! Please don't go out of your way for me if it's more trouble than it's worth.",
+						"oath": "You'd like to have a word? Of course, you can tell me anything! You believe in me, so it's the least I can– Oh, it's nothing especially important?"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Heavy cruiser – Bolzano."
+					},
+					{
+						"type": "expedition",
+						"line": "The commission team has arrived in port. Phew... I'm glad they're okay.",
+						"oath": "The commission team is back in port. Commander, please get ready to leave."
+					},
+					{
+						"type": "feeling1",
+						"line": "Please stay away from us! You don't deserve any support from the girls with how you are acting now."
+					},
+					{
+						"type": "feeling2",
+						"line": "I'll take my leave now if that will be all... Zara asked about me? Oh... Well, I'm perfectly fine. Forgive me for making her worry..."
+					},
+					{
+						"type": "feeling3",
+						"line": "You're still worried about me? I appreciate the concern... Zara may be right with what she said about me inadvertently distancing myself from people..."
+					},
+					{
+						"type": "feeling4",
+						"line": "You'd like to take me somewhere on your day off? If that's your order, then okay... Um, I'm afraid I don't have a favorite movie! I prefer things like books and theater over movies, you see..."
+					},
+					{
+						"type": "feeling5",
+						"line": "I'm sorry for ruining it by forgetting about you and bursting into tears from the performance... I've always been so easily moved by these kinds of stories... And that's despite how overjoyed I was that you invited me to see the play...",
+						"oath": "Heheh, heheheh... Oh, sorry! I couldn't help but laugh at the main actress' performance... It feels like I've been laughing a lot today? That's because I'm over the moon, just like that actress, and I've wanted to smile."
+					},
+					{
+						"type": "home",
+						"line": "The Commander has returned. All ships, prepare to repair and restock, then gather combat data on the mission.",
+						"oath": "Welcome back! Please get some rest for the time being. This port – YOUR port – is a safe haven."
+					},
+					{
+						"type": "hp_warning",
+						"line": "I don't want to be locked up in the dock again...!"
+					},
+					{
+						"type": "login",
+						"line": "I'm the secretary... Welcome back, Commander. Here is today's schedule.",
+						"oath": "I'm with you as your secretary... Welcome back, Commander. Let's do our utmost as always, shall we?"
+					},
+					{
+						"type": "lose",
+						"line": "We... have failed. I knew I'm not cut out for this...",
+						"oath": "I can't let this turn into a streak of defeats... Ugh..."
+					},
+					{
+						"type": "mail",
+						"line": "There's a letter for you, Commander. Here you are."
+					},
+					{
+						"type": "main",
+						"line": "Gorizia, you're not like me – you can keep fighting... I'm doomed to stay like this forever...|I've gathered the documents for your meeting. What would you like me to do next? Please don't hesitate to give me orders.|I should start thinking about how to spend my next day off... Maybe doing something where you can still call me in at a moment's notice...",
+						"extra": "Trento pampers you far too much on a regular basis... No, I really don't have the right to say that, considering I'm so dependent on you.|A tea party? Oh, I'd love to accompany you on one! Heehee... I can hardly wait.|Would you like to watch a play with me on your next day off? I-I'll try to pick one that won't make me weep like a baby!"
+					},
+					{
+						"type": "mission",
+						"line": "We have been informed of new missions. Please stand by until all ships have received the sortie order.",
+						"oath": "I've confirmed we have new missions. You may issue the sortie order now, Commander."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete. Mhm, this is good."
+					},
+					{
+						"type": "profile",
+						"line": "I'm Bolzano, Sardegnian heavy cruiser. I took part in naval reviews before the war, then fought in live battles during it. A streak of bad luck left me irrepairable, so I was stripped of my rigging and ultimately sunk in a harbor. *sigh*..."
+					},
+					{
+						"type": "propose",
+						"line": "Um... I'm hesitant to say this after you've been so kind to me, but... are you sure I'm the one for you? I just sincerely hope you're not giving me this out of pity or concern. If not, then... Then I'll g-gladly accept!"
+					},
+					{
+						"type": "skill",
+						"line": "Bolzano, commencing bombardment!"
+					},
+					{
+						"type": "touch",
+						"line": "Yes? I will do anything you deem me suited for."
+					},
+					{
+						"type": "touch2",
+						"line": "Wh-what are you doing...?",
+						"oath": "...Commander...?"
+					},
+					{
+						"type": "unlock",
+						"line": "Sardegnian heavy cruiser Bolzano, reporting in. I am hereby under your command. Um, if that's all then I'll be taking my leave now."
+					},
+					{
+						"type": "upgrade",
+						"line": "I'm steadily becoming stronger. Thank you."
+					},
+					{
+						"type": "win_mvp",
+						"line": "Victory is ours. Let's move – our friends are waiting for us.",
+						"oath": "Victory is ours! Commander, we should go reunite with the others."
+					}
+				]
+			},
+			{
+				"id": "603051",
+				"name": "A Flutter in the Moment",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "I'll try my best!"
+					},
+					{
+						"type": "detail",
+						"line": "So this is Swan Lake... I believe there's one production where everyone is left inconsolable in the end. I'd probably cry if I saw that one..."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "I've never had a knack for dancing or exercise unlike Zara and her sisters... but if asked, I will dance as best as I can! Please keep your eyes on me, Commander!"
+					},
+					{
+						"type": "home",
+						"line": "Welcome back, Commander. Would you like to watch the others rehearse after you've finished your combat analysis?"
+					},
+					{
+						"type": "login",
+						"line": "This is improper attire for a secretary... A-are you sure you don't mind?"
+					},
+					{
+						"type": "main",
+						"line": "While my outfit bears some resemblance to Arizona's, the overall styles differ considerably. Oh, Zara didn't say that!|You don't know whether it's right or not to look at me? Um, should I change clothes after all? Although then my rehearsals won't feel right...|nil"
+					},
+					{
+						"type": "touch",
+						"line": "Am I doing something wrong?"
+					},
+					{
+						"type": "touch2",
+						"line": "Oh gosh..."
+					},
+					{
+						"type": "unlock",
+						"line": "I've never had a knack for dancing or exercise unlike Zara and her sisters... but if asked, I will dance as best as I can! Please keep your eyes on me, Commander!"
+					},
+					{
+						"type": "win_mvp",
+						"line": "I just hope this was thanks to my cheering... Wait, I'm the MVP?"
 					}
 				]
 			}
@@ -24151,6 +24503,145 @@
 		]
 	},
 	{
+		"id": "563",
+		"gid": 60109,
+		"name": "Emanuele Pessagno",
+		"skins": [
+			{
+				"id": "601090",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Enemy spotted... Commencing attack!"
+					},
+					{
+						"type": "detail",
+						"line": "You have to take good care of telescope lenses... Otherwise, they might get scratched up, and that's a huge problem."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Navigatori-class destroyer – Emanuele Pessagno."
+					},
+					{
+						"type": "expedition",
+						"line": "Our friends from the commission team have returned. Look, they're over there––"
+					},
+					{
+						"type": "feeling1",
+						"line": "I'm sorry, but please leave me alone..."
+					},
+					{
+						"type": "feeling2",
+						"line": "Commander, you've tried looking through the telescope, right? ...So, what do you think is the difference between seeing something through the lens and seeing something up-close?"
+					},
+					{
+						"type": "feeling3",
+						"line": "A telescope makes it possible to see things clearly even from a distance... From a place far, far away, where I won't bother anyone..."
+					},
+					{
+						"type": "feeling4",
+						"line": "Imprinting a beautiful scenery into your memory after seeing it once is already good enough... But, sometimes, the more you see something, the more you want to touch it, feel it..."
+					},
+					{
+						"type": "feeling5",
+						"line": "Umm... Commander, do you have any free time next week? There's a place I really want to go to... Um, I want to take you sightseeing... Is that okay? I-it's always been really important to me...",
+						"oath": "When I travel alone, I keep all my emotions buried deep inside me... But when I'm with somebody else, I feel like I can open up my heart... Ehehe, I'm so glad that I get to share this journey with the person I love..."
+					},
+					{
+						"type": "headtouch",
+						"line": "Is there something wrong with my ribbon?",
+						"oath": "Um, C-Commander...?"
+					},
+					{
+						"type": "home",
+						"line": "......Oh. Sorry, I was taking in the scenery outside and didn't notice you returning...",
+						"oath": "Ehehe, I saw you coming back from a long way away. But, it still feels more comforting to welcome you in person like this..."
+					},
+					{
+						"type": "hp_warning",
+						"line": "I mustn't drag the others down..."
+					},
+					{
+						"type": "login",
+						"line": "Hrmmmm... Yeah, you really do look nothing like what I saw through the telescope... N-nevermind. Welcome back, Commander.",
+						"oath": "Welcome back, Commander! ...Oh, um, there's something stuck on your face... Hold on just a moment. I'll get it for you..."
+					},
+					{
+						"type": "lose",
+						"line": "Excuse me, um... Commander, you don't need to feel too down about it."
+					},
+					{
+						"type": "mail",
+						"line": "You've got new mail. It's from... somewhere I can't see... Hrmm, someplace far, far away?"
+					},
+					{
+						"type": "main",
+						"line": "I like to gaze out into the distant scenery. What your eye can perceive... is so much greater than what your fingertips are able to touch.|There should be a lot of great observation spots around the port, right? I'd like to jot them all down when I get the chance.|Da Recco, if you're going to go out, wouldn't it be safer to take a more... charted route?",
+						"extra": "My telescope can bring the most distant of sceneries right before me, but I won't be able to touch them. It's a rather lonely feeling... The same goes for people I like...|The same scenery can look completely different when sharing it with someone else, as opposed to viewing it alone... Ehehe, maybe I'm not so envious of the others anymore.|Da Recco drafted a route map for me, but something doesn't seem quite right with it... Commander, would you mind checking it out with me...?"
+					},
+					{
+						"type": "mission",
+						"line": "There are still missions that need doing. Commander, you seem to be having a rough time... Need to take a little break?"
+					},
+					{
+						"type": "mission_complete",
+						"line": "Here's the mission completion report... Need help looking over it? If a typo slipped its way into the final submission..."
+					},
+					{
+						"type": "profile",
+						"line": "I am the Navigatori-class destroyer, Emanuele Pessagno. Back then, I managed to serve Sardegna commendably, but if only I had been more careful during that final escort mission..."
+					},
+					{
+						"type": "propose",
+						"line": "Eh? Th-this is for me? Thank you... I'll make sure to treasure it, no matter what... Ehehe, I don't have to keep gazing from a distance anymore... After all, happiness is within my reach..."
+					},
+					{
+						"type": "skill",
+						"line": "I see you...!"
+					},
+					{
+						"type": "touch",
+						"line": "You want to try looking through my telescope? ...Um, sure, but be careful...",
+						"oath": "I wish there was a telescope that two people could use at once..."
+					},
+					{
+						"type": "touch2",
+						"line": "P-please stop that...",
+						"oath": "You know I'm not good with these kinds of things, right...? (*blushes*)"
+					},
+					{
+						"type": "unlock",
+						"line": "I'm the Sardegnian destroyer, Emanuele Pessagno. Umm... Commander, you look way different in-person than through my telescope... Must be because I can get a closer view."
+					},
+					{
+						"type": "upgrade",
+						"line": "Am I able to see farther now...?"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Did we manage to win? That's a relief...",
+						"oath": "It's our victory. I'm really glad that I was able to be of help to you and the others."
+					}
+				]
+			},
+			{
+				"id": "601091",
+				"name": "Backstage Blunders",
+				"voiceline": [
+					{
+						"type": "drop_descrip",
+						"line": "Eek! Wh-why are you guys tugging at my stockings... P-please stop that... C-Commander, please... Hurry and come help me! Waah..."
+					},
+					{
+						"type": "main",
+						"line": "nil|nil|nil"
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "547",
 		"gid": 40207,
 		"name": "Emden",
@@ -29333,6 +29824,169 @@
 					{
 						"type": "win_mvp",
 						"line": "Are you charmed by my prowess in battle, or just me? Haha~"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "559",
+		"gid": 60202,
+		"name": "Giuseppe Garibaldi",
+		"skins": [
+			{
+				"id": "602020",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Let's get this done in a flash.",
+						"oath": "You're all under my protection!"
+					},
+					{
+						"type": "detail",
+						"line": "What are you standing there all stiff for? Make yourself comfortable. I'm not gonna punish you for it. You're not the type who fusses over a noble's manners, are you?",
+						"oath": "Not trying to throw any shade here, but can you really handle standing up for so long? Stop fretting over appearances and have a seat. Alternatively, go ahead and punish me for being too lax. Just kidding♪"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Duca degli Abruzzi-class light cruiser – Giuseppe Garibaldi."
+					},
+					{
+						"type": "expedition",
+						"line": "Hey, you completed a commission. You should remember that, even if I forgot.",
+						"oath": "Commission complete. Do you actually remember when you sent them out?"
+					},
+					{
+						"type": "feeling1",
+						"line": "You call yourself the Commander, but you're really just a nobody. Hmph."
+					},
+					{
+						"type": "feeling2",
+						"line": "I'll follow your orders no problem, but please don't demand more of me than that. It's just easier for us both that way. Besides, you don't like being a slave to formality like Abruzzi, do you?"
+					},
+					{
+						"type": "feeling3",
+						"line": "It's not like a dignitary's duty is too much for me or whatever. I'd look like a fool if it was. I'm just easygoing – don't you wanna be that too, Commander?"
+					},
+					{
+						"type": "feeling4",
+						"line": "Leading and protecting your friends is what's important, not petty etiquette or manners. I've known that since day one. Heck, I'm protecting you right now... Well, in my own way."
+					},
+					{
+						"type": "feeling5",
+						"line": "Can't you take it easy at least for today? You have all these supportive girls by your side – rely on them for once. Think of it like this: I'll never be able to fulfill my duty as a dignitary of protecting you if you're always working around the clock."
+					},
+					{
+						"type": "home",
+						"line": "Oh, you're back. Go ahead and take a seat. What for? The after-action review, obviously. Were you expecting something else?",
+						"oath": "Have a seat. I'll go get you a quick meal, so take the chance to get comfy before it's time for the review."
+					},
+					{
+						"type": "hp_warning",
+						"line": "Knock it off...!"
+					},
+					{
+						"type": "login",
+						"line": "Good morning, Commander. Phew... Sardegna's splendor is shining as brightly as ever today~",
+						"oath": "You know the drill – we must again strive to spread Sardegna's glory. Heehee."
+					},
+					{
+						"type": "lose",
+						"line": "Hmph, so you got us good this time. I'll be back."
+					},
+					{
+						"type": "mail",
+						"line": "A letter? Open and see what it says."
+					},
+					{
+						"type": "main",
+						"line": "My duties as a dignitary? Ehh, don't give a rat's ass about 'em. My sis and I are worlds apart in that regard.|If what you're doing isn't hugely important, just wing it. If you mess up, someone will come and fix it.|I usually go to tea parties with like-minded people. You interested, Commander?",
+						"extra": "How about a Sardegnian signature drink on your afternoon break? It'll reinvigorate you, I promise. Heehee.|Look, you can honestly just wing it if the task's not important. Didn't I tell you someone will fix any errors you make? Mainly me, your secretary.|Leander, put some extra sugar cubes in my tea if you don't mind. Commander, are you good with 8 for each of us?"
+					},
+					{
+						"type": "mission",
+						"line": "We've got new missions. Time to do what you signed up for."
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete... Which is to say, you've performed your duty as a dignitary."
+					},
+					{
+						"type": "profile",
+						"line": "I'm the final variant of a line of treaty cruisers... I think? Anyway, my time in the limelight was after the war rather than during it, for various reasons. You still wanna know more about me? Like what – my achievements, or the stats of my weaponry?"
+					},
+					{
+						"type": "propose",
+						"line": "I'm guessing you want me to look after you forever and ever? You got it. Simply always being there for you is a total breeze when you're Abruzzi's sister."
+					},
+					{
+						"type": "skill",
+						"line": "Here's what I can REALLY do!"
+					},
+					{
+						"type": "touch",
+						"line": "Obbedisco! Just tell me what you need.",
+						"oath": "Your bidding is my command and whatnot."
+					},
+					{
+						"type": "touch2",
+						"line": "Well, I'll be damned.",
+						"oath": "No way, you actually just touched me..."
+					},
+					{
+						"type": "unlock",
+						"line": "Is everyone doing well? Now, let's put our hands together for the port's latest arrival – light cruiser Giuseppe Garibaldi of Sardegna! ...Oh, Commander? I was just updating my shipgirl profile... And that does it! Who am I? Didn't you just hear me say Giuseppe Garibaldi?"
+					},
+					{
+						"type": "upgrade",
+						"line": "Pretty good. Nothing to complain about and much to love. Like my new firepower."
+					},
+					{
+						"type": "win_mvp",
+						"line": "I've won. My name is light cruiser Giuseppe Garibaldi. Easy to remember, right?"
+					}
+				]
+			},
+			{
+				"id": "602021",
+				"name": "Noble Ivory Plumes",
+				"voiceline": [
+					{
+						"type": "drop_descrip",
+						"line": "I am the evil swan Odile! Where oh where is my prince? ...Oh, it's you, Commander. My lines aside, pretty good performance, right?"
+					},
+					{
+						"type": "home",
+						"line": "Watching me dance ballet is fine and all, but I think it's time you do your after-action review. People are waiting, you know."
+					},
+					{
+						"type": "login",
+						"line": "It took getting through a storm to finally clock in, eh?"
+					},
+					{
+						"type": "main",
+						"line": "Both the white and black swan are meant to be played by the same person, right? Doesn't that make Roma and me rivals?|Da Vinci's the kind of girl who really gets into her role, unlike me. Good for her if she enjoys it. Me, I just can't do it.|Is Abruzzi watching me? Aw crap, then I'll have to do hardcore practice or she'll chew me out. She should play a role herself if it's so damn important..."
+					},
+					{
+						"type": "mission",
+						"line": "You've got new missions. Wonder if one of them is like, make a lovers' pact and you'll be rewarded, or something?"
+					},
+					{
+						"type": "mission_complete",
+						"line": "A dignitary never goes back on their promise. Mission complete."
+					},
+					{
+						"type": "touch",
+						"line": "Will you swear your love to me? Heehee~"
+					},
+					{
+						"type": "touch2",
+						"line": "It's no big deal, but something feels off about this..."
+					},
+					{
+						"type": "unlock",
+						"line": "I am the evil swan Odile! Where oh where is my prince? ...Oh, it's you, Commander. My lines aside, pretty good performance, right?"
 					}
 				]
 			}
@@ -53313,6 +53967,169 @@
 		]
 	},
 	{
+		"id": "558",
+		"gid": 60802,
+		"name": "Leonardo da Vinci",
+		"skins": [
+			{
+				"id": "608020",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "I've already worked out an angle of attack!",
+						"oath": "I've got a brilliant plan B, so do your worst!"
+					},
+					{
+						"type": "detail",
+						"line": "Behold, Commander! My latest invention – the mechanical spaghetti winder! It saves two minutes per serving, so assuming two servings a day, you save 1,460 minutes over a year! Hah-hah! Am I a genius or what?",
+						"oath": "I wanna thank you for always giving me input and listening to my rambling by inventing something that'll be of use to you~ Just tell me whatcha want♡"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Marconi-class submarine – Leonardo da Vinci."
+					},
+					{
+						"type": "expedition",
+						"line": "Commission rewards have arrived! With fresh materials come brand spanking new ideas~ Heheheh♪",
+						"oath": "Commission rewards are here. Let's check out what we got and see what new things we can come up with!"
+					},
+					{
+						"type": "feeling1",
+						"line": "I should probably build some sort of gadget that sounds an alarm when you're nearby..."
+					},
+					{
+						"type": "feeling2",
+						"line": "Now, Torricelli, behold my latest invention! ...Huh? Where'd she go? Don't tell me she went hiding in some dark corner again!"
+					},
+					{
+						"type": "feeling3",
+						"line": "Whenever I get a new idea, I sketch it down and store it in my satchel. I love keeping a physical record of all the inspiration I get!"
+					},
+					{
+						"type": "feeling4",
+						"line": "Are you free, Commander? Then have a look at this blueprint as well as this, this, and this and tell me whatcha think. Two heads are better than one, and I want your feedback!"
+					},
+					{
+						"type": "feeling5",
+						"line": "Commander! You free again? Like they say... Look below you for ideas, look around you for inspiration! Time: from dawn 'til dusk – place: every nook and cranny of the port! Heheh! I'm bound to come up with something new this way!",
+						"oath": "That pillow cover drying in the sun is of course the one with your darling da Vinci in a raunchy pose♡ ...You thought I was serious? So you're saying you WOULD own that... Guess I'll just have to make one♪"
+					},
+					{
+						"type": "home",
+						"line": "Awesome work out there! ...You're running on fumes, huh? Unfortunate. I'd give you half my energy if I could~",
+						"oath": "Good going on that sortie! Feeling beat, don'tcha? Let's fix those stiff shoulders with my massage-o-tron! Have a seat in my lap and just relax♪"
+					},
+					{
+						"type": "hp_warning",
+						"line": "Think, da Vinci! How will you get out of this pickle?!"
+					},
+					{
+						"type": "login",
+						"line": "Welcome back, Commander! Me? I've been here all morning. Heheh, stunned by my sheer vitality, aren't ya?",
+						"oath": "You're looking alive today, Commander! Heheh, must be thanks to my li'l works-like-charm alarm clock♪"
+					},
+					{
+						"type": "lose",
+						"line": "Crap, I goofed that one up..."
+					},
+					{
+						"type": "mail",
+						"line": "Got a letter for you! I brought it here at max speed♪"
+					},
+					{
+						"type": "main",
+						"line": "I've got an idea for an automatic seal stamper! You just put it on a ready document and it stamps it for you, saving both time and energy♪|Take a break? But I don't need one! I'm just fine. Besides, my brain fires on all pistons when I'm searching for inspiration♪|Whoa, my mind just birthed a fresh idea... Commander, let me borrow your pen! And your ruler and compass! Okay, it's something like this... *scribbles*|This little guy's my Autonomous Dive-Bombing Sneak-Attacker Minisub! Huh, you think that's too long? Then, uhh, let's go with Canguro! Make sure the two of you get along!",
+						"extra": "Not all ideas are feasible to materialize, but that's no reason not to try! As they say, the proof is in the pudding♪|Commander! I've got another brilliant new invention to... Darn, you're busy. I'll give it a show to Torricelli instead.|I may be a short sleeper, but you need your beauty sleep. I also know what it's like to be in the flow, which is all the more reason why you need to call it a day! Come on, it's time to go to bed, Commander!"
+					},
+					{
+						"type": "mission",
+						"line": "New missions, you say? Let me at 'em! I can do it all, from drafting to completion! ...What? It's a task only you can get done?",
+						"oath": "It's time to test out my machine that replicates your signature! ...No? Come on, there's no harm in automating that bit!"
+					},
+					{
+						"type": "mission_complete",
+						"line": "Mission complete! Surf the waves of accomplishment to the next challenge♪",
+						"oath": "Mission complete♪ You know what you get for shutting down my brilliant idea? A thorough tickling!"
+					},
+					{
+						"type": "profile",
+						"line": "I'm Leonardo da Vinci, the Marconi-class submarine who completed many patrol missions! My hobby is inventing fun things! Like this little lion – just push the button here and a flower pops out of it!"
+					},
+					{
+						"type": "propose",
+						"line": "What you're saying with this is that you love me, correct? It goes without saying that I love you too♪ On another note, looking at this shiny ring is giving me an idea... Namely, a ring that literally glows! Let's make one, Commander!"
+					},
+					{
+						"type": "skill",
+						"line": "Let's see how you like THIS!"
+					},
+					{
+						"type": "touch",
+						"line": "I see there's a blueprint here! Time to see whether it can be built or not, Commander!",
+						"oath": "You got an idea outta the blue? Quick, here's a pen and paper – write it down before you forget it!"
+					},
+					{
+						"type": "touch2",
+						"line": "Whuh?! Wh-where do you think you're touching?",
+						"oath": "Heheh, I knew you were being too modest up to now♪"
+					},
+					{
+						"type": "unlock",
+						"line": "Heya, Commander. I'm the Sardegnian submarine Leonardo da Vinci, but you can just call me da Vinci. Now that I'm finally here at the port, I hope every new day is a wellspring of inspiration!"
+					},
+					{
+						"type": "upgrade",
+						"line": "Mhm! I'm getting all sorts of new ideas here♪"
+					},
+					{
+						"type": "win_mvp",
+						"line": "Talk about a cakewalk! Well then, my search for inspiration continues♪",
+						"oath": "We won, Commander♡ Heck yeah, that look of surprise is just what I wanted to see~"
+					}
+				]
+			},
+			{
+				"id": "608021",
+				"name": "Riverside Pirouette",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "If ballet and invention have anything in common, it's that they both take inspiration from animals. So, dancing among animals is a great way to get new ideas♪"
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Here to watch me rehearse just like these deer, Commander? Isn't it wonderful being surrounded by the beauty of nature? For a performance based on a fable such as this one, ambiance is key. Ehehe~♪"
+					},
+					{
+						"type": "home",
+						"line": "Hey, I rehearsed a bit while you were out! Though I'm still nowhere near Roma's level."
+					},
+					{
+						"type": "login",
+						"line": "Dancing among the beautiful flora and fauna makes me feel like I'm becoming one with nature."
+					},
+					{
+						"type": "main",
+						"line": "If only there was a device that could accurately translate the cries of these deer... Guess I have to invent one myself, eh?|Do you reckon I could fly with these wings if I scaled them up? Imagine the midair dances I could do. They'd be stunning!|Watch closely, Commander! Here comes my grand fouetté en tournant♪ Wheee... Oh god, that made me dizzy... Th-that was kinda overkill..."
+					},
+					{
+						"type": "touch",
+						"line": "Ballet's actually not hard. Come on, just take it slow and repeat after me~"
+					},
+					{
+						"type": "touch2",
+						"line": "D-d-d-don't sneak up on me like that!"
+					},
+					{
+						"type": "unlock",
+						"line": "Here to watch me rehearse just like these deer, Commander? Isn't it wonderful being surrounded by the beauty of nature? For a performance based on a fable such as this one, ambiance is key. Ehehe~♪"
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "073",
 		"gid": 10702,
 		"name": "Lexington",
@@ -74472,6 +75289,188 @@
 		]
 	},
 	{
+		"id": "561",
+		"gid": 60503,
+		"name": "Roma",
+		"skins": [
+			{
+				"id": "605030",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Be crushed by Roma's exalted light!"
+					},
+					{
+						"type": "detail",
+						"line": "Veneto's idea of a thermae party is one that I adore. When people strip naked, they unconsciously lower their guards and let their secrets slip. Furthermore, bathing itself is quite enjoyable.",
+						"oath": "I'm quite weary myself, so I propose we hold our conversation in the thermae. Hm? Is something the matter? Yes, I am asking you to join me."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "Vittorio Veneto-class battleship – Roma."
+					},
+					{
+						"type": "expedition",
+						"line": "Commission rewards have arrived. Splendid. We need these for our next plan.",
+						"oath": "The commission team has returned. Oh, I shall accompany you? I assume you want me to discipline the slackers among– Ah, nothing of the sort. I see."
+					},
+					{
+						"type": "feeling1",
+						"line": "Beacon of Incompetence, the Loathsome One, or the Savage Brute – which title do you feel suits you best, Commander?"
+					},
+					{
+						"type": "feeling2",
+						"line": "Are you apprehensive of me? Good. I do not get along with frivolous people who act unnecessarily friendly around others."
+					},
+					{
+						"type": "feeling3",
+						"line": "Commander, which do you find more gratifying – conquering land, or conquering hearts and minds? ...Both, about as much? I see you're an insatiable soul."
+					},
+					{
+						"type": "feeling4",
+						"line": "Why did you intervene when I took wares from the store earlier? ...It's against the store's rules? Hmph, is the purpose of great power not to rewrite the rules?"
+					},
+					{
+						"type": "feeling5",
+						"line": "How tragic it would be to conquer a world and have no one to share it with. Commander, should I meet an unfortunate fate, it shall be you who inherits Roma's splendor."
+					},
+					{
+						"type": "headtouch",
+						"line": "Do you wish to obtain my blessings, Commander?"
+					},
+					{
+						"type": "home",
+						"line": "Now is a good time to assess which place to conquer next.",
+						"oath": "Congratulations on your triumph, Commander. I've determined our next destination. Let us march onward."
+					},
+					{
+						"type": "hp_warning",
+						"line": "Where is my legion?!"
+					},
+					{
+						"type": "login",
+						"line": "The clock is ticking, Commander.",
+						"oath": "Now that you're here, let us begin today's tasks."
+					},
+					{
+						"type": "lose",
+						"line": "Commander, I'm afraid I need more legionaries."
+					},
+					{
+						"type": "mail",
+						"line": "A new letter? Perhaps it is a declaration of surrender from afar."
+					},
+					{
+						"type": "main",
+						"line": "Have you ever gazed out from the port's highest vantage point? If not, I suggest you try it sometime.|Negotiate with the enemy? I'd rather not waste my time. However, I can gladly draft a declaration of war if you so wish.|I do not fear danger, because I am more fearsome than danger itself. Hah!",
+						"extra": "You need some fresh air? Allow me to assist. I can punch a hole through this window with my– Oh, I suppose I'll open it like normal.|When my ambition is one day realized, I shall engrave your name upon my laurel crown. Come that day, I want you present to see this moment with your own eyes."
+					},
+					{
+						"type": "mission",
+						"line": "Mission instructions, you say? I do not appreciate having orders imposed upon me."
+					},
+					{
+						"type": "mission_complete",
+						"line": "You've completed a mission? It may be time to grant you the title of \"Fulfiller of Duties.\""
+					},
+					{
+						"type": "profile",
+						"line": "I am battleship Roma. Sadly, I did not get to enlighten the world with my splendor during the war. You've given me a second chance, and for that, I'm in your debt. A favor to me is a favor to Roma, and Roma always repays her allies."
+					},
+					{
+						"type": "propose",
+						"line": "You and I are now as one, bound together unto eternity. In other words, defiance against you is defiance against me... Be a little more considerate of others, you say? Very well. If that's what you wish... then I shall try."
+					},
+					{
+						"type": "skill",
+						"line": "I shall liberate you from the toils of war."
+					},
+					{
+						"type": "touch",
+						"line": "What do you seek from Roma? Come, offer your tribute.",
+						"oath": "Kindly make your request to Roma. You need not offer tribute on this occasion."
+					},
+					{
+						"type": "touch2",
+						"line": "You needn't be shy to admit whether or not Roma has conquered your heart, Commander. I already know the answer.",
+						"oath": "How very bold of you... You're becoming more and more like Romulus."
+					},
+					{
+						"type": "unlock",
+						"line": "I am Roma, the inheritor of Romulus' will. Commander, Protector of the Seas, Guider of the Port, Leader of Our People – how would you like me to address you?"
+					},
+					{
+						"type": "upgrade",
+						"line": "The key to defeating a strong enemy is to be even stronger."
+					},
+					{
+						"type": "win_mvp",
+						"line": "But of course. The foundation of my glory is built upon those who stood in my way."
+					}
+				]
+			},
+			{
+				"id": "605031",
+				"name": "White Heron of Darkest Night",
+				"voiceline": [
+					{
+						"type": "detail",
+						"line": "A bath is a great way to wash off the fatigue of dancing. I say that not just for myself, but for both of us."
+					},
+					{
+						"type": "drop_descrip",
+						"line": "You seem to have known that I would be here. Then stay and spend the night with me. Just the two of us."
+					},
+					{
+						"type": "expedition",
+						"line": "New commission rewards have just arrived."
+					},
+					{
+						"type": "home",
+						"line": "I told you to stay here, didn't I? To make up for leaving, you shall spend twice as long rehearsing a pas de deux with me."
+					},
+					{
+						"type": "login",
+						"line": "Our march fades into the blackness on nights with dim moonlight. That is likely the reason I why couldn't detect your presence here."
+					},
+					{
+						"type": "lose",
+						"line": "Hmph... The flames of war have sullied my gorgeous tutu."
+					},
+					{
+						"type": "mail",
+						"line": "You have a new letter. I believe it's a ballet invitation. Shall we attend, or are you too busy? I shall dispose of it if so."
+					},
+					{
+						"type": "main",
+						"line": "You wish to see me perform on the stage? I'd be happy to if it would spread Romulus' splendor... However, I ask that you be patient until I've perfected my dance.|While the cursed princess-turned-swan can only reassume her human form at midnight, I can dance whenever I please.|Garibaldi, despite the nonchalance she ordinarily displays, plays the black swan quite well. I sincerely acknowledge her skill."
+					},
+					{
+						"type": "mission",
+						"line": "New missions? I'm afraid now is not the right time for those."
+					},
+					{
+						"type": "mission_complete",
+						"line": "A mission has been completed. Strange, as I could've sworn you've been here from the start... Are you able to clone yourself? Heehee."
+					},
+					{
+						"type": "touch",
+						"line": "This is what a pas de deux is like? How novel."
+					},
+					{
+						"type": "unlock",
+						"line": "You seem to have known that I would be here. Then stay and spend the night with me. Just the two of us."
+					},
+					{
+						"type": "win_mvp",
+						"line": "Nobody is allowed to disturb the peace tonight."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "Plan005",
 		"gid": 49901,
 		"name": "Roon",
@@ -87306,6 +88305,115 @@
 					{
 						"type": "unlock",
 						"line": "The summer's scorching heat is alleviated by the ocean~ Commander, why don't you set aside your worries and... cut loose a bit~?"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "30013",
+		"gid": 970301,
+		"name": "Trento META",
+		"skins": [
+			{
+				"id": "9703010",
+				"name": "Default",
+				"voiceline": [
+					{
+						"type": "battle",
+						"line": "Mgh... I can't afford to get distracted, not now...!"
+					},
+					{
+						"type": "detail",
+						"line": "Being with you puts my mind at ease. It scares off all the awful visions that haunt me... You have a strangely potent aura, Commander..."
+					},
+					{
+						"type": "expedition",
+						"line": "A commission has been completed. Shall we go thank the brave team that did it?"
+					},
+					{
+						"type": "feeling1",
+						"line": "This place, too, gives me anxiety..."
+					},
+					{
+						"type": "feeling2",
+						"line": "You think I look ill? Ahah, I'm fine. I just had a somewhat unpleasant dream..."
+					},
+					{
+						"type": "feeling3",
+						"line": "Have you ever experienced reoccurring nightmares, Commander? How did you get rid of... Ah, no, you don't have to tell me if you don't want to..."
+					},
+					{
+						"type": "feeling4",
+						"line": "Is there anything in your life you want to change? You can tell me anything... Oh, you're more concerned with me? Heehee, please don't be. I feel much better than I used to, and it's all because you're doing so well, Commander."
+					},
+					{
+						"type": "feeling5",
+						"line": "I had a wonderful dream. It was a peaceful day, and everyone including you had gathered to enjoy my cooking... Heehee, thinking about it now, you've pretty much already made that dream a reality. Say \"ahh,\" Commander. I'm going to feed you~"
+					},
+					{
+						"type": "home",
+						"line": "Nngh! Ugh... Another awful vision... Oh, don't worry about me~ I just lost my bearings for a moment, that's all. Anyway, would you like a meal to replenish your strength?"
+					},
+					{
+						"type": "hp_warning",
+						"line": "It's n-not over just yet...!"
+					},
+					{
+						"type": "login",
+						"line": "I'm relieved that you're right on time. Do you want to review today's schedule before we start working?"
+					},
+					{
+						"type": "lose",
+						"line": "It's time to fall back. We cannot be eliminated so easily."
+					},
+					{
+						"type": "mail",
+						"line": "You have a new letter. Make sure you save it if it's something important."
+					},
+					{
+						"type": "main",
+						"line": "Our minds tend to wander when we're bored, don't they? Confusingly, it can be easier to focus when you have something to do.|Hesitation can mean death for those who make decisions. Still, the fact remains that we're all tied down by our own emotions.|Are you tired? Ah, then please hold on just a minute. I'll make you something quick to eat."
+					},
+					{
+						"type": "mission",
+						"line": "We have new missions. Keep at it, Commander. I'll assist you."
+					},
+					{
+						"type": "mission_complete",
+						"line": "A mission has been completed. Way... Way to go, Commander~"
+					},
+					{
+						"type": "profile",
+						"line": "I'm heavy cruiser Trento. Please task me with whatever you may need, be it on the frontlines or backlines. Why am I here, you ask? Because I'm a shipgirl whose job it is to assist you, of course."
+					},
+					{
+						"type": "propose",
+						"line": "I thought it was all an extravagant pipe dream, yet it became reality... This is --- Commander, whenever you have a bad dream, come to me and I will sing a soft lullaby for you~"
+					},
+					{
+						"type": "skill",
+						"line": "Focus on the battle!"
+					},
+					{
+						"type": "touch",
+						"line": "You want a hug? Um... There? Ah, sorry, I squeezed too tight..."
+					},
+					{
+						"type": "touch2",
+						"line": "Heehee. I'll indulge you just a teensy bit."
+					},
+					{
+						"type": "unlock",
+						"line": "I am heavy cruiser Trento, and I will be your assistant. The best thing I could ask for is that my support helps you achieve your goals."
+					},
+					{
+						"type": "upgrade",
+						"line": "May this new power serve you and all our friends..."
+					},
+					{
+						"type": "win_mvp",
+						"line": "Victory... belongs to us!"
 					}
 				]
 			}

@@ -3588,6 +3588,198 @@
 		}
 	},
 	{
+		"id": "562",
+		"name": "Alfredo Oriani",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		}
+	},
+	{
 		"id": "455",
 		"name": "Algérie",
 		"break_1": {
@@ -12794,6 +12986,158 @@
 					"id": 14,
 					"category": "Anti-Submarine Equipment",
 					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		}
+	},
+	{
+		"id": "560",
+		"name": "Bolzano",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
 				}
 			]
 		}
@@ -24768,6 +25112,198 @@
 		}
 	},
 	{
+		"id": "563",
+		"name": "Emanuele Pessagno",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		}
+	},
+	{
 		"id": "547",
 		"name": "Emden",
 		"break_1": {
@@ -30103,6 +30639,198 @@
 					"id": 10,
 					"category": "Auxiliary",
 					"type": "Auxiliary"
+				}
+			]
+		}
+	},
+	{
+		"id": "559",
+		"name": "Giuseppe Garibaldi",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				},
+				{
+					"id": 14,
+					"category": "Anti-Submarine Equipment",
+					"type": "Depth Charge/Sonar/Auxiliary"
 				}
 			]
 		}
@@ -55902,6 +56630,158 @@
 		}
 	},
 	{
+		"id": "558",
+		"name": "Leonardo da Vinci",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 13,
+					"category": "Submarine Torpedoes",
+					"type": "Submarine Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		}
+	},
+	{
 		"id": "073",
 		"name": "Lexington",
 		"break_1": {
@@ -78654,6 +79534,178 @@
 		}
 	},
 	{
+		"id": "561",
+		"name": "Roma",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 4,
+					"category": "Battleship Guns",
+					"type": "BB Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				},
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 4,
+					"category": "Battleship Guns",
+					"type": "BB Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				},
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 4,
+					"category": "Battleship Guns",
+					"type": "BB Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				},
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 4,
+					"category": "Battleship Guns",
+					"type": "BB Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 1,
+					"category": "Destroyer Guns",
+					"type": "DD Gun"
+				},
+				{
+					"id": 2,
+					"category": "Light Cruiser Guns",
+					"type": "CL Gun"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		}
+	},
+	{
 		"id": "Plan005",
 		"name": "Roon",
 		"break_1": {
@@ -91896,6 +92948,158 @@
 	{
 		"id": "414",
 		"name": "Trento",
+		"break_1": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_2": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_3": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		},
+		"break_4": {
+			"equip_1": [
+				{
+					"id": 3,
+					"category": "Heavy Cruiser Guns",
+					"type": "CA Gun"
+				}
+			],
+			"equip_2": [
+				{
+					"id": 5,
+					"category": "Ship Torpedoes",
+					"type": "Torpedo"
+				}
+			],
+			"equip_3": [
+				{
+					"id": 6,
+					"category": "Anti-Air Guns",
+					"type": "AA Gun"
+				}
+			],
+			"equip_4": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			],
+			"equip_5": [
+				{
+					"id": 10,
+					"category": "Auxiliary",
+					"type": "Auxiliary"
+				}
+			]
+		}
+	},
+	{
+		"id": "30013",
+		"name": "Trento META",
 		"break_1": {
 			"equip_1": [
 				{
